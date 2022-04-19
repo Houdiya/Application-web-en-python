@@ -1,0 +1,58 @@
+127.0.0.1	localhost
+127.0.1.1	houdiya-HP-EliteBook-840-G4
+#GAIA
+127.0.0.1       GAIAAD
+127.0.1.1       GAIATD
+127.0.2.0       GAIAPro
+127.0.3.0       GAIA
+#SMART
+127.0.4.0       SMARTAM
+127.0.5.0       SMARTAC
+127.0.6.0       SMARTDA
+127.0.7.0       SMART
+#U2000
+127.0.8.0       Hinternet
+127.0.18.0       HVOIP
+127.0.10.0       HTV
+127.0.11.0       HMigration
+127.0.12.0       HCasserConf
+127.0.13.0       HPort
+127.0.14.0       U2000
+#AMS
+127.0.15.0       NInternet
+127.0.16.0       NVOIP
+127.0.17.0       NTV
+127.0.18.0       NMigration
+127.0.19.0       NCasser
+127.0.20.0       ONT
+127.0.21.0       NPort
+127.0.22.0       NCarte
+127.0.23.0       AMS
+#RIGHTV
+127.0.24.0       Bouquet
+127.0.25.0       AugFlux
+127.0.26.0       RIGHTV 
+#SPG
+127.0.27.0       Compte
+127.0.28.0       SPG
+#Auth
+127.0.29.0       Connexion
+127.0.30.0       CreateLogin
+127.0.31.0       Deconnexion
+127.0.32.0       USER
+#site
+127.0.1.0       site
+127.0.33.0      sitet
+#Proxy
+127.0.34.0	son
+127.0.35.0      SiteAccueil
+#API Node JS
+127.0.36.0       supprimer
+127.0.35.0      wordpress
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
