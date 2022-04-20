@@ -1,0 +1,28 @@
+<?php
+        $NumDemande = $_POST['Numero_Demande'];
+        $ND = $_POST['ND_Client'];
+        $curl = curl_init();
+        curl_setopt($curl, CURLOPT_URL, "http://localhost:5000/api/v1.0/GAIA/Provisoning/$NumDemande/$ND/");
+        curl_setopt($curl, CURLOPT_POST,true);
+        curl_setopt($curl, CURLOPT_POSTFIELDS, $_REQUEST);
+        curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+        $resp = curl_exec($curl);
+        if ($e=curl_errno($ch)) {
+                echo curl_error($ch);
+	       //curl_close($curl);
+
+        }
+        else{
+                //echo $resp;
+		//echo "OK"
+		//curl_close($curl);
+		//sleep(5);
+		header("Location:accueil.html");
+                //curl_close($curl);
+                echo $resp;
+
+        } 
+       curl_close($curl);
+
+?>
+

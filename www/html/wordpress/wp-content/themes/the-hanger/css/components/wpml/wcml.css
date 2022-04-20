@@ -1,0 +1,14 @@
+.wcml_currency_switcher.wcml-vertical-list ul li {
+  margin: 0; }
+
+.wcml-dropdown-click,
+.wcml-dropdown {
+  width: 100%;
+  max-width: 100%; }
+  .wcml-dropdown-click ul li,
+  .wcml-dropdown ul li {
+    border: 0;
+    background: transparent; }
+    .wcml-dropdown-click ul li:hover,
+    .wcml-dropdown ul li:hover {
+      background: transparent; }

@@ -1,0 +1,8 @@
+.woocommerce-breadcrumb {
+  text-align: left;
+  font-size: rem-calc(11);
+  margin-bottom: rem-calc(20); }
+  .woocommerce-breadcrumb .delimiter {
+    margin: 0 rem-calc(4); }
+
+/*# sourceMappingURL=_breadcrumbs.css.map */

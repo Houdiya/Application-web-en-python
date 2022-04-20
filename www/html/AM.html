@@ -1,0 +1,32 @@
+<html>
+    <head>
+       <meta charset="utf-8">
+        <!-- importer le fichier de style -->
+        <link rel="stylesheet" href="style.css" media="screen" type="text/css" $
+    </head>
+    <body>
+        <div id="container">
+            <!-- zone de connexion -->
+
+             <form method="POST" action="AM.php">
+                <h1>Recupération</h1><br><br>
+
+                <label><b>Numero de Serie</b></label><br>
+                <input type="text" name="NumSerie" required>
+
+                <label><b>Numero du client</b></label>
+                <input type="text" name="ND_Client" required><br><br>
+
+                <label><b>Sous Type</b></label>
+                <input type="text" name="SousType" required><br><br>
+
+                <label><b>Type OLT</b></label>
+                <input type="text" name="TypeOlt" required><br><br>
+
+                <input type="submit" id='submit' value='VALIDER' >
+            </form>
+
+        </div>
+    </body>
+</html>
+

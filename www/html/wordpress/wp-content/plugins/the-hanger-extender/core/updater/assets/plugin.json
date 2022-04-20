@@ -1,0 +1,28 @@
+{
+	"name": "The Hanger Extender",
+	"version": "1.7.3",
+	"download_url": "https://github.com/getbowtied/the-hanger-extender/zipball/master",
+
+	"homepage": "https://themeforest.net/item/the-hanger-modern-classic-woocommerce-theme/21753302",
+	"requires": "5.0",
+	"tested": "5.8.1",
+	"last_updated": "2021-10-20 09:00:00",
+
+	"author": "GetBowtied",
+	"author_homepage": "https://getbowtied.com/",
+
+	"sections": {
+		"description": "<p>Companion plugin for the <b>The Hanger</b> theme. Extends the functionality by adding theme specific features.</p><h4>Gutenberg Blocks:</h4><ul><li>Image Slider</li><li>Blog Posts</li><li>Social Media Profiles</li></ul><h4>WPBakery Page Builder Elements:</h4><ul><li>Slider</li><li>Blog Posts</li><li>Custom Button</li></ul><h4>Widgets:</h4><ul><li>eCommerce Info</li><li>Product Categories with Icon</li></ul><h4>Features:</h4><ul><li>Adds 'Social Media' section in Customizer for easy management of links to social media profiles</li><li>Adds social sharing options for the product page and blog post</li><li>Display recently purchased products in My Account / Dashboard</li><li>Adds header image and icon options for WooCommerce product categories</li></ul>",
+		"changelog": "<h4>1.7.3</h4><ul><li>WordPress 5.8.1 compatibility updates</li></ul><h4>1.7.2</h4><ul><li>WordPress 5.8 compatibility updates</li></ul><h4>1.7.1</h4><ul><li>Small maintenance updates</li></ul><h4>1.7.0</h4><ul><li>Small maintenance updates</li></ul><h4>1.6.9</h4><ul><li>Fixed: Product category icon picker issue</li><li>Maintenance: Fixed a few jQuery deprecated features warnings</li></ul><h4>1.6.8</h4><ul><li>Maintenance: Updated Swiper library to its latest version</li></ul><h4>1.6.7</h4><ul><li>WordPress 5.5 compatibility updates</li></ul><h4>1.6.6</h4><ul><li>New: Option to show/hide product's social sharing buttons</li><li>New: Social Media Customizer Control that allows for custom Icons and Social Profile links</li><li>Fixed: eCommerce Info Widget customizer warnings</li></ul><h4>1.6.5</h4><ul><li>Small maintenance updates</li></ul><h4>1.6.4</h4><ul><li>Added 'alt' attribute to Product Category Header's image</li></ul><h4>1.6.3</h4><ul><li>Fixed: Product categories with icon widget - error when icons are disabled</li><li>WordPress 5.3.1 compatibility updates</li></ul><h4>1.6.2</h4><ul><li>WordPress 5.3 compatibility updates</li></ul><h4>1.6.1</h4><ul><li>Fixed: Social Sharing buttons display issue on smaller screens</li></ul><h4>1.6.0</h4><ul><li>WordPress 5.3 compatibility updates</li><li>Slider block style adjustments</li></ul><h4>1.5.9</h4><ul><li>WPBakery Page Builder: Added Slider element font size options</li><li>Blocks: Added Slider block font size options</li></ul><h4>1.5.8</h4><ul><li>Small maintenance updates</li></ul><h4>1.5.7</h4><ul><li>Adds: the 'Social Media' section in Customizer allowing for easy management of links to social media profiles. The icons can be turned on/off in the Top Bar or displayed in pages using the Gutenberg Block (functionality transferred from the theme)</li><li>Adds: Upload header images and icons for WooCommerce product categories (functionality transferred from the theme)</li></ul><h4>1.5.6</h4><ul><li>Adds: Theme-specific custom widgets: eCommerce Info and Product Categories with Icon</li></ul><h4>1.5.5</h4><ul><li>Fixed: PHP 7.3 compatibility updates</li></ul><h4>1.5.4</h4><ul><li>Fixed: Localization issues</li></ul><h4>1.5.3</h4><ul><li>WordPress 5.1 compatibility improvements</li></ul><h4>1.5.2</h4><ul><li>Various bug fixes</li></ul><h4>1.5.1</h4><ul><li>Fixed: Columns Block displaying issue</li><li>Fixed: Yoast SEO compatibiity issue</li></ul><h4>1.5</h4><ul><li>WordPress 5+ compatibility improvements</li><li>Improved styles for theme neutrality</li><li>Localization issues with the Posts Grid Block</li></ul><h4>1.4</h4><ul><li>WordPress 5+ compatibility improvements</li></ul><h4>1.3</h4><ul><li>Gutenberg Slider Block Fixes</li></ul><h4>1.2</h4><ul><li>Gutenberg Compatibility</li><li>Gutenberg Custom Blocks: Slider, Latest Posts Grid, Social Media Profiles</li></ul><h4>1.1</h4><ul><li>Various Fixes</li></ul><h4>1.0</h4><ul><li>Initial Version</li></ul>"
+	},
+
+	"icons" : {
+		"1x" : "https://raw.githubusercontent.com/getbowtied/the-hanger-extender/master/core/updater/assets/images/thehanger-extender-128x128.png",
+		"2x" : "https://raw.githubusercontent.com/getbowtied/the-hanger-extender/master/core/updater/assets/images/thehanger-extender-256x256.png"
+    },
+
+	"banners": {
+		"low": "https://raw.githubusercontent.com/getbowtied/the-hanger-extender/master/core/updater/assets/images/thehanger-banner-772x250.png",
+		"high": "https://raw.githubusercontent.com/getbowtied/the-hanger-extender/master/core/updater/assets/images/thehanger-banner-1544x500.png"
+	}
+}

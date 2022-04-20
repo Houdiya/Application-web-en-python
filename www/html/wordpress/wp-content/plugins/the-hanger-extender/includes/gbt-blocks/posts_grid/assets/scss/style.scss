@@ -1,0 +1,136 @@
+.gbt_18_th_posts_grid
+{
+	&.alignfull {
+		.gbt_18_th_blog_posts {
+			margin-left: 0.75rem;
+			margin-right: 0.75rem;
+		}
+	}
+
+	.gbt_18_th_blog_posts
+	{
+		position: relative;
+	  	overflow: hidden;
+	  	margin-left: -15px;
+		margin-right: -15px;
+
+		&.columns-2 {
+
+			.gbt_18_tr_posts_grid_item {
+
+				@media all and (min-width: 640px) {
+					width: 50%;
+					float: left;
+
+					&:nth-child(2n+1) {
+						clear: both;
+					}
+				}
+
+				@media all and (max-width: 639px) {
+					width: 100%;
+					float: left;
+				}
+			}
+		}
+
+		&.columns-3 {
+
+			.gbt_18_tr_posts_grid_item {
+
+				@media all and (min-width: 1024px) {
+					width: 33.333333%;
+					float: left;
+
+					&:nth-child(3n+1) {
+						clear: both;
+					}
+				}
+
+				@media all and (min-width: 640px) and (max-width: 1023px) {
+					width: 50%;
+					float: left;
+
+					&:nth-child(2n+1) {
+						clear: both;
+					}
+				}
+
+				@media all and (max-width: 639px) {
+					width: 100%;
+					float: left;
+				}
+			}
+		}
+
+		&.columns-4 {
+
+			.gbt_18_tr_posts_grid_item {
+
+				@media all and (min-width: 1240px) {
+					width: 25%;
+					float: left;
+
+					&:nth-child(4n+1) {
+						clear: both;
+					}
+				}
+
+				@media all and (min-width: 1024px) and (max-width: 1239px) {
+					width: 33.333333%;
+					float: left;
+
+					&:nth-child(3n+1) {
+						clear: both;
+					}
+				}
+
+				@media all and (min-width: 640px) and (max-width: 1023px) {
+					width: 50%;
+					float: left;
+
+					&:nth-child(2n+1) {
+						clear: both;
+					}
+				}
+
+				@media all and (max-width: 639px) {
+					width: 100%;
+					float: left;
+				}
+			}
+		}
+
+		.gbt_18_th_posts_grid_img {
+			background-size: cover;
+		    display: block;
+		    overflow: hidden;
+		    position: relative;
+		    padding-bottom: 100%;
+		    width: 100%;
+	        margin-bottom: 1.5rem;
+	        transition: transform .3s ease-in-out;
+
+	        &:hover {
+        	    transform: scale3d(0.98, 0.98, 0.98);
+        	    transition: transform .3s ease-in-out;
+	        }
+		}
+
+		.gbt_18_tr_posts_grid_item {
+			display: block;
+			padding: 0 0.75rem;
+		    margin-bottom: 1rem;
+
+			.gbt_18_th_blog_post_meta {
+				margin-bottom: 0.75rem;
+			}
+
+			.gbt_18_th_blog_post_title {
+			    margin-top: 0;
+	    		margin-bottom: 1.25rem;
+	    		padding-top: 0;
+	    	}
+		}
+	}
+}

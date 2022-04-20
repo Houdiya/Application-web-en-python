@@ -1,0 +1,339 @@
+# Copyright (C) 2018 the-hanger-extender
+# This file is distributed under the same license as the the-hanger-extender package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Hanger Extender\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;i18n;i18n.__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core/updater/Puc/v4p6/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: core/updater/Puc/v4p6/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: core/updater/Puc/v4p6/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr ""
+
+#: core/updater/Puc/v4p6/Plugin/Ui.php:213
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: core/updater/Puc/v4p6/Plugin/Ui.php:215
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: core/updater/Puc/v4p6/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: core/updater/Puc/v4p6/Plugin/Ui.php:223
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: core/updater/Puc/v4p6/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#: includes/addons/woocommerce-category-header.php:11
+#: includes/addons/woocommerce-category-header.php:98
+#: includes/addons/woocommerce-category-header.php:195
+msgid "Header"
+msgstr ""
+
+#: includes/addons/woocommerce-category-header.php:15
+#: includes/addons/woocommerce-category-header.php:103
+#: includes/addons/woocommerce-category-icon/woocommerce-category-icon-img.php:15
+#: includes/addons/woocommerce-category-icon/woocommerce-category-icon-img.php:103
+msgid "Upload/Add image"
+msgstr ""
+
+#: includes/addons/woocommerce-category-header.php:16
+#: includes/addons/woocommerce-category-header.php:104
+#: includes/addons/woocommerce-category-icon/woocommerce-category-icon-img.php:16
+#: includes/addons/woocommerce-category-icon/woocommerce-category-icon-img.php:104
+msgid "Remove image"
+msgstr ""
+
+#: includes/addons/woocommerce-category-header.php:40
+#: includes/addons/woocommerce-category-header.php:130
+#: includes/addons/woocommerce-category-icon/woocommerce-category-icon-img.php:40
+#: includes/addons/woocommerce-category-icon/woocommerce-category-icon-img.php:130
+msgid "Choose an image"
+msgstr ""
+
+#: includes/addons/woocommerce-category-header.php:42
+#: includes/addons/woocommerce-category-header.php:132
+#: includes/addons/woocommerce-category-icon/woocommerce-category-icon-img.php:42
+#: includes/addons/woocommerce-category-icon/woocommerce-category-icon-img.php:132
+msgid "Use image"
+msgstr ""
+
+#: includes/addons/woocommerce-category-icon/woocommerce-category-icon-ico.php:12
+#: includes/addons/woocommerce-category-icon/woocommerce-category-icon-ico.php:36
+#: includes/addons/woocommerce-category-icon/woocommerce-category-icon-ico.php:76
+#: includes/addons/woocommerce-category-icon/woocommerce-category-icon-img.php:11
+#: includes/addons/woocommerce-category-icon/woocommerce-category-icon-img.php:98
+#: includes/addons/woocommerce-category-icon/woocommerce-category-icon-switcher.php:117
+msgid "Icon"
+msgstr ""
+
+#: includes/addons/woocommerce-category-icon/woocommerce-category-icon-img.php:195
+msgid "Icon Img"
+msgstr ""
+
+#: includes/addons/woocommerce-category-icon/woocommerce-category-icon-switcher.php:12
+#: includes/addons/woocommerce-category-icon/woocommerce-category-icon-switcher.php:53
+msgid "Icon Type"
+msgstr ""
+
+#: includes/addons/woocommerce-category-icon/woocommerce-category-icon-switcher.php:14
+#: includes/addons/woocommerce-category-icon/woocommerce-category-icon-switcher.php:59
+msgid "Theme Default"
+msgstr ""
+
+#: includes/addons/woocommerce-category-icon/woocommerce-category-icon-switcher.php:15
+#: includes/addons/woocommerce-category-icon/woocommerce-category-icon-switcher.php:60
+msgid "Custom Icon"
+msgstr ""
+
+#: includes/gbt-blocks/posts_grid/block.js:22
+msgid "Posts Grid"
+msgstr ""
+
+#: includes/gbt-blocks/posts_grid/block.js:187
+msgid "Update"
+msgstr ""
+
+#: includes/gbt-blocks/posts_grid/block.js:189
+msgid "Updating"
+msgstr ""
+
+#: includes/gbt-blocks/posts_grid/block.js:391
+msgid "Categories:"
+msgstr ""
+
+#: includes/gbt-blocks/posts_grid/block.js:406
+msgid "Alphabetical Ascending"
+msgstr ""
+
+#: includes/gbt-blocks/posts_grid/block.js:407
+msgid "Alphabetical Descending"
+msgstr ""
+
+#: includes/gbt-blocks/posts_grid/block.js:408
+msgid "Date Ascending"
+msgstr ""
+
+#: includes/gbt-blocks/posts_grid/block.js:409
+msgid "Date Descending"
+msgstr ""
+
+#: includes/gbt-blocks/posts_grid/block.js:411
+msgid "Order By"
+msgstr ""
+
+#: includes/gbt-blocks/posts_grid/block.js:430
+msgid "Number of Posts"
+msgstr ""
+
+#: includes/gbt-blocks/posts_grid/block.js:461
+msgid "Columns"
+msgstr ""
+
+#: includes/gbt-blocks/slider/blocks/slide.js:30
+msgid "Slide"
+msgstr ""
+
+#: includes/gbt-blocks/slider/blocks/slide.js:108
+msgid "Link"
+msgstr ""
+
+#: includes/gbt-blocks/slider/blocks/slide.js:121
+msgid "Slide Button"
+msgstr ""
+
+#: includes/gbt-blocks/slider/blocks/slide.js:133
+#: includes/gbt-blocks/slider/blocks/slider.js:208
+msgid "Colors"
+msgstr ""
+
+#: includes/gbt-blocks/slider/blocks/slide.js:136
+msgid "Text Color"
+msgstr ""
+
+#: includes/gbt-blocks/slider/blocks/slide.js:143
+msgid "Slide Background"
+msgstr ""
+
+#: includes/gbt-blocks/slider/blocks/slide.js:182
+msgid "Add Image"
+msgstr ""
+
+#: includes/gbt-blocks/slider/blocks/slide.js:198
+msgid "Remove Image"
+msgstr ""
+
+#: includes/gbt-blocks/slider/blocks/slide.js:266
+msgid "Add Title"
+msgstr ""
+
+#: includes/gbt-blocks/slider/blocks/slide.js:292
+msgid "Add Subtitle"
+msgstr ""
+
+#: includes/gbt-blocks/slider/blocks/slide.js:319
+msgid "Button Text"
+msgstr ""
+
+#: includes/gbt-blocks/slider/blocks/slider.js:26
+msgid "Slider"
+msgstr ""
+
+#: includes/gbt-blocks/slider/blocks/slider.js:127
+#: includes/gbt-blocks/slider/blocks/slider.js:197
+msgid "Pagination Bullets"
+msgstr ""
+
+#: includes/gbt-blocks/slider/blocks/slider.js:154
+msgid "Full Height"
+msgstr ""
+
+#: includes/gbt-blocks/slider/blocks/slider.js:171
+msgid "Custom Desktop Height"
+msgstr ""
+
+#: includes/gbt-blocks/slider/blocks/slider.js:186
+msgid "Number of Slides"
+msgstr ""
+
+#: includes/gbt-blocks/social_media_profiles/block.js:25
+msgid "Social Media Profiles"
+msgstr ""
+
+#: includes/gbt-blocks/social_media_profiles/block.js:70
+msgid "Icons Font Size"
+msgstr ""
+
+#: includes/gbt-blocks/social_media_profiles/block.js:80
+#: includes/gbt-blocks/social_media_profiles/block.js:83
+msgid "Icons Color"
+msgstr ""
+
+#: includes/gbt-blocks/social_media_profiles/block.js:122
+msgid "Setup social profile links under Appearance > Customize > Social Media"
+msgstr ""
+
+#: includes/shortcodes/wc/woocommerce_products_user_bought.php:34
+msgid "Your Products"
+msgstr ""
+
+#: includes/shortcodes/wp/custom-button.php:16
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/social-media/class-social-media.php:337
+msgid "Social Media Icons"
+msgstr ""
+
+#: includes/social-media/class-social-media.php:347
+msgid "Social Media"
+msgstr ""
+
+#: includes/social-sharing/class-social-sharing.php:75
+msgid "Share"
+msgstr ""
+
+#: includes/widgets/widget-ecommerce-info.php:14
+msgid "eCommerce Info"
+msgstr ""
+
+#: includes/widgets/widget-ecommerce-info.php:15
+msgid "A widget that displays eCommerce Infos"
+msgstr ""
+
+#: includes/widgets/widget-ecommerce-info.php:59
+msgid "eCommerce Info Title"
+msgstr ""
+
+#: includes/widgets/widget-ecommerce-info.php:65
+msgid "eCommerce Info Subtitle"
+msgstr ""
+
+#: includes/widgets/widget-ecommerce-info.php:76
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/widget-ecommerce-info.php:81
+msgid "Subtitle:"
+msgstr ""
+
+#: includes/widgets/widget-product-categories-with-icon.php:104
+#, php-format
+msgctxt "product category name"
+msgid "%s"
+msgstr ""
+
+#: includes/widgets/widget-product-categories-with-icon.php:134
+msgid "A list of product categories."
+msgstr ""
+
+#: includes/widgets/widget-product-categories-with-icon.php:136
+msgid "WooCommerce product categories with icon"
+msgstr ""
+
+#: includes/widgets/widget-product-categories-with-icon.php:141
+msgid "Order by"
+msgstr ""
+
+#: includes/widgets/widget-product-categories-with-icon.php:143
+msgid "Category order"
+msgstr ""
+
+#: includes/widgets/widget-product-categories-with-icon.php:144
+msgid "Name"
+msgstr ""
+
+#: includes/widgets/widget-product-categories-with-icon.php:150
+msgid "Show product counts"
+msgstr ""
+
+#: includes/widgets/widget-product-categories-with-icon.php:155
+msgid "Hide empty categories"
+msgstr ""
+
+#: includes/widgets/widget-product-categories-with-icon.php:160
+msgid "Hide category icon"
+msgstr ""
+
+#: includes/widgets/widget-product-categories-with-icon.php:165
+msgid "Expand All"
+msgstr ""
+
+#: includes/widgets/widget-product-categories-with-icon.php:214
+msgid "No product categories exist."
+msgstr ""

@@ -1,0 +1,2590 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The Hanger\n"
+"POT-Creation-Date: 2020-08-06 14:19+0300\n"
+"PO-Revision-Date: 2020-08-06 14:19+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: inc/_vendor\n"
+"X-Poedit-SearchPathExcluded-2: inc/plugins\n"
+"X-Poedit-SearchPathExcluded-3: inc/tgm\n"
+
+#: 404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oje! Die Seite wurde nicht gefunden."
+
+#: 404.php:15
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Wie es aussieht, wurde an dieser Stelle nichts gefunden. Möchtest Du danach "
+"suchen?"
+
+#: archive.php:32 archive.php:40 functions/mega-menu.php:208 index.php:31
+#: index.php:39
+msgid "All Articles"
+msgstr "Alle Artikel"
+
+#: archive.php:104 index.php:154 search.php:50
+msgid "Older posts"
+msgstr "Ältere Beiträge"
+
+#: archive.php:105 index.php:155 search.php:51
+msgid "Newer posts"
+msgstr "Neuere Beiträge"
+
+#: attachment.php:16
+msgid "Previous "
+msgstr "Zurück "
+
+#: attachment.php:17
+msgid "Next "
+msgstr "Weiter "
+
+#. translators: %s: post title
+#: comments.php:22
+#, fuzzy, php-format
+msgctxt "comments title"
+msgid "One Reply to %s"
+msgstr "Eine Antwort auf %s"
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to %2$s"
+msgid_plural "%1$s Replies to %2$s"
+msgstr[0] "%1$s Antwort an %2$s"
+msgstr[1] "%1$s Antworten an %2$s"
+
+#: comments.php:59
+msgid "Previous"
+msgstr "Zurück"
+
+#: comments.php:60
+msgid "Next"
+msgstr "Weiter"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: functions/ajax-search.php:101
+msgid "View All"
+msgstr "Alle anzeigen"
+
+#: functions/ajax-search.php:106
+msgid "No results"
+msgstr "Keine Ergebnisse"
+
+#: functions/ajax-search.php:109
+msgid "Search Suggestions"
+msgstr "Suchvorschläge"
+
+#: functions/enqueue/scripts.php:48
+msgid "Choose an option"
+msgstr "Wählen Sie eine Option"
+
+#: functions/mega-dropdown.php:42 functions/mega-dropdown.php:189
+#: template-parts/headers/header-mobiles.php:110
+#: template-parts/headers/header-mobiles.php:150
+#: template-parts/headers/header-mobiles.php:167
+msgid "Back"
+msgstr "Zurück"
+
+#: functions/mega-menu.php:339 functions/mega-menu.php:360
+#, php-format
+msgid "View all posts in %s"
+msgstr "Zeige alle Beiträge in %s"
+
+#: functions/mega-menu.php:562
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:48
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:53
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:56
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:61
+msgid "Contact"
+msgstr "Kontakt"
+
+#: functions/mega-menu.php:578 functions/mega-menu.php:579
+#: functions/mega-menu.php:580 functions/mega-menu.php:585
+#: functions/wc/filters.php:221 functions/wc/filters.php:244
+#: functions/wc/filters.php:259
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:310
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:39
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:49
+#: template-parts/footers/footer-style-1.php:71
+#: template-parts/footers/footer-style-1.php:73
+#: template-parts/headers/header-mobiles.php:88
+#: template-parts/headers/header-sticky-product.php:40
+#: template-parts/headers/header-style-1.php:171
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: functions/wc/actions.php:22
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: functions/wc/actions.php:76
+msgid "Out of stock"
+msgstr "Ausverkauft"
+
+#: functions/wc/actions.php:134
+msgid "Quick View"
+msgstr "Schnellansicht"
+
+#: functions/wc/actions.php:249
+msgid "Zoom"
+msgstr "Zoom"
+
+#: functions/wc/actions.php:272
+msgid "Play Video"
+msgstr "Video abspielen"
+
+#: functions/wc/actions.php:314
+msgid "Continue shopping"
+msgstr "Weiter einkaufen"
+
+#: functions/wc/actions.php:335
+msgid "Go to product page"
+msgstr "Zur Produktseite"
+
+#: functions/wc/actions.php:460
+msgid "Product Search"
+msgstr "Produktsuche"
+
+#: functions/wc/actions.php:474
+msgid "Select Category"
+msgstr "Kategorie wählen"
+
+#: functions/wc/actions.php:496
+msgid "Featured products"
+msgstr "Hervorgehobene  Produkte"
+
+#: functions/wc/actions.php:499
+msgid "Search suggestions"
+msgstr "Suchvorschläge"
+
+#: functions/wc/filters.php:187
+msgid "You might like these"
+msgstr "Das könnte ihnen auch gefallen"
+
+#: functions/wp/popular-posts.php:24
+msgid "Featured Posts"
+msgstr "Empfohlene Beiträge"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:31
+#: inc/admin/wizard/class-gbt-install-wizard.php:32
+msgid "Theme Setup"
+msgstr "Theme Einstellungen"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:52
+msgid "Introduction"
+msgstr "Einführung"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:57
+msgid "Plugins"
+msgstr "Plugins"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:62
+msgid "Demo Import"
+msgstr "Demodaten importieren"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:67
+msgid "Ready!"
+msgstr "Bereit!"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:210
+msgid "Return to the WordPress Dashboard"
+msgstr "Zur WordPress-Übersichtsseite zurückkehren"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:233
+#, php-format
+msgid "%s 's"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:233
+#, fuzzy
+msgid "Theme Setup Wizard"
+msgstr "Assistent für die Themeneinrichtung"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:234
+#, fuzzy
+msgid "The quickest way to setup the theme"
+msgstr "Der schnellste Weg zur Einrichtung des Themas"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:234
+msgid "and start working on your site."
+msgstr "und beginnen Sie mit der Arbeit auf Ihrer Website."
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:235
+msgid "Let's go!"
+msgstr "Auf geht's!"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:249
+msgid "Plugin Installation"
+msgstr "Plugin-Installation"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:250
+#, fuzzy
+msgid "Install the required plugins before importing the demo content."
+msgstr ""
+"Installieren Sie die erforderlichen Plugins, bevor Sie den Demo-Content "
+"importieren."
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:258
+msgid "Recommended"
+msgstr "Empfohlen"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:264
+#: inc/admin/wizard/class-gbt-install-wizard.php:381
+msgid "Skip"
+msgstr "Überspringen"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:265
+#: inc/admin/wizard/class-gbt-install-wizard.php:383
+msgid "Install"
+msgstr "Installieren"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:337
+msgid "Install Now"
+msgstr "Jetzt installieren"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:338
+msgid "Update Now"
+msgstr "Jetzt aktualisieren"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:339
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:344
+msgid "Active"
+msgstr "Aktiv"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:367
+msgid "Demo Content Import"
+msgstr "Demo-Inhalt importieren"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:368
+#, fuzzy
+msgid "Start with pre-built page layouts, dummy product pages,"
+msgstr "Beginnen Sie mit vorgefertigten Seitenlayouts, Dummy-Produktseiten,"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:368
+#, fuzzy
+msgid "blog posts and widgets."
+msgstr "Blog-Posts und Widgets."
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:376
+#, fuzzy
+msgid ""
+"Please make sure Visual Composer and WooCommerce are installed and activated "
+"before importing the demo content."
+msgstr ""
+"Bitte stellen Sie sicher, dass Visual Composer und WooCommerce installiert "
+"und aktiviert sind, bevor Sie die Demo-Inhalte importieren."
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:385
+msgid "Go back"
+msgstr "Zurück"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:390
+msgid "Importing, please wait!"
+msgstr "Wird gerade importiert, bitte warten!"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:410
+#, fuzzy
+msgid "Setup has completed successfully!"
+msgstr "Das Setup ist erfolgreich abgeschlossen!"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:411
+#, fuzzy
+msgid "You should be able to start working on your site now."
+msgstr "Du solltest jetzt mit der Arbeit an deiner Seite beginnen können."
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:412
+#, fuzzy
+msgid "Best of luck with your project!"
+msgstr "Viel Glück bei Ihrem Projekt!"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:417
+msgid "What now?"
+msgstr "Und weiter?"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:418
+msgid "View Site"
+msgstr "Seite anzeigen"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:421
+msgid "What's next?"
+msgstr "Was kommt als nächstes?"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:423
+msgid "Customize the theme"
+msgstr "Theme anpassen"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:435
+#, fuzzy
+msgid "Activate Theme Updates"
+msgstr "Themen-Updates aktivieren"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:438
+#, fuzzy
+msgid "WooCommerce Setup Wizard"
+msgstr "WooCommerce Setup-Assistent"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:439
+#, fuzzy
+#| msgid "Theme Default"
+msgid "Theme Documentation"
+msgstr "Theme-Standard"
+
+#: inc/customizer/backend/blog/archives.php:9
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_blog_categories.php:5
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_blog_categories.php:8
+msgid "Blog Categories"
+msgstr "Blog Kategorien"
+
+#: inc/customizer/backend/blog/archives.php:26
+msgid "Highlight first three posts"
+msgstr "Markiert die ersten drei Beiträge"
+
+#: inc/customizer/backend/blog/archives.php:43
+#: inc/customizer/backend/blog/single.php:9 inc/widgets/widget-areas.php:10
+msgid "Blog Sidebar"
+msgstr "Blog Seitenleiste"
+
+#: inc/customizer/backend/blog/archives.php:60
+#: inc/customizer/backend/blog/single.php:26
+#: inc/customizer/backend/product/index.php:48
+#: inc/customizer/backend/shop/layout.php:33
+msgid "Sidebar Position"
+msgstr "Sidebar-Position"
+
+#: inc/customizer/backend/blog/archives.php:65
+#: inc/customizer/backend/blog/single.php:31
+#: inc/customizer/backend/shop/layout.php:38
+msgid "Left"
+msgstr "Links"
+
+#: inc/customizer/backend/blog/archives.php:66
+#: inc/customizer/backend/blog/single.php:32
+#: inc/customizer/backend/shop/layout.php:39
+msgid "Right"
+msgstr "Rechts"
+
+#: inc/customizer/backend/blog/archives.php:95
+#: inc/customizer/backend/shop/layout.php:61
+msgid "Pagination"
+msgstr "Paginierung"
+
+#: inc/customizer/backend/blog/archives.php:100
+#: inc/customizer/backend/shop/layout.php:66
+msgid "Classic"
+msgstr "Klassisch"
+
+#: inc/customizer/backend/blog/archives.php:101
+#: inc/customizer/backend/shop/layout.php:67
+msgid "Load More"
+msgstr "Mehr laden"
+
+#: inc/customizer/backend/blog/archives.php:102
+#: inc/customizer/backend/shop/layout.php:68
+msgid "Infinite"
+msgstr "Unendlich"
+
+#: inc/customizer/backend/blog/index.php:8
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:47
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:52
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:55
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:60
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer/backend/blog/index.php:18
+msgid "Blog Archives"
+msgstr "Blog Archiv"
+
+#: inc/customizer/backend/blog/index.php:25
+msgid "Single Post"
+msgstr "Einzelner Beitrag"
+
+#: inc/customizer/backend/blog/single.php:61
+msgid "Display Featured Image"
+msgstr "Beitragsbild anzeigen"
+
+#: inc/customizer/backend/fonts/index.php:15
+msgid "Fonts"
+msgstr "Schriftarten"
+
+#: inc/customizer/backend/fonts/index.php:32
+msgid "Base Font Size"
+msgstr "Basis Schriftgröße"
+
+#: inc/customizer/backend/fonts/index.php:33
+msgid ""
+"The Base Font Size refers to the size applied to the paragraph text. All "
+"other elements, such as headings, links, buttons, etc will adjusted "
+"automatically to keep the hierarchy of font sizes based on this one size. "
+"Easy-peasy!"
+msgstr ""
+"Die Basisschriftgröße bezieht sich auf die Größe, die auf den Absatztext "
+"angewendet wird. Alle anderen Elemente wie Überschriften, Verknüpfungen, "
+"Schaltflächen usw. werden automatisch angepasst, um die Hierarchie der "
+"Schriftgrößen basierend auf dieser einen Größe beizubehalten. Kinderleicht!"
+
+#: inc/customizer/backend/fonts/index.php:55
+msgid "Body Font"
+msgstr "Body Schriftart"
+
+#: inc/customizer/backend/fonts/index.php:75
+msgid "Headings Font"
+msgstr "Überschriften Schrift"
+
+#: inc/customizer/backend/footer/index.php:15
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer/backend/footer/index.php:32
+msgid "Footer Layout"
+msgstr "Footer Layout"
+
+#: inc/customizer/backend/footer/index.php:53
+msgid "Pre Footer"
+msgstr "Vor-Fussbereich"
+
+#: inc/customizer/backend/footer/index.php:71
+msgid "Footer Background Color"
+msgstr "Footer Hintergrundfarbe"
+
+#: inc/customizer/backend/footer/index.php:88
+msgid "Footer Font Color"
+msgstr "Footer Schriftfarbe"
+
+#: inc/customizer/backend/footer/index.php:105
+msgid "Footer Headings Color"
+msgstr "Footer Überschriftenfarbe"
+
+#: inc/customizer/backend/footer/index.php:122
+#, fuzzy
+msgid "Footnote / Copyright Text"
+msgstr "Fußnote / Copyright-Text"
+
+#: inc/customizer/backend/footer/index.php:124
+#: inc/customizer/read_options.php:138
+msgid "Powered by "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: inc/customizer/backend/footer/index.php:124
+#: inc/customizer/read_options.php:138
+#, fuzzy
+msgid "The Hanger"
+msgstr "Der Hänger"
+
+#: inc/customizer/backend/footer/index.php:125
+msgid ""
+"Allowed HTML tags: a, abbr, acronym, b, blockquote, cite, code, del, em, i, "
+"q, s, strike, strong"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:141
+msgid "Collapsed Widget Area on Mobiles"
+msgstr "Minimierter Widget-Bereich auf Handys"
+
+#: inc/customizer/backend/footer/index.php:158
+msgid "Payment Options"
+msgstr "Zahlungsoptionen"
+
+#: inc/customizer/backend/footer/index.php:163
+msgid "Payment Option"
+msgstr "Zahlungsmöglichkeiten"
+
+#: inc/customizer/backend/footer/index.php:166
+msgid "Add New Payment Option"
+msgstr "Neue Zahlungsmöglichkeiten hinzufügen"
+
+#: inc/customizer/backend/footer/index.php:170
+#: inc/customizer/read_options.php:142
+msgid "Visa"
+msgstr "Visa"
+
+#: inc/customizer/backend/footer/index.php:174
+#: inc/customizer/read_options.php:146
+msgid "MasterCard"
+msgstr "MasterCard"
+
+#: inc/customizer/backend/footer/index.php:178
+#: inc/customizer/read_options.php:150
+#, fuzzy
+msgid "Amex"
+msgstr "Amex"
+
+#: inc/customizer/backend/footer/index.php:182
+#: inc/customizer/read_options.php:154
+msgid "PayPal"
+msgstr "PayPal"
+
+#: inc/customizer/backend/footer/index.php:186
+#: inc/customizer/read_options.php:158
+msgid "Amazon"
+msgstr "Amazon"
+
+#: inc/customizer/backend/footer/index.php:193
+msgid "Name"
+msgstr "Name"
+
+#: inc/customizer/backend/footer/index.php:198
+msgid "Icon"
+msgstr "Icon"
+
+#: inc/customizer/backend/global/index.php:15
+msgid "Global"
+msgstr "Global"
+
+#: inc/customizer/backend/global/index.php:31
+msgid "Site Width"
+msgstr "Breite der Website"
+
+#: inc/customizer/backend/global/index.php:53
+msgid "Make it 100%"
+msgstr "Mach es zu 100%"
+
+#: inc/customizer/backend/global/index.php:70
+msgid "Body Background"
+msgstr "Body Hintergrund"
+
+#: inc/customizer/backend/global/index.php:101
+msgid "Content Layout"
+msgstr "Inhalt-Layout"
+
+#: inc/customizer/backend/global/index.php:122
+msgid "Content Background"
+msgstr "Inhalt Hintergrund"
+
+#: inc/customizer/backend/global/index.php:139
+msgid "Main Font Color"
+msgstr "Standard Schriftfarbe"
+
+#: inc/customizer/backend/global/index.php:156
+msgid "Secondary Font Color"
+msgstr "Sekundäre Schriftfarbe"
+
+#: inc/customizer/backend/global/index.php:173
+#: inc/customizer/backend/header/mega_header/topbar.php:137
+msgid "Accent Color"
+msgstr "Akzentfarbe"
+
+#: inc/customizer/backend/header/index.php:8
+msgid "Header"
+msgstr "Header"
+
+#: inc/customizer/backend/header/index.php:21
+msgid "Header Template"
+msgstr "Header Template"
+
+#: inc/customizer/backend/header/index.php:26
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: inc/customizer/backend/header/index.php:27
+msgid "Simplified"
+msgstr "Vereinfacht"
+
+#: inc/customizer/backend/header/mega_header/dropdowns.php:9
+msgid "Dropdowns Background Color"
+msgstr "Dropdowns Hintergrundfarbe"
+
+#: inc/customizer/backend/header/mega_header/dropdowns.php:26
+msgid "Dropdowns Text Color"
+msgstr "Dropdowns Schriftfarbe"
+
+#: inc/customizer/backend/header/mega_header/dropdowns.php:43
+msgid "Dropdowns Accent Color"
+msgstr "Dropdowns Akzentfarbe"
+
+#: inc/customizer/backend/header/mega_header/elements.php:9
+#: inc/customizer/backend/header/simplified/elements.php:9
+msgid "Account"
+msgstr "Konto"
+
+#: inc/customizer/backend/header/mega_header/elements.php:28
+#: inc/customizer/backend/header/simplified/elements.php:28
+#: template-parts/headers/header-mobiles.php:135
+#: template-parts/headers/header-sticky-product.php:65
+msgid "Wishlist"
+msgstr "Wunschliste"
+
+#: inc/customizer/backend/header/mega_header/elements.php:47
+#: inc/customizer/backend/header/simplified/elements.php:47
+msgid "Cart"
+msgstr "Warenkorb"
+
+#: inc/customizer/backend/header/mega_header/elements.php:57
+#: inc/customizer/backend/header/simplified/elements.php:57
+msgid "Bottom Mini Cart Text"
+msgstr "Mini-Cart-Text unten"
+
+#: inc/customizer/backend/header/mega_header/elements.php:59
+#: inc/customizer/backend/header/mega_header/topbar.php:272
+#: inc/customizer/backend/header/simplified/elements.php:59
+#: inc/customizer/read_options.php:47 inc/customizer/read_options.php:57
+#: inc/customizer/read_options.php:78
+#, fuzzy
+msgid "Free shipping on all orders over $75"
+msgstr "Kostenloser Versand für alle Bestellungen über $75"
+
+#: inc/customizer/backend/header/mega_header/index.php:7
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:13
+#: inc/customizer/backend/header/simplified/index.php:4
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: inc/customizer/backend/header/mega_header/index.php:14
+#: inc/customizer/backend/header/mega_header/logo.php:9
+#: inc/customizer/backend/header/simplified/index.php:11
+#: inc/customizer/backend/header/simplified/logo.php:9
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer/backend/header/mega_header/index.php:21
+#: inc/customizer/backend/header/simplified/index.php:18
+msgid "Icons"
+msgstr "Icons"
+
+#: inc/customizer/backend/header/mega_header/index.php:28
+#: inc/customizer/backend/header/mega_header/topbar.php:9
+#: inc/menus/menus.php:10
+msgid "Top Bar"
+msgstr "Top Bar"
+
+#: inc/customizer/backend/header/mega_header/index.php:35
+msgid "Dropdowns"
+msgstr "Dropdowns"
+
+#: inc/customizer/backend/header/mega_header/index.php:42
+msgid "Mobile Header"
+msgstr "Header für mobile Endgeräte"
+
+#: inc/customizer/backend/header/mega_header/index.php:49
+msgid "Sticky Header"
+msgstr "Sticky Header"
+
+#: inc/customizer/backend/header/mega_header/logo.php:28
+#: inc/customizer/backend/header/simplified/logo.php:28
+msgid "Logo Width"
+msgstr "Logo Breite"
+
+#: inc/customizer/backend/header/mega_header/logo.php:52
+#: inc/customizer/backend/header/simplified/logo.php:52
+msgid "Alternative Logo"
+msgstr "Alternatives Logo"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:7
+msgid "Mega Button"
+msgstr "Mega Button"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:19
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:7
+msgid "Mega Menu"
+msgstr "Mega Menü"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:45
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:354
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:53
+msgid "Shop - Mega Menu"
+msgstr "Shop Mega Menü"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:46
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:355
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:54
+msgid "Shop - Category Icons"
+msgstr "Shop Kategorie Icons"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:66
+msgid "Enable Mega Button?"
+msgstr "Mega Button aktivieren?"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:71
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:131
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:176
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:216
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:282
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:323
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:468
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:88
+#: inc/customizer/backend/header/mega_header/settings.php:119
+#: inc/customizer/backend/header/simplified/settings.php:142
+msgid "On"
+msgstr "An"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:72
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:132
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:177
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:217
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:283
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:324
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:469
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:89
+#: inc/customizer/backend/header/mega_header/settings.php:120
+#: inc/customizer/backend/header/simplified/settings.php:143
+msgid "Off"
+msgstr "Aus"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:94
+#, fuzzy
+msgid "Wording"
+msgstr "Wortlaut"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:96
+#: inc/customizer/read_options.php:163
+msgid "Browse Categories"
+msgstr "Kategorien durchsuchen"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:126
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:6
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_icons.php:6
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:6
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_icons.php:6
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:8
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_icons.php:8
+msgid "Product Categories"
+msgstr "Produktkategorien"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:171
+msgid "Show Product Counts?"
+msgstr "Produktzahlen anzeigen?"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:211
+#, fuzzy
+msgid "Show Category Icons?"
+msgstr "Kategoriensymbole anzeigen?"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:277
+msgid "Menu Location"
+msgstr "Menüplatzierung"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:318
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:463
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:83
+msgid "Enable Megamenu?"
+msgstr "Megamenu aktivieren?"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:349
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:513
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:111
+msgid "Dropdown Type"
+msgstr "Dropdown Typ"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:80
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:70
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:50
+msgid "Show Product Counts"
+msgstr "Produktzahlen anzeigen"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:118
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:103
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:72
+msgid "Thumbs for Parent Categories"
+msgstr "Daumen für übergeordnete Kategorien"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:156
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:136
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:94
+#, fuzzy
+msgid "Display Subcategories"
+msgstr "Unterkategorien anzeigen"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:229
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:199
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:135
+msgid "Featured Products"
+msgstr "Empfohlene Produkte"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:302
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:262
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:176
+msgid "Bottom Links"
+msgstr "Links unten"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:340
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:295
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:198
+msgid "New Arrivals"
+msgstr "Neuheiten"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:383
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:333
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:225
+msgid "Sale"
+msgstr "Sale"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:461
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:401
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:271
+msgid "Bottom Call to Action"
+msgstr "Aufruf zum Handeln unten"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:5
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:5
+msgid "Image Upload"
+msgstr "Bild hochladen"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:66
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:46
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:68
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:48
+#, fuzzy
+msgid "Call Us +40 123 123 123"
+msgstr "Rufen Sie uns an unter +40 123 123 123 123 123 123"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:98
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:68
+msgid "Business Hours"
+msgstr "Öffnungszeiten"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:100
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:70
+msgid "Monday — Friday,<br/>9:00 AM — 5:00 PM"
+msgstr "Montag — Freitag,<br/>9:00 Uhr — 5:00 Uhr"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:130
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:90
+msgid "Email"
+msgstr "E-Mail"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:132
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:92
+#, fuzzy
+msgid "support@yourstore.com"
+msgstr "support@yourstore.com"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:162
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:112
+msgid "Location"
+msgstr "Standort"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:164
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:114
+msgid "17 Princess Road<br/>London, Greater London<br/>NW1 8JRUK, Europe"
+msgstr "17 Princess Road<br/>London, Greater London<br/>NW1 8JRUK, Europe"
+
+#: inc/customizer/backend/header/mega_header/mobile.php:11
+#, fuzzy
+msgid "Mobile Mega Button"
+msgstr "Mobile Mega-Taste"
+
+#: inc/customizer/backend/header/mega_header/mobile.php:16
+#: inc/customizer/backend/header/mega_header/mobile.php:38
+msgid "Default"
+msgstr "Standard"
+
+#: inc/customizer/backend/header/mega_header/mobile.php:17
+msgid "Large Category Icons"
+msgstr "Große Kategorie Icons"
+
+#: inc/customizer/backend/header/mega_header/mobile.php:18
+msgid "Hide"
+msgstr "Verstecken"
+
+#: inc/customizer/backend/header/mega_header/mobile.php:33
+msgid "Mobile Megamenu"
+msgstr "Mobile Megamenü"
+
+#: inc/customizer/backend/header/mega_header/mobile.php:39
+#, fuzzy
+msgid "Simple links"
+msgstr "Einfache Links"
+
+#: inc/customizer/backend/header/mega_header/mobile.php:54
+#, fuzzy
+#| msgid "Mobile Megamenu"
+msgid "Mobile Menu Text"
+msgstr "Mobile Megamenü"
+
+#: inc/customizer/backend/header/mega_header/mobile.php:56
+#: inc/customizer/read_options.php:40
+msgid "Menu"
+msgstr "Menü"
+
+#: inc/customizer/backend/header/mega_header/settings.php:9
+#: inc/customizer/backend/header/simplified/settings.php:10
+msgid "Header Layout"
+msgstr "Header Layout"
+
+#: inc/customizer/backend/header/mega_header/settings.php:14
+#: inc/customizer/backend/header/mega_header/topbar.php:38
+#: inc/customizer/backend/header/simplified/settings.php:15
+msgid "Boxed"
+msgstr "Boxed"
+
+#: inc/customizer/backend/header/mega_header/settings.php:15
+#: inc/customizer/backend/header/mega_header/topbar.php:39
+#: inc/customizer/backend/header/simplified/settings.php:16
+msgid "Full"
+msgstr "Voll"
+
+#: inc/customizer/backend/header/mega_header/settings.php:32
+#: inc/customizer/backend/header/simplified/settings.php:55
+msgid "Header Background Color"
+msgstr "Header Hintergrundfarbe"
+
+#: inc/customizer/backend/header/mega_header/settings.php:51
+#: inc/customizer/backend/header/simplified/settings.php:74
+msgid "Header Text Color"
+msgstr "Textfarbe für die Kopfzeile"
+
+#: inc/customizer/backend/header/mega_header/settings.php:70
+#: inc/customizer/backend/header/simplified/settings.php:93
+msgid "Header Accent Color"
+msgstr "Header Akzentfarbe"
+
+#: inc/customizer/backend/header/mega_header/settings.php:89
+#: inc/customizer/backend/header/simplified/settings.php:112
+msgid "Header Text Size"
+msgstr "Header Schriftgröße"
+
+#: inc/customizer/backend/header/mega_header/settings.php:114
+#: inc/customizer/backend/header/simplified/settings.php:137
+msgid "Header Search"
+msgstr "Header-Suche"
+
+#: inc/customizer/backend/header/mega_header/settings.php:128
+#: inc/customizer/backend/header/simplified/settings.php:151
+msgid "Search by Category"
+msgstr "Suche nach Kategorie"
+
+#: inc/customizer/backend/header/mega_header/sticky.php:9
+msgid "Sticky Header Visibility"
+msgstr "Fixierter Header sichtbarkeit"
+
+#: inc/customizer/backend/header/mega_header/sticky.php:28
+msgid "Include Top Bar"
+msgstr "Top Bar einschließen"
+
+#: inc/customizer/backend/header/mega_header/topbar.php:33
+msgid "Top Bar Layout"
+msgstr "Top Bar Layout"
+
+#: inc/customizer/backend/header/mega_header/topbar.php:75
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: inc/customizer/backend/header/mega_header/topbar.php:106
+msgid "Text Color"
+msgstr "Textfarbe"
+
+#: inc/customizer/backend/header/mega_header/topbar.php:168
+msgid "Text Size"
+msgstr "Schriftgröße"
+
+#: inc/customizer/backend/header/mega_header/topbar.php:204
+msgid "Info 1"
+msgstr "Info 1"
+
+#: inc/customizer/backend/header/mega_header/topbar.php:221
+#: inc/customizer/read_options.php:55
+#, fuzzy
+msgid "Call +40 123 456 789"
+msgstr "Rufen Sie an unter +40 123 456 789"
+
+#: inc/customizer/backend/header/mega_header/topbar.php:255
+msgid "Info 2"
+msgstr "Info 2"
+
+#: inc/customizer/backend/header/simplified/settings.php:35
+msgid "Header Menu"
+msgstr "Hauptmenü"
+
+#: inc/customizer/backend/product/index.php:15
+msgid "Product Page"
+msgstr "Produkt Seite"
+
+#: inc/customizer/backend/product/index.php:31 inc/widgets/widget-areas.php:40
+msgid "Single Product Sidebar"
+msgstr "Einzelprodukt-Sidebar"
+
+#: inc/customizer/backend/product/index.php:83
+msgid "Up-sells Display"
+msgstr "Up-sells Display"
+
+#: inc/customizer/backend/product/index.php:100
+msgid "Related Products Display"
+msgstr "Anzeige änlicher Produkte"
+
+#: inc/customizer/backend/product/index.php:117
+#, fuzzy
+#| msgid "Sidebar Position"
+msgid "Tabs Position"
+msgstr "Sidebar-Position"
+
+#: inc/customizer/backend/product/index.php:122
+#, fuzzy
+#| msgid "Product Search"
+msgid "Product summary"
+msgstr "Produktsuche"
+
+#: inc/customizer/backend/product/index.php:123
+msgid "After product summary"
+msgstr ""
+
+#: inc/customizer/backend/product/index.php:138
+msgid "Description Box Open At All Times"
+msgstr "Beschreibung Box Zu allen Zeiten geöffnet"
+
+#: inc/customizer/backend/shop/catalog_mode.php:9
+#: inc/customizer/backend/shop/index.php:25
+msgid "Catalog Mode"
+msgstr "Katalog-Modus"
+
+#: inc/customizer/backend/shop/catalog_mode.php:33
+msgid "Remove Add to Cart Button"
+msgstr "Entferne die Schaltfläche \"In den Warenkorb\""
+
+#: inc/customizer/backend/shop/catalog_mode.php:64
+#, fuzzy
+msgid "Remove Product Price"
+msgstr "Produktpreis entfernen"
+
+#: inc/customizer/backend/shop/custom_archives.php:10
+#, fuzzy
+#| msgid "Sale"
+msgid "Sales"
+msgstr "Sale"
+
+#: inc/customizer/backend/shop/custom_archives.php:16
+msgid "Sale Badge Wording"
+msgstr "Verkaufsabzeichen-Benennung"
+
+#: inc/customizer/backend/shop/custom_archives.php:18
+#: inc/customizer/read_options.php:105
+msgid "Sale!"
+msgstr "Sale!"
+
+#: inc/customizer/backend/shop/custom_archives.php:33
+#, fuzzy
+msgid "Sales Section in Shop"
+msgstr "Verkaufsabteilung im Shop"
+
+#: inc/customizer/backend/shop/custom_archives.php:57
+msgid "Sales Section Page Title"
+msgstr "Titel der Verkaufsabschnittsseite"
+
+#: inc/customizer/backend/shop/custom_archives.php:59
+#: inc/customizer/read_options.php:104
+msgid "On Sale!"
+msgstr "Im Angebot!"
+
+#: inc/customizer/backend/shop/custom_archives.php:88
+msgid "Sales Section Page Slug"
+msgstr "Verkaufsabschnittsseite Slug"
+
+#: inc/customizer/backend/shop/custom_archives.php:107
+#: inc/customizer/backend/shop/custom_archives.php:170
+#: inc/customizer/read_options.php:108
+msgid "New Products"
+msgstr "Neue Produkte"
+
+#: inc/customizer/backend/shop/custom_archives.php:113
+#, fuzzy
+msgid "New Products Section in Shop"
+msgstr "Neuer Produktbereich im Shop"
+
+#: inc/customizer/backend/shop/custom_archives.php:137
+msgid "New Products Badge Wording"
+msgstr "Benennung neue Produkte Abzeichen"
+
+#: inc/customizer/backend/shop/custom_archives.php:139
+#: inc/customizer/read_options.php:109
+msgid "New!"
+msgstr "Neu!"
+
+#: inc/customizer/backend/shop/custom_archives.php:168
+msgid "New Products Section Page Title"
+msgstr "Titel der Seite \"Neue Produkte\""
+
+#: inc/customizer/backend/shop/custom_archives.php:199
+msgid "New Products Section Page Slug"
+msgstr "Slug der Seite \"Neue Produkte\""
+
+#: inc/customizer/backend/shop/custom_archives.php:230
+#, fuzzy
+msgid "Show new products by:"
+msgstr "Neue Produkte anzeigen durch:"
+
+#: inc/customizer/backend/shop/custom_archives.php:235
+#, fuzzy
+msgid "Day Added"
+msgstr "Tag hinzugefügt"
+
+#: inc/customizer/backend/shop/custom_archives.php:236
+msgid "Last Added"
+msgstr "Zuletzt hinzugefügt"
+
+#: inc/customizer/backend/shop/custom_archives.php:252
+#, fuzzy
+#| msgid "Show products added in the past <i>x</i> days:"
+msgid "Show products added in the past x days:"
+msgstr ""
+"Zeigen Sie Produkte, die in den vergangenen <i>x</i> Tagen hinzugefügt "
+"wurden:"
+
+#: inc/customizer/backend/shop/custom_archives.php:278
+#, fuzzy
+#| msgid "Show last <i>x</i> products:"
+msgid "Show last x products:"
+msgstr "Die letzten <i>x</i> Produkte anzeigen:"
+
+#: inc/customizer/backend/shop/index.php:8
+msgid "Shop"
+msgstr "Shop"
+
+#: inc/customizer/backend/shop/index.php:18
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/customizer/backend/shop/index.php:32
+msgid "Custom Archives"
+msgstr "Benutzerdefinierte Archive"
+
+#: inc/customizer/backend/shop/layout.php:9 inc/widgets/widget-areas.php:20
+msgid "Shop Sidebar"
+msgstr "Shop Seitenleiste"
+
+#: inc/customizer/backend/shop/layout.php:83
+msgid "Layout Style"
+msgstr "Layout Style"
+
+#: inc/customizer/backend/shop/layout.php:88
+msgid "Grid"
+msgstr "Raster"
+
+#: inc/customizer/backend/shop/layout.php:89
+msgid "List"
+msgstr "Liste"
+
+#: inc/customizer/backend/shop/layout.php:104
+#, fuzzy
+#| msgid "2<sup>nd</sup> Product Image on Hover"
+msgid "Second Product Image on Hover"
+msgstr "2<sup>nd</sup> Produktbild auf Hover"
+
+#: inc/customizer/backend/shop/layout.php:121
+#, fuzzy
+msgid "Number of Columns on Mobile"
+msgstr "Anzahl der Spalten auf dem Handy"
+
+#: inc/demo/ocdi-setup.php:126
+msgid "One Click Demo Import"
+msgstr "1-Klick Demo-Import"
+
+#: inc/demo/ocdi-setup.php:127
+msgid "Import Demo Data"
+msgstr "Import Demo Data"
+
+#: inc/menus/menus.php:11
+#, fuzzy
+msgid "Navigation Button"
+msgstr "Navigationstaste"
+
+#: inc/menus/menus.php:12
+msgid "Main Navigation"
+msgstr "Hauptnavigation"
+
+#: inc/menus/menus.php:13
+#, fuzzy
+msgid "Alternative Main Navigation"
+msgstr "Alternative Hauptnavigation"
+
+#: inc/menus/menus.php:14
+msgid "Secondary Navigation"
+msgstr "Sekundäre Navigation"
+
+#: inc/menus/menus.php:15
+msgid "Footer Menu"
+msgstr "Footer Menü"
+
+#: inc/metaboxes/product.php:6
+msgid "Product Options"
+msgstr "Produktoptionen"
+
+#: inc/metaboxes/product.php:20
+#, fuzzy
+#| msgid "Youtube"
+msgid "Youtube Video"
+msgstr "Youtube"
+
+#: inc/widgets/widget-areas.php:30
+msgid "Shop Filters"
+msgstr "Shop-Filter"
+
+#: inc/widgets/widget-areas.php:50
+msgid "Pre-Footer Widgets"
+msgstr "Pre-Footer Widgets"
+
+#: inc/widgets/widget-areas.php:59
+msgid "Footer Widgets"
+msgstr "Footer Widgets"
+
+#: search.php:8
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: single.php:84
+msgid "Previous Reading"
+msgstr "Vorheriger Artikel"
+
+#: single.php:90
+msgid "Next Reading"
+msgstr "Nächster Artikel"
+
+#: template-parts/content/content-highlight.php:29
+#: template-parts/content/content.php:31
+msgid "Read More"
+msgstr "Weiterlesen"
+
+#: template-parts/content/content-none.php:4
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: template-parts/content/content-none.php:12
+msgid "Ready to publish your first post?"
+msgstr "Sind Sie bereit Ihren ersten Beitrag zu veröffentlichen?"
+
+#: template-parts/content/content-none.php:13
+msgid "Get started here."
+msgstr "Starten Sie hier."
+
+#: template-parts/content/content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Es tut uns leid. Ihre Sucher ergab keinen Treffer, Bitte versuchen Sie es "
+"mit einem anderen Begriff."
+
+#: template-parts/content/content-none.php:24
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Es scheint, dass wir nicht finden können, was du suchst. Vielleicht kann die "
+"Suche helfen."
+
+#: template-parts/content/content-page.php:10
+#: template-parts/content/content-search.php:47
+#: template-parts/content/content-single.php:47
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: template-parts/content/content-search.php:28
+#: template-parts/content/content-single.php:28
+msgid "on "
+msgstr ""
+
+#: template-parts/content/content-search.php:36
+#: template-parts/content/content-single.php:36
+#: template-parts/headers/header-sticky-blog.php:20
+msgid "Comments"
+msgstr "Kommentare"
+
+#: template-parts/content/content-search.php:36
+#: template-parts/content/content-single.php:36
+msgid "Comment"
+msgstr "Kommentar"
+
+#: template-parts/headers/header-mobiles.php:126
+msgid "My account"
+msgstr "Mein Konto"
+
+#: template-parts/headers/header-sticky-blog.php:9
+#, fuzzy
+msgid "Reading Now"
+msgstr "Jetzt lesen"
+
+#: woocommerce/archive-product.php:60
+#, php-format
+msgid "%d items"
+msgstr "%d Artikel"
+
+#: woocommerce/archive-product.php:70
+msgid "Filters"
+msgstr "Filter"
+
+#. Theme URI of the plugin/theme
+#, fuzzy
+msgid "http://thehanger.wp-theme.design/"
+msgstr "http://thehanger.wp-theme.design/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "Available exclusively on the Envato Market."
+msgstr "Exklusiv auf dem Envato-Markt erhältlich."
+
+#. Author of the plugin/theme
+msgid "Get Bowtied"
+msgstr "Hole dir Bowtied"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://www.getbowtied.com/"
+msgstr "https://www.getbowtied.com/"
+
+#, fuzzy
+#~ msgid "Theme User Guide &amp; Support"
+#~ msgstr "Themen-Benutzerhandbuch &amp; Support"
+
+#, fuzzy
+#~ msgid "© The Hanger — Exclusively on the Envato Market"
+#~ msgstr "Der Kleiderbügel - Exklusiv auf dem Envato-Markt"
+
+#~ msgid "<span class=\"pages\">Pages:</span>"
+#~ msgstr "<span class=\"pages\">Seiten:</span>"
+
+#~ msgid "Share"
+#~ msgstr "Teilen"
+
+#~ msgid "Social Media Icons"
+#~ msgstr "Social Media Icons"
+
+#~ msgid "Social Media"
+#~ msgstr "Soziale Medien"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Pinterest"
+#~ msgstr "Pinterest"
+
+#~ msgid "LinkedIn"
+#~ msgstr "LinkedIn"
+
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#~ msgid "RSS"
+#~ msgstr "RSS"
+
+#~ msgid "Tumblr"
+#~ msgstr "Tumblr"
+
+#~ msgid "Instagram"
+#~ msgstr "Instagram"
+
+#~ msgid "Vimeo"
+#~ msgstr "Vimeo"
+
+#~ msgid "Behance"
+#~ msgstr "Behance"
+
+#~ msgid "Dribbble"
+#~ msgstr "Dribbble"
+
+#~ msgid "Flickr"
+#~ msgstr "Flickr"
+
+#, fuzzy
+#~ msgid "Git"
+#~ msgstr "Git"
+
+#~ msgid "Skype"
+#~ msgstr "Skype"
+
+#~ msgid "Weibo"
+#~ msgstr "Weibo"
+
+#~ msgid "Foursquare"
+#~ msgstr "Foursquare"
+
+#~ msgid "Soundcloud"
+#~ msgstr "Soundcloud"
+
+#~ msgid "Snapchat"
+#~ msgstr "Snapchat"
+
+#~ msgid "Tweet"
+#~ msgstr "Tweet"
+
+#~ msgid "View all posts"
+#~ msgstr "Zeige alle Beiträge"
+
+#~ msgid "Upload/Add image"
+#~ msgstr "Bild hochladen/hinzufügen"
+
+#~ msgid "Remove image"
+#~ msgstr "Bild entfernen"
+
+#~ msgid "Choose an image"
+#~ msgstr "Bild auswählen"
+
+#~ msgid "Use image"
+#~ msgstr "Bild verwenden"
+
+#, fuzzy
+#~ msgid "Icon Img"
+#~ msgstr "Icon Img"
+
+#~ msgid "Icon Type"
+#~ msgstr "Icon Typ"
+
+#~ msgid "Custom Icon"
+#~ msgstr "Eigenes Icon"
+
+#~ msgid "'s"
+#~ msgstr "'s"
+
+#~ msgid "<span class=\"big-separator\">Sales</span>"
+#~ msgstr "<span class=\"big-separator\">Angebote</span>"
+
+#~ msgid "<span class=\"big-separator margin-top\">New Products</span>"
+#~ msgstr "<span class=\"big-separator margin-top\">Neue Produkte</span>"
+
+#~ msgid "<span>on</span> "
+#~ msgstr "<span>auf</span> "
+
+#~ msgid "Required"
+#~ msgstr "Erforderlich"
+
+#, fuzzy
+#~ msgid "eCommerce Info"
+#~ msgstr "eCommerce Info Titel"
+
+#~ msgid "A widget that displays eCommerce Infos"
+#~ msgstr "Ein Widget, das eCommerce Infos zeigt"
+
+#~ msgid "eCommerce Info Title"
+#~ msgstr "eCommerce Info Titel"
+
+#, fuzzy
+#~ msgid "eCommerce Info Subtitle"
+#~ msgstr "eCommerce Info Untertitelung"
+
+#~ msgid "Title:"
+#~ msgstr "Titel:"
+
+#~ msgid "Subtitle:"
+#~ msgstr "Untertitel:"
+
+#~ msgctxt "product category name"
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "A list of product categories."
+#~ msgstr "Eine Liste der Produktkategorien."
+
+#~ msgid "WooCommerce product categories with icon"
+#~ msgstr "WooCommerce Produktkategorien mit Icon"
+
+#~ msgid "Order by"
+#~ msgstr "Sortieren nach"
+
+#~ msgid "Category order"
+#~ msgstr "Kategoriesortierung"
+
+#~ msgid "Show product counts"
+#~ msgstr "Zeige Produktanzahl"
+
+#~ msgid "Hide empty categories"
+#~ msgstr "Leere Kategorien ausblenden"
+
+#~ msgid "Hide category icon"
+#~ msgstr "Kategoriesymbol verbergen"
+
+#~ msgid "Expand All"
+#~ msgstr "Alle ausklappen"
+
+#~ msgid "No product categories exist."
+#~ msgstr "Es existieren keine Produkte-Kategorien."
+
+#~ msgid "Background Image"
+#~ msgstr "Hintergrundbild"
+
+#~ msgid "No File Selected"
+#~ msgstr "Keine Datei ausgewählt"
+
+#~ msgid "Remove"
+#~ msgstr "Entfernen"
+
+#~ msgid "Select File"
+#~ msgstr "Datei auswählen"
+
+#~ msgid "Background Repeat"
+#~ msgstr "Hintergrund wiederholen"
+
+#~ msgid "No Repeat"
+#~ msgstr "Keine Wiederholung"
+
+#~ msgid "Repeat All"
+#~ msgstr "Alle wiederholen"
+
+#~ msgid "Repeat Horizontally"
+#~ msgstr "Horizontal wiederholen"
+
+#~ msgid "Repeat Vertically"
+#~ msgstr "Vertikal wiederholen"
+
+#~ msgid "Background Position"
+#~ msgstr "Hintergrund-Position"
+
+#~ msgid "Left Top"
+#~ msgstr "Links oben"
+
+#~ msgid "Left Center"
+#~ msgstr "Links zentriert"
+
+#~ msgid "Left Bottom"
+#~ msgstr "Links unten"
+
+#~ msgid "Right Top"
+#~ msgstr "Rechts oben"
+
+#~ msgid "Right Center"
+#~ msgstr "Rechts zentriert"
+
+#~ msgid "Right Bottom"
+#~ msgstr "Rechts unten"
+
+#~ msgid "Center Top"
+#~ msgstr "Mitte oben"
+
+#~ msgid "Center Center"
+#~ msgstr "Mitte zentriert"
+
+#~ msgid "Center Bottom"
+#~ msgstr "Mitte unten"
+
+#~ msgid "Background Size"
+#~ msgstr "Hintergrund Größe"
+
+#~ msgid "Cover"
+#~ msgstr "Cover"
+
+#~ msgid "Contain"
+#~ msgstr "Beinhaltet"
+
+#~ msgid "Auto"
+#~ msgstr "Auto"
+
+#~ msgid "Background Attachment"
+#~ msgstr "Hintergrund Anhang"
+
+#~ msgid "Scroll"
+#~ msgstr "Scrollen"
+
+#~ msgid "Fixed"
+#~ msgstr "Fixiert"
+
+#~ msgid "Standard Fonts"
+#~ msgstr "Standardschriften"
+
+#~ msgid "Google Fonts"
+#~ msgstr "Google Fonts"
+
+#~ msgid "CSS Defaults"
+#~ msgstr "CSS-Standardwerte"
+
+#~ msgid "Default Browser Font-Family"
+#~ msgstr "Schriftfamilie für Deinen Standard-Browser"
+
+#~ msgid ""
+#~ "Please update your WordPress installation to a version newer than 4.9 to "
+#~ "access the code control."
+#~ msgstr ""
+#~ "Bitte aktualisiere deine WordPress-Installation auf eine neuere Version "
+#~ "als 4.9, um auf die Code-Kontrolle zuzugreifen."
+
+#~ msgid "Invalid Value"
+#~ msgstr "Ungültiger Wert"
+
+#~ msgid "Font Size"
+#~ msgstr "Schriftgröße"
+
+#~ msgid "Font Weight"
+#~ msgstr "Schriftstärke"
+
+#~ msgid "Line Height"
+#~ msgstr "Zeilenhöhe"
+
+#~ msgid "Font Style"
+#~ msgstr "Schriftstil"
+
+#~ msgid "Letter Spacing"
+#~ msgstr "Zeichenabstand"
+
+#~ msgid "Word Spacing"
+#~ msgstr "Wortabstand"
+
+#~ msgid "Top"
+#~ msgstr "Oben"
+
+#~ msgid "Bottom"
+#~ msgstr "Unten"
+
+#~ msgid "Center"
+#~ msgstr "Zentriert"
+
+#~ msgid "Size"
+#~ msgstr "Größe"
+
+#~ msgid "Spacing"
+#~ msgstr "Abstand"
+
+#~ msgid "Width"
+#~ msgstr "Breite"
+
+#~ msgid "Height"
+#~ msgstr "Höhe"
+
+#~ msgid "row"
+#~ msgstr "Zeile"
+
+#~ msgid "Add new %s"
+#~ msgstr "Neue %s hinzufügen"
+
+#~ msgid "Select a Page"
+#~ msgstr "Seite auswählen"
+
+#~ msgid "Limit: %s rows"
+#~ msgstr "Limit: %s Zeilen"
+
+#~ msgid "Hex Value"
+#~ msgstr "Hex-Wert"
+
+#~ msgid "No Image Selected"
+#~ msgstr "Kein Bild ausgewählt"
+
+#~ msgid "Add Image"
+#~ msgstr "Bild hinzufügen"
+
+#~ msgid "Change Image"
+#~ msgstr "Bild ändern"
+
+#~ msgid "Add File"
+#~ msgstr "Datei hinzufügen"
+
+#~ msgid "Change File"
+#~ msgstr "Datei ändern"
+
+#~ msgid "Reset"
+#~ msgstr "Zurücksetzen"
+
+#~ msgid "Font Family"
+#~ msgstr "Schriftfamilie"
+
+#~ msgid "Select Font Family"
+#~ msgstr "Schriftfamilie wählen"
+
+#~ msgid "Backup Font"
+#~ msgstr "Backup Schrift"
+
+#~ msgid "Variant"
+#~ msgstr "Variante"
+
+#, fuzzy
+#~ msgid "Download font-family to server instead of using the Google CDN."
+#~ msgstr ""
+#~ "Laden Sie die Schriftfamilie auf den Server herunter, anstatt das Google "
+#~ "CDN zu verwenden."
+
+#~ msgid "Text Align"
+#~ msgstr "Textausrichtung"
+
+#~ msgid "Inherit"
+#~ msgstr "Vererbt"
+
+#~ msgid "Justify"
+#~ msgstr "Blocksatz"
+
+#~ msgid "Text Transform"
+#~ msgstr "Text-Transformation"
+
+#~ msgid "None"
+#~ msgstr "Keine"
+
+#~ msgid "Capitalize"
+#~ msgstr "Kapitälchen"
+
+#~ msgid "Uppercase"
+#~ msgstr "Großbuchstaben"
+
+#~ msgid "Lowercase"
+#~ msgstr "Kleinbuchstaben"
+
+#~ msgid "Initial"
+#~ msgstr "Initial"
+
+#~ msgid "Text Decoration"
+#~ msgstr "Text-Dekoration"
+
+#~ msgid "Underline"
+#~ msgstr "Unterstrichen"
+
+#~ msgid "Overline"
+#~ msgstr "Überstrichen"
+
+#~ msgid "Line-Through"
+#~ msgstr "Durchgestrichen"
+
+#~ msgid "Margin Top"
+#~ msgstr "Rand Oben"
+
+#~ msgid "Margin Bottom"
+#~ msgstr "Abstand unten"
+
+#~ msgid "Color"
+#~ msgstr "Farbe"
+
+#~ msgid "Select image"
+#~ msgstr "Bild auswählen"
+
+#~ msgid "Change image"
+#~ msgstr "Bild ändern"
+
+#~ msgid "No image selected"
+#~ msgstr "Kein Bild ausgewählt"
+
+#~ msgid "Choose image"
+#~ msgstr "Bild auswählen"
+
+#~ msgid "Typo found in field %s - setting instead of settings."
+#~ msgstr "Tippfehler gefunden im Feld %s - Einstellung statt Einstellungen."
+
+#~ msgid ""
+#~ "Config not defined for field %1$s - See %2$s for details on how to "
+#~ "properly add fields."
+#~ msgstr ""
+#~ "Konfiguration nicht für Feld%1$s definiert - Siehe %2$s für Details zum "
+#~ "korrekten Hinzufügen von Feldern."
+
+#~ msgid "\"partial_refresh\" invalid entry in field %s"
+#~ msgstr "\"partial_refresh\" ungültiger Eintrag im Feld %s"
+
+#~ msgid ""
+#~ "\"output\" invalid format in field %s. The \"output\" argument should be "
+#~ "defined as an array of arrays."
+#~ msgstr ""
+#~ "\"Ausgabe\" ungültiges Format in Feld %s. Das Argument \"output\" sollte "
+#~ "als ein Array von Arrays definiert werden."
+
+#~ msgid ""
+#~ "We detected you're using Kirki_Init::get_variables(). Please use "
+#~ "Kirki_Util::get_variables() instead."
+#~ msgstr ""
+#~ "Wir haben festgestellt, dass du Kirki_Init::get_variables() verwenden. "
+#~ "Bitte verwende stattdessen Kirki_Util::get_variables()."
+
+#~ msgid ""
+#~ "Kirki fields should not be added on customize_register. Please add them "
+#~ "directly, or on init."
+#~ msgstr ""
+#~ "Kirki-Felder sollten nicht in customize_register hinzugefügt werden. "
+#~ "Bitte füge das direkt oder über init hinzu."
+
+#~ msgid "%1$s or %2$s"
+#~ msgstr "%1$s oder %2$s"
+
+#, fuzzy
+#~ msgid ""
+#~ "Please install the Kirki plugin to take full advantage of this theme\\s "
+#~ "customizer capabilities"
+#~ msgstr ""
+#~ "Bitte installieren Sie das Kirki-Plugin, um die Vorteile der Customizer-"
+#~ "Funktionen dieses Themas voll auszuschöpfen."
+
+#~ msgid "Install Kirki Toolkit now"
+#~ msgstr "Installieren Sie Kirki Toolkit jetzt"
+
+#~ msgid ""
+#~ "You have installed Kirki. Activate it to take advantage of this theme's "
+#~ "features in the customizer."
+#~ msgstr ""
+#~ "Du hast Kirki installiert. Aktiviere es, um die Funktionen dieses Themas "
+#~ "im Customizer zu nutzen."
+
+#~ msgid "Activate Kirki Toolkit now"
+#~ msgstr "Aktive Kirki Toolkit"
+
+#~ msgid "Activate Now"
+#~ msgstr "Jetzt aktivieren"
+
+#~ msgid "Don't show this again"
+#~ msgstr "Mitteilung nicht wieder anzeigen"
+
+#~ msgid "Dismiss"
+#~ msgstr "Verwerfen"
+
+#, fuzzy
+#~ msgid ""
+#~ "Are you sure? Dismissing this message will hide the installation "
+#~ "recommendation and you will have to manually install and activate the "
+#~ "plugin in the future."
+#~ msgstr ""
+#~ "Bist du sicher? Wenn Sie diese Meldung ablehnen, wird die "
+#~ "Installationsempfehlung nicht angezeigt und Sie müssen das Plugin in "
+#~ "Zukunft manuell installieren und aktivieren."
+
+#~ msgid "Kirki Demo Panel"
+#~ msgstr "Kirki Demopanel"
+
+#~ msgid "Contains sections for all kirki controls."
+#~ msgstr "Enthält Abschnitte für alle kirki-Steuerelemente."
+
+#~ msgid "Background"
+#~ msgstr "Hintergrund"
+
+#~ msgid "Code"
+#~ msgstr "Code"
+
+#~ msgid "Checkbox"
+#~ msgstr "Checkbox"
+
+#~ msgid "Color Palette"
+#~ msgstr "Farbpalette"
+
+#~ msgid "Custom"
+#~ msgstr "Benutzerdefiniert"
+
+#~ msgid "Dashicons"
+#~ msgstr "Instrumentensymbole"
+
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "Dimension"
+#~ msgstr "Dimension"
+
+#~ msgid "Dimensions"
+#~ msgstr "Abmessungen"
+
+#~ msgid "Editor"
+#~ msgstr "Editor"
+
+#~ msgid "Font-Awesome"
+#~ msgstr "Font-Awesome"
+
+#~ msgid "Generic"
+#~ msgstr "Generisch"
+
+#~ msgid "Image"
+#~ msgstr "Bild"
+
+#~ msgid "Multicheck"
+#~ msgstr "Multicheck"
+
+#~ msgid "Multicolor"
+#~ msgstr "Multicolor"
+
+#~ msgid "Number"
+#~ msgstr "Nummer"
+
+#~ msgid "Palette"
+#~ msgstr "Palette"
+
+#~ msgid "Preset"
+#~ msgstr "Voreinstellung"
+
+#~ msgid "Radio"
+#~ msgstr "Radio"
+
+#~ msgid "A plain Radio control."
+#~ msgstr "Eine einfache Funksteuerung."
+
+#~ msgid "Radio Buttonset"
+#~ msgstr "Radio Buttonset"
+
+#~ msgid ""
+#~ "Radio-Buttonset controls are essentially radio controls with some fancy "
+#~ "styling to make them look cooler."
+#~ msgstr ""
+#~ "Radio-Buttonset-Steuerelemente sind im Wesentlichen Radio-Steuerelemente "
+#~ "mit etwas schickem Styling, um sie cooler aussehen zu lassen."
+
+#~ msgid "Radio Image"
+#~ msgstr "Bild"
+
+#~ msgid ""
+#~ "Radio-Image controls are essentially radio controls with some fancy "
+#~ "styles to use images"
+#~ msgstr ""
+#~ "Radio-Image-Steuerelemente sind im Wesentlichen Radio-Steuerelemente mit "
+#~ "einigen ausgefallenen Stilen zur Verwendung von Bildern"
+
+#~ msgid "Repeater"
+#~ msgstr "Repeater"
+
+#~ msgid "Select"
+#~ msgstr "Auswählen"
+
+#~ msgid "Slider"
+#~ msgstr "Slider"
+
+#~ msgid "Sortable"
+#~ msgstr "Sortierbar"
+
+#~ msgid "Switch"
+#~ msgstr "Wechseln"
+
+#~ msgid "Toggle"
+#~ msgstr "Umschalten"
+
+#~ msgid "Typography"
+#~ msgstr "Typografie"
+
+#~ msgid "Background Control"
+#~ msgstr "Hintergrund-Steuerelement"
+
+#~ msgid "Background conrols are pretty complex! (but useful if properly used)"
+#~ msgstr ""
+#~ "Hintergrund Kontrollen sind ziemlich komplex! (aber nützlich, wenn "
+#~ "richtig verwendet)"
+
+#~ msgid "Code Control"
+#~ msgstr "Code-Kontrolle"
+
+#~ msgid "Description"
+#~ msgstr "Beschreibung"
+
+#~ msgid "Checkbox Control"
+#~ msgstr "Kontrollkästchen Kontrolle"
+
+#~ msgid "Color Control (hex-only)"
+#~ msgstr "Farbsteuerung (nur Hexadezimal)"
+
+#~ msgid "This is a color control - without alpha channel."
+#~ msgstr "Dies ist eine Farbkontrolle - ohne Alpha-Kanal."
+
+#~ msgid "Color Control (with alpha channel)"
+#~ msgstr "Farbsteuerung (mit Alpha-Kanal)"
+
+#~ msgid "This is a color control - with alpha channel."
+#~ msgstr "Dies ist eine Farbkontrolle - mit Alpha-Kanal."
+
+#~ msgid "Color Control - hue only."
+#~ msgstr "Farbsteuerung - nur Farbton."
+
+#~ msgid "This is a color control - hue only."
+#~ msgstr "Dies ist eine Farbeinstellung - nur Farbton."
+
+#~ msgid "Date Control"
+#~ msgstr "Datumssteuerung"
+
+#~ msgid "This is a date control."
+#~ msgstr "Dies ist eine Datumskontrolle."
+
+#~ msgid "First Editor Control"
+#~ msgstr "Erste Editorsteuerung"
+
+#~ msgid "This is an editor control."
+#~ msgstr "Dies ist eine Editorsteuerung."
+
+#~ msgid "Second Editor Control"
+#~ msgstr "Zweite Editorsteuerung"
+
+#~ msgid ""
+#~ "This is a 2nd editor control just to check that we do not have issues "
+#~ "with multiple instances."
+#~ msgstr ""
+#~ "Dies ist eine zweite Editor-Kontrolle, nur um zu überprüfen, dass wir "
+#~ "keine Probleme mit mehreren Instanzen haben."
+
+#~ msgid "Default Text"
+#~ msgstr "Standard Text"
+
+#~ msgid "Color-Palette"
+#~ msgstr "Farbpalette"
+
+#~ msgid "This is a color-palette control"
+#~ msgstr "Dies ist ein Farbpaletten-Steuerelement"
+
+#~ msgid "Material Design Colors - all"
+#~ msgstr "Material Design Farben - alles"
+
+#~ msgid "Material Design Colors - primary"
+#~ msgstr "Material Design Farben - primär"
+
+#~ msgid "Material Design Colors - red"
+#~ msgstr "Material Design Farben - rot"
+
+#~ msgid "Material Design Colors - A100"
+#~ msgstr "Material Design Farben - A100"
+
+#~ msgid "Dashicons Control"
+#~ msgstr "Dashicons Kontrolle"
+
+#~ msgid "Using a custom array of dashicons"
+#~ msgstr "Verwenden eines benutzerdefinierten Arrays von Dashicons"
+
+#~ msgid "All Dashicons"
+#~ msgstr "Alle Dashicons"
+
+#~ msgid "Showing all dashicons"
+#~ msgstr "Alle Dashicons werden angezeigt"
+
+#~ msgid "Dimension Control"
+#~ msgstr "Dimensionskontrolle"
+
+#~ msgid "Description Here."
+#~ msgstr "Beschreibung hier."
+
+#~ msgid "Spacing Control"
+#~ msgstr "Kontrolle Abstand"
+
+#~ msgid "Font Awesome Control"
+#~ msgstr "Font Awesome Control"
+
+#~ msgid "Text Control"
+#~ msgstr "Textsteuerung"
+
+#~ msgid "Textarea Control"
+#~ msgstr "Textarea-Kontrolle"
+
+#~ msgid "Custom input Control."
+#~ msgstr "Benutzerdefinierte Eingabesteuerung."
+
+#~ msgid ""
+#~ "The \"generic\" control allows you to add any input type you want. In "
+#~ "this case we use type=\"password\" and define custom styles."
+#~ msgstr ""
+#~ "Das \"generische\" Steuerelement ermöglicht das Hinzufügen eines "
+#~ "beliebigen Eingabetyps. In diesem Fall verwenden wir type = \"password\" "
+#~ "und definieren benutzerdefinierte Stile."
+
+#~ msgid "Image Control (URL)"
+#~ msgstr "Bildkontrolle (URL)"
+
+#~ msgid "Image Control (ID)"
+#~ msgstr "Bildkontrolle (ID)"
+
+#~ msgid "Image Control (array)"
+#~ msgstr "Bildkontrolle (Array)"
+
+#~ msgid "Multickeck Control"
+#~ msgstr "Multischecksteuerung"
+
+#~ msgid "Option 1"
+#~ msgstr "Option 1"
+
+#~ msgid "Option 2"
+#~ msgstr "Option 2"
+
+#~ msgid "Option 3"
+#~ msgstr "Option 3"
+
+#~ msgid "Option 4"
+#~ msgstr "Option 4"
+
+#~ msgid "Option 5"
+#~ msgstr "Option 5"
+
+#~ msgid "Label"
+#~ msgstr "Beschriftung"
+
+#~ msgid "Hover"
+#~ msgstr "Hover"
+
+#~ msgid "Radio Control"
+#~ msgstr "Radio Steuerung"
+
+#~ msgid "The description here."
+#~ msgstr "Die Beschreibung hier."
+
+#~ msgid "Radio-Buttonset Control"
+#~ msgstr "Radio-Buttonset-Steuerung"
+
+#~ msgid "Radio-Image Control"
+#~ msgstr "Radio-Bildkontrolle"
+
+#~ msgid "Repeater Control"
+#~ msgstr "Repeater Control"
+
+#~ msgid "Kirki Site"
+#~ msgstr "Kirki Website"
+
+#~ msgid "Kirki Repository"
+#~ msgstr "Kirki-Depot"
+
+#~ msgid "Link Text"
+#~ msgstr "Link Text"
+
+#~ msgid "This will be the label for your link"
+#~ msgstr "Dies wird das Label für Ihren Link sein"
+
+#~ msgid "Link URL"
+#~ msgstr "Link URL"
+
+#~ msgid "This will be the link URL"
+#~ msgstr "Dies wird der Link URL"
+
+#~ msgid "Link Target"
+#~ msgstr "Link-Ziel"
+
+#~ msgid "This will be the link target"
+#~ msgstr "Dies wird das Link-Ziel sein"
+
+#~ msgid "New Window"
+#~ msgstr "Neues Fenster"
+
+#~ msgid "Same Frame"
+#~ msgstr "Der gleiche Rahmen"
+
+#~ msgid "Select Control"
+#~ msgstr "Steuer auswählen"
+
+#~ msgid "Select an option"
+#~ msgstr "Wählen Sie eine Option"
+
+#~ msgid "Slider Control"
+#~ msgstr "Schieberegler"
+
+#~ msgid "This is a sortable control."
+#~ msgstr "Dies ist eine sortierbare Kontrolle."
+
+#~ msgid "Option 6"
+#~ msgstr "Option 6"
+
+#~ msgid "Switch Control"
+#~ msgstr "SchalterSteuerung"
+
+#~ msgid "Switch Control with custom labels"
+#~ msgstr "Schaltkontrolle mit individuellen Etiketten"
+
+#~ msgid "Enabled"
+#~ msgstr "Aktiviert"
+
+#~ msgid "Disabled"
+#~ msgstr "Deaktiviert"
+
+#~ msgid "Toggle Control"
+#~ msgstr "Umschaltsteuerung"
+
+#~ msgid "Typography Control Label"
+#~ msgstr "Typografie-Steuerelement Label"
+
+#~ msgid "The full set of options."
+#~ msgstr "Die ganze Reihe von Optionen."
+
+#~ msgid "Sidebars Select"
+#~ msgstr "Sidebars auswählen"
+
+#~ msgid "An example of how to implement sidebars selection."
+#~ msgstr "Ein Beispiel, wie man Sidebars-Selektion implementiert."
+
+#~ msgid ""
+#~ "Do not use \"alpha\" as an argument in color controls. Use "
+#~ "\"choices[alpha]\" instead."
+#~ msgstr ""
+#~ "Verwende nicht \"Alpha\" als ein Argument in Farbsteuerelementen. "
+#~ "Verwenden stattdessen \"Auswahlmöglichkeiten\"."
+
+#~ msgid ""
+#~ "Error in field %1$s. The \"mode\" argument has been deprecated since "
+#~ "Kirki v0.8. Use the \"radio-%2$s\" type instead."
+#~ msgstr ""
+#~ "Fehler im Feld%1$s. Das Argument \"mode\" ist seit Kirki v0.8 veraltet. "
+#~ "Verwende stattdessen den Typ \"radio-%2$s\"."
+
+#~ msgid "Customizing"
+#~ msgstr "Ihre Anpassungen für"
+
+#~ msgid "Customizing &#9656; %s"
+#~ msgstr "Anpassungen für &#9656; %s"
+
+#~ msgid "Ultra-Light 100"
+#~ msgstr "Ultra-Light 100"
+
+#~ msgid "Ultra-Light 100 Italic"
+#~ msgstr "Ultra-Dünn 100 Kursiv"
+
+#~ msgid "Light 200"
+#~ msgstr "Light 200"
+
+#~ msgid "Light 200 Italic"
+#~ msgstr "Dünn 200 Kursiv"
+
+#~ msgid "Book 300"
+#~ msgstr "Book 300"
+
+#~ msgid "Book 300 Italic"
+#~ msgstr "Buch 300 Kursiv"
+
+#~ msgid "Normal 400"
+#~ msgstr "Normal 400"
+
+#~ msgid "Normal 400 Italic"
+#~ msgstr "Normal 400 Kursiv"
+
+#~ msgid "Medium 500"
+#~ msgstr "Medium 500"
+
+#~ msgid "Medium 500 Italic"
+#~ msgstr "Medium 500 Kursiv"
+
+#~ msgid "Semi-Bold 600"
+#~ msgstr "Semi-Bold 600"
+
+#~ msgid "Semi-Bold 600 Italic"
+#~ msgstr "Halb-Fett 600 Kursiv"
+
+#~ msgid "Bold 700"
+#~ msgstr "Fett 700"
+
+#~ msgid "Bold 700 Italic"
+#~ msgstr "Fett 700 Kursiv"
+
+#~ msgid "Extra-Bold 800"
+#~ msgstr "Extra-Bold 800"
+
+#~ msgid "Extra-Bold 800 Italic"
+#~ msgstr "Extra-Fett 900 Kursiv"
+
+#~ msgid "Ultra-Bold 900"
+#~ msgstr "Ultra-Bold 900"
+
+#~ msgid "Ultra-Bold 900 Italic"
+#~ msgstr "Ultra-Fett 900 Kursiv"
+
+#~ msgid "Important Upgrade Notice:"
+#~ msgstr "Wichtiger Upgrade Hinweis:"
+
+#~ msgid "Install Required Plugins"
+#~ msgstr "Erforderliche Plugins installieren"
+
+#~ msgid "Install Plugins"
+#~ msgstr "Plugins installieren"
+
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "Installiere Plugin: %s"
+
+#~ msgid "Updating Plugin: %s"
+#~ msgstr "Aktualisiere Plugin: %s"
+
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "Es ist ein Fehler mit der Plugin-API aufgetreten."
+
+#~ msgid "This theme requires the following plugin: %1$s."
+#~ msgid_plural "This theme requires the following plugins: %1$s."
+#~ msgstr[0] "Dieses Theme erfordert das folgende Plugin: %1$s."
+#~ msgstr[1] "Dieses Theme erfordert die folgenden Plugins: %1$s."
+
+#~ msgid "This theme recommends the following plugin: %1$s."
+#~ msgid_plural "This theme recommends the following plugins: %1$s."
+#~ msgstr[0] "Dieses Theme empfiehlt das folgende Plugin: %1$s."
+#~ msgstr[1] "Dieses Theme empfiehlt die folgenden Plugins: %1$s."
+
+#~ msgid ""
+#~ "The following plugin needs to be updated to its latest version to ensure "
+#~ "maximum compatibility with this theme: %1$s."
+#~ msgid_plural ""
+#~ "The following plugins need to be updated to their latest version to "
+#~ "ensure maximum compatibility with this theme: %1$s."
+#~ msgstr[0] ""
+#~ "Das folgende Plugin muss auf die neueste Version aktualisiert werden, um "
+#~ "maximale Kompatibilität mit diesem Theme sicher zu stellen: %1$s."
+#~ msgstr[1] ""
+#~ "Das folgenden Plugins müssen auf die neueste Version aktualisiert werden, "
+#~ "um maximale Kompatibilität mit diesem Theme sicher zu stellen: %1$s."
+
+#~ msgid "There is an update available for: %1$s."
+#~ msgid_plural "There are updates available for the following plugins: %1$s."
+#~ msgstr[0] "Es ist ein Update verfügbar für: %1$s."
+#~ msgstr[1] "Es sind Updates verfügbar für folgende Plugins: %1$s."
+
+#~ msgid "The following required plugin is currently inactive: %1$s."
+#~ msgid_plural "The following required plugins are currently inactive: %1$s."
+#~ msgstr[0] "Das folgende erforderliche Plugin ist derzeit inaktiv: %1$s."
+#~ msgstr[1] "Die folgenden erforderlichen Plugins sind derzeit inaktiv: %1$s."
+
+#~ msgid "The following recommended plugin is currently inactive: %1$s."
+#~ msgid_plural ""
+#~ "The following recommended plugins are currently inactive: %1$s."
+#~ msgstr[0] "Das folgende empfohlene Plugin ist derzeit inaktiv: %1$s."
+#~ msgstr[1] "Die folgenden empfohlenen Plugins sind derzeit inaktiv: %1$s."
+
+#~ msgid "Begin installing plugin"
+#~ msgid_plural "Begin installing plugins"
+#~ msgstr[0] "Beginne das Plugin zu installieren"
+#~ msgstr[1] "Beginne die Plugins zu installieren"
+
+#~ msgid "Begin updating plugin"
+#~ msgid_plural "Begin updating plugins"
+#~ msgstr[0] "Beginne mit der Aktualisierung des Plugins"
+#~ msgstr[1] "Beginne mit der Aktualisierung der Plugins"
+
+#~ msgid "Begin activating plugin"
+#~ msgid_plural "Begin activating plugins"
+#~ msgstr[0] "Plugin wird aktiviert"
+#~ msgstr[1] "Plugins werden aktiviert"
+
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "Zurück zur Installation der benötigten Plugins"
+
+#~ msgid "Return to the Dashboard"
+#~ msgstr "Zurück zum Dashboard"
+
+#~ msgid "Plugin activated successfully."
+#~ msgstr "Plugin erfolgreich aktiviert."
+
+#~ msgid "The following plugin was activated successfully:"
+#~ msgid_plural "The following plugins were activated successfully:"
+#~ msgstr[0] "Das folgende Plugin wurde erfolgreich aktiviert:"
+#~ msgstr[1] "Die folgenden Plugins wurden erfolgreich aktiviert:"
+
+#~ msgid "No action taken. Plugin %1$s was already active."
+#~ msgstr "Keine Maßnahmen ergriffen. Plugin %1$s war bereits aktiv."
+
+#~ msgid ""
+#~ "Plugin not activated. A higher version of %s is needed for this theme. "
+#~ "Please update the plugin."
+#~ msgstr ""
+#~ "Plugin wurde nicht aktiviert. Eine neuere Version des %s ist für dieses "
+#~ "Theme erforderlich. Bitte aktualisieren Sie das Plugin."
+
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr "Alle Plugins wurden erfolgreich installiert und aktiviert. %1$s"
+
+#~ msgid "Dismiss this notice"
+#~ msgstr "Diesen Hinweis ausblenden"
+
+#~ msgid ""
+#~ "There are one or more required or recommended plugins to install, update "
+#~ "or activate."
+#~ msgstr ""
+#~ "Es existieren ein oder mehrere benötigte oder empfohlene Plugins, die "
+#~ "installiert, aktualisiert oder aktiviert werden müssen."
+
+#~ msgid "Please contact the administrator of this site for help."
+#~ msgstr "Bitte kontaktieren Sie den Administrator dieser Website für Hilfe."
+
+#~ msgid "This plugin needs to be updated to be compatible with your theme."
+#~ msgstr ""
+#~ "Dieses Plugin muss aktualisiert werden, um mit Ihrem Theme kompatibel zu "
+#~ "sein."
+
+#~ msgid "Update Required"
+#~ msgstr "Aktualisierung erforderlich"
+
+#~ msgid "Return to Plugins"
+#~ msgstr "Zu Plugins zurückkehren"
+
+#~ msgid ""
+#~ "The remote plugin package does not contain a folder with the desired slug "
+#~ "and renaming did not work."
+#~ msgstr ""
+#~ "Das Remote-Plugin-Paket enthält keinen Ordner mit dem gewünschten Kürzel "
+#~ "und eine Umbenennung hat nicht funktioniert."
+
+#~ msgid ""
+#~ "Please contact the plugin provider and ask them to package their plugin "
+#~ "according to the WordPress guidelines."
+#~ msgstr ""
+#~ "Bitte kontaktieren Sie den Plugin-Anbieter und bitten Sie ihn, seine "
+#~ "Plugins nach den Wordpress-Richtlinien zu komprimieren."
+
+#~ msgid ""
+#~ "The remote plugin package consists of more than one file, but the files "
+#~ "are not packaged in a folder."
+#~ msgstr ""
+#~ "Das Remote-Plugin-Paket besteht aus mehreren Dateien, aber die Dateien "
+#~ "sind nicht in einem Ordner gepackt."
+
+#~ msgctxt "plugin A *and* plugin B"
+#~ msgid "and"
+#~ msgstr "und"
+
+#~ msgid "TGMPA v%s"
+#~ msgstr "TGMPA v%s"
+
+#~ msgid "WordPress Repository"
+#~ msgstr "WordPress Repository"
+
+#~ msgid "External Source"
+#~ msgstr "Externe Quelle"
+
+#~ msgid "Pre-Packaged"
+#~ msgstr "Pre-Packaged"
+
+#~ msgid "Not Installed"
+#~ msgstr "Nicht installiert"
+
+#~ msgid "Installed But Not Activated"
+#~ msgstr "Installiert aber nicht aktiviert"
+
+#~ msgid "Required Update not Available"
+#~ msgstr "Erforderliche Aktualisierung nicht verfügbar"
+
+#~ msgid "Requires Update"
+#~ msgstr "Update erforderlich"
+
+#~ msgid "Update recommended"
+#~ msgstr "Update empfohlen"
+
+#~ msgctxt "Install/Update Status"
+#~ msgid "%1$s, %2$s"
+#~ msgstr "%1$s, %2$s"
+
+#~ msgctxt "plugins"
+#~ msgid "All <span class=\"count\">(%s)</span>"
+#~ msgid_plural "All <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+#~ msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#~ msgid "To Install <span class=\"count\">(%s)</span>"
+#~ msgid_plural "To Install <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "Zum Installieren <span class=\"count\">(%s)</span>"
+#~ msgstr[1] "Zum Installieren <span class=\"count\">(%s)</span>"
+
+#~ msgid "Update Available <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "Aktualisierung verfügbar <span class=\"count\">(%s)</span>"
+#~ msgstr[1] "Aktualisierung verfügbar <span class=\"count\">(%s)</span>"
+
+#~ msgid "To Activate <span class=\"count\">(%s)</span>"
+#~ msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "Zum Aktivieren <span class=\"count\">(%s)</span>"
+#~ msgstr[1] "Zum Aktivieren <span class=\"count\">(%s)</span>"
+
+#~ msgctxt "as in: \"version nr unknown\""
+#~ msgid "unknown"
+#~ msgstr "unbekannt"
+
+#~ msgid "Installed version:"
+#~ msgstr "Installierte Version:"
+
+#~ msgid "Minimum required version:"
+#~ msgstr "Minimal erforderliche Version:"
+
+#~ msgid "Available version:"
+#~ msgstr "Verfügbare Version:"
+
+#~ msgid "No plugins to install, update or activate."
+#~ msgstr "Keine Plugins zum installieren, aktualisieren oder aktivieren."
+
+#~ msgid "Plugin"
+#~ msgstr "Plugin"
+
+#~ msgid "Source"
+#~ msgstr "Quelle"
+
+#~ msgid "Type"
+#~ msgstr "Typ"
+
+#~ msgid "Version"
+#~ msgstr "Version"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Install %2$s"
+#~ msgstr "Installiere %2$s"
+
+#~ msgid "Update %2$s"
+#~ msgstr "Aktualisiere %2$s"
+
+#~ msgid "Activate %2$s"
+#~ msgstr "Aktiviere %2$s"
+
+#~ msgid "Upgrade message from the plugin author:"
+#~ msgstr "Upgrade-Nachricht vom Plugin-Autor:"
+
+#~ msgid "Update"
+#~ msgstr "Aktualisieren"
+
+#~ msgid "No plugins were selected to be installed. No action taken."
+#~ msgstr ""
+#~ "Es wurden keine Plugins zur Installation ausgewählt. Es wurde nichts "
+#~ "unternommen."
+
+#~ msgid "No plugins were selected to be updated. No action taken."
+#~ msgstr ""
+#~ "Es wurden keine Plugins zur Aktualisierung ausgewählt. Es wurde nichts "
+#~ "unternommen."
+
+#~ msgid "No plugins are available to be installed at this time."
+#~ msgstr "Derzeit stehen keine Plugins zur Installation zur Verfügung."
+
+#~ msgid "No plugins are available to be updated at this time."
+#~ msgstr "Derzeit stehen keine Plugins zur Aktualisierung zur Verfügung."
+
+#~ msgid "No plugins were selected to be activated. No action taken."
+#~ msgstr ""
+#~ "Es wurden keine Plugins zur Aktivierung ausgewählt. Es wurde nichts "
+#~ "unternommen."
+
+#~ msgid "No plugins are available to be activated at this time."
+#~ msgstr "Derzeit stehen keine Plugins zur Aktivierung zur Verfügung."
+
+#~ msgid "Plugin activation failed."
+#~ msgstr "Plugin-Aktivierung fehlgeschlagen."
+
+#~ msgid "Updating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Aktualisiere Plugin %1$s (%2$d/%3$d)"
+
+#~ msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+#~ msgstr ""
+#~ "Während der Installation von %1$s: <strong>%2$s</strong> ist ein Fehler "
+#~ "aufgetreten."
+
+#~ msgid "The installation of %1$s failed."
+#~ msgstr "Die Installation von %1$s ist fehlgeschlagen."
+
+#~ msgid ""
+#~ "The installation and activation process is starting. This process may "
+#~ "take a while on some hosts, so please be patient."
+#~ msgstr ""
+#~ "Der Installations- und Aktivierungsprozess wurde gestartet. Dies kann "
+#~ "eine Weile dauern, haben Sie etwas Geduld."
+
+#~ msgid "%1$s installed and activated successfully."
+#~ msgstr "%1$s erfolgreich installiert und aktiviert."
+
+#~ msgid "Show Details"
+#~ msgstr "Details anzeigen"
+
+#~ msgid "Hide Details"
+#~ msgstr "Details ausblenden"
+
+#~ msgid "All installations and activations have been completed."
+#~ msgstr "Alle Installationen und Aktivierungen sind abgeschlossen."
+
+#~ msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Installiere und aktiviere Plugin %1$s (%2$d/%3$d)"
+
+#~ msgid ""
+#~ "The installation process is starting. This process may take a while on "
+#~ "some hosts, so please be patient."
+#~ msgstr ""
+#~ "Der Installationsprozess wird gestartet. Dieser Prozess kann auf manchen "
+#~ "Servern etwas Zeit in Anspruch nehmen. Bitte haben Sie Geduld."
+
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s wurde erfolgreich installiert."
+
+#~ msgid "All installations have been completed."
+#~ msgstr "Alle Installationen wurden abgeschlossen."
+
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Installiere Plugin %1$s (%2$d/%3$d)"
+
+#~ msgid "Set the parent_slug config variable instead."
+#~ msgstr "Verwenden Sie stattdessen die Variable parent_slug."

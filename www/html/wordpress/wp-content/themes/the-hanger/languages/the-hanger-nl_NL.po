@@ -1,0 +1,2710 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The Hanger\n"
+"POT-Creation-Date: 2020-08-06 14:19+0300\n"
+"PO-Revision-Date: 2020-08-06 14:19+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: inc/_vendor\n"
+"X-Poedit-SearchPathExcluded-2: inc/plugins\n"
+"X-Poedit-SearchPathExcluded-3: inc/tgm\n"
+
+#: 404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Die pagina kan niet gevonden worden."
+
+#: 404.php:15
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Het lijkt er op dat er hier niets gevonden is. Wellicht helpt de zoekfunctie?"
+
+#: archive.php:32 archive.php:40 functions/mega-menu.php:208 index.php:31
+#: index.php:39
+msgid "All Articles"
+msgstr "Alle artikelen"
+
+#: archive.php:104 index.php:154 search.php:50
+msgid "Older posts"
+msgstr "Eerdere berichten"
+
+#: archive.php:105 index.php:155 search.php:51
+msgid "Newer posts"
+msgstr "Nieuwere berichten"
+
+#: attachment.php:16
+msgid "Previous "
+msgstr "Vorige "
+
+#: attachment.php:17
+msgid "Next "
+msgstr "Volgende "
+
+#. translators: %s: post title
+#: comments.php:22
+#, fuzzy, php-format
+msgctxt "comments title"
+msgid "One Reply to %s"
+msgstr "Eén antwoord op %s"
+
+#: comments.php:29
+#, fuzzy, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to %2$s"
+msgid_plural "%1$s Replies to %2$s"
+msgstr[0] "%1$s Antwoord op %2$s"
+msgstr[1] "%1$s Antwoorden op %2$s"
+
+#: comments.php:59
+msgid "Previous"
+msgstr "Vorige"
+
+#: comments.php:60
+msgid "Next"
+msgstr "Volgende"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: functions/ajax-search.php:101
+msgid "View All"
+msgstr "Bekijk alles"
+
+#: functions/ajax-search.php:106
+msgid "No results"
+msgstr "Geen resultaten"
+
+#: functions/ajax-search.php:109
+#, fuzzy
+msgid "Search Suggestions"
+msgstr "Zoeksuggesties"
+
+#: functions/enqueue/scripts.php:48
+msgid "Choose an option"
+msgstr "Kies een optie"
+
+#: functions/mega-dropdown.php:42 functions/mega-dropdown.php:189
+#: template-parts/headers/header-mobiles.php:110
+#: template-parts/headers/header-mobiles.php:150
+#: template-parts/headers/header-mobiles.php:167
+msgid "Back"
+msgstr "Terug"
+
+#: functions/mega-menu.php:339 functions/mega-menu.php:360
+#, php-format
+msgid "View all posts in %s"
+msgstr "Bekijk alle berichten in %s"
+
+#: functions/mega-menu.php:562
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:48
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:53
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:56
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:61
+msgid "Contact"
+msgstr "Contact"
+
+#: functions/mega-menu.php:578 functions/mega-menu.php:579
+#: functions/mega-menu.php:580 functions/mega-menu.php:585
+#: functions/wc/filters.php:221 functions/wc/filters.php:244
+#: functions/wc/filters.php:259
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:310
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:39
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:49
+#: template-parts/footers/footer-style-1.php:71
+#: template-parts/footers/footer-style-1.php:73
+#: template-parts/headers/header-mobiles.php:88
+#: template-parts/headers/header-sticky-product.php:40
+#: template-parts/headers/header-style-1.php:171
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: functions/wc/actions.php:22
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: functions/wc/actions.php:76
+msgid "Out of stock"
+msgstr "Uitverkocht"
+
+#: functions/wc/actions.php:134
+msgid "Quick View"
+msgstr "Snel bekijken"
+
+#: functions/wc/actions.php:249
+msgid "Zoom"
+msgstr "Zoom"
+
+#: functions/wc/actions.php:272
+#, fuzzy
+msgid "Play Video"
+msgstr "Video afspelen"
+
+#: functions/wc/actions.php:314
+msgid "Continue shopping"
+msgstr "Verder winkelen"
+
+#: functions/wc/actions.php:335
+#, fuzzy
+msgid "Go to product page"
+msgstr "Ga naar de productpagina"
+
+#: functions/wc/actions.php:460
+msgid "Product Search"
+msgstr "Producten zoeken"
+
+#: functions/wc/actions.php:474
+msgid "Select Category"
+msgstr "Selecteer Categorie"
+
+#: functions/wc/actions.php:496
+msgid "Featured products"
+msgstr "Uitgelichte producten"
+
+#: functions/wc/actions.php:499
+msgid "Search suggestions"
+msgstr "Zoeksuggesties"
+
+#: functions/wc/filters.php:187
+#, fuzzy
+msgid "You might like these"
+msgstr "Misschien wilt u deze"
+
+#: functions/wp/popular-posts.php:24
+msgid "Featured Posts"
+msgstr "Uitgelichte Artikelen"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:31
+#: inc/admin/wizard/class-gbt-install-wizard.php:32
+msgid "Theme Setup"
+msgstr "Thema-setup"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:52
+msgid "Introduction"
+msgstr "Introductie"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:57
+msgid "Plugins"
+msgstr "Plugins"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:62
+msgid "Demo Import"
+msgstr "Importeren Demo"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:67
+msgid "Ready!"
+msgstr "Klaar!"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:210
+msgid "Return to the WordPress Dashboard"
+msgstr "Ga terug naar het WordPress Dashboard"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:233
+#, php-format
+msgid "%s 's"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:233
+#, fuzzy
+msgid "Theme Setup Wizard"
+msgstr "Thema-instelling Wizard"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:234
+#, fuzzy
+msgid "The quickest way to setup the theme"
+msgstr "De snelste manier om het thema in te stellen"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:234
+#, fuzzy
+msgid "and start working on your site."
+msgstr "en ga aan de slag op uw site."
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:235
+msgid "Let's go!"
+msgstr "Aan de slag!"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:249
+#, fuzzy
+msgid "Plugin Installation"
+msgstr "Installatie van de plugin"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:250
+#, fuzzy
+msgid "Install the required plugins before importing the demo content."
+msgstr "Installeer de vereiste plugins voordat u de demo-inhoud importeert."
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:258
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:264
+#: inc/admin/wizard/class-gbt-install-wizard.php:381
+msgid "Skip"
+msgstr "Overslaan"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:265
+#: inc/admin/wizard/class-gbt-install-wizard.php:383
+msgid "Install"
+msgstr "Installeer"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:337
+msgid "Install Now"
+msgstr "Installeer Nu"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:338
+msgid "Update Now"
+msgstr "Nu updaten"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:339
+msgid "Activate"
+msgstr "Activeren"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:344
+msgid "Active"
+msgstr "Actief"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:367
+msgid "Demo Content Import"
+msgstr "Demo inhoud importeren"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:368
+#, fuzzy
+msgid "Start with pre-built page layouts, dummy product pages,"
+msgstr "Begin met voorgebouwde paginalay-outs, dummy productpagina's,"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:368
+#, fuzzy
+msgid "blog posts and widgets."
+msgstr "blogberichten en widgets."
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:376
+#, fuzzy
+msgid ""
+"Please make sure Visual Composer and WooCommerce are installed and activated "
+"before importing the demo content."
+msgstr ""
+"Zorg ervoor dat Visual Composer en WooCommerce zijn geïnstalleerd en "
+"geactiveerd voordat u de demo-inhoud importeert."
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:385
+msgid "Go back"
+msgstr "Ga terug"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:390
+#, fuzzy
+msgid "Importing, please wait!"
+msgstr "Importeren, even geduld a.u.b.!"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:410
+#, fuzzy
+msgid "Setup has completed successfully!"
+msgstr "De installatie is succesvol afgerond!"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:411
+#, fuzzy
+msgid "You should be able to start working on your site now."
+msgstr "U zou nu aan de slag moeten kunnen gaan met uw site."
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:412
+#, fuzzy
+msgid "Best of luck with your project!"
+msgstr "Veel succes met uw project!"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:417
+#, fuzzy
+msgid "What now?"
+msgstr "Wat nu?"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:418
+msgid "View Site"
+msgstr "Site bekijken"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:421
+msgid "What's next?"
+msgstr "Wat volgt?"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:423
+#, fuzzy
+msgid "Customize the theme"
+msgstr "Het thema aanpassen"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:435
+#, fuzzy
+msgid "Activate Theme Updates"
+msgstr "Thema-updates activeren"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:438
+#, fuzzy
+msgid "WooCommerce Setup Wizard"
+msgstr "WooCommerce Setup Wizard"
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:439
+#, fuzzy
+#| msgid "Theme Default"
+msgid "Theme Documentation"
+msgstr "Thema Standaard"
+
+#: inc/customizer/backend/blog/archives.php:9
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_blog_categories.php:5
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_blog_categories.php:8
+msgid "Blog Categories"
+msgstr "Blog Categorie"
+
+#: inc/customizer/backend/blog/archives.php:26
+#, fuzzy
+msgid "Highlight first three posts"
+msgstr "Markeer de eerste drie berichten"
+
+#: inc/customizer/backend/blog/archives.php:43
+#: inc/customizer/backend/blog/single.php:9 inc/widgets/widget-areas.php:10
+msgid "Blog Sidebar"
+msgstr "Blog Sidebar"
+
+#: inc/customizer/backend/blog/archives.php:60
+#: inc/customizer/backend/blog/single.php:26
+#: inc/customizer/backend/product/index.php:48
+#: inc/customizer/backend/shop/layout.php:33
+msgid "Sidebar Position"
+msgstr "Zijbalk positie"
+
+#: inc/customizer/backend/blog/archives.php:65
+#: inc/customizer/backend/blog/single.php:31
+#: inc/customizer/backend/shop/layout.php:38
+msgid "Left"
+msgstr "Links"
+
+#: inc/customizer/backend/blog/archives.php:66
+#: inc/customizer/backend/blog/single.php:32
+#: inc/customizer/backend/shop/layout.php:39
+msgid "Right"
+msgstr "Rechts"
+
+#: inc/customizer/backend/blog/archives.php:95
+#: inc/customizer/backend/shop/layout.php:61
+msgid "Pagination"
+msgstr "Paginering"
+
+#: inc/customizer/backend/blog/archives.php:100
+#: inc/customizer/backend/shop/layout.php:66
+msgid "Classic"
+msgstr "Klassiek"
+
+#: inc/customizer/backend/blog/archives.php:101
+#: inc/customizer/backend/shop/layout.php:67
+msgid "Load More"
+msgstr "Meer laden"
+
+#: inc/customizer/backend/blog/archives.php:102
+#: inc/customizer/backend/shop/layout.php:68
+msgid "Infinite"
+msgstr "Oneindig"
+
+#: inc/customizer/backend/blog/index.php:8
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:47
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:52
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:55
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:60
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer/backend/blog/index.php:18
+msgid "Blog Archives"
+msgstr "Blog Archieven"
+
+#: inc/customizer/backend/blog/index.php:25
+msgid "Single Post"
+msgstr "Enkel Bericht"
+
+#: inc/customizer/backend/blog/single.php:61
+msgid "Display Featured Image"
+msgstr "Uitgelichte afbeelding tonen"
+
+#: inc/customizer/backend/fonts/index.php:15
+msgid "Fonts"
+msgstr "Lettertypen"
+
+#: inc/customizer/backend/fonts/index.php:32
+msgid "Base Font Size"
+msgstr "Basis lettertype grootte"
+
+#: inc/customizer/backend/fonts/index.php:33
+#, fuzzy
+msgid ""
+"The Base Font Size refers to the size applied to the paragraph text. All "
+"other elements, such as headings, links, buttons, etc will adjusted "
+"automatically to keep the hierarchy of font sizes based on this one size. "
+"Easy-peasy!"
+msgstr ""
+"De basislettergrootte verwijst naar de grootte van de paragraaftekst. Alle "
+"andere elementen, zoals koppen, links, knoppen, enz. worden automatisch "
+"aangepast om de hiërarchie van lettergroottes op basis van deze ene grootte "
+"te behouden. Gemakkelijk-peasy-peasy!"
+
+#: inc/customizer/backend/fonts/index.php:55
+msgid "Body Font"
+msgstr "Body Lettertype"
+
+#: inc/customizer/backend/fonts/index.php:75
+msgid "Headings Font"
+msgstr "Koptekst lettertype"
+
+#: inc/customizer/backend/footer/index.php:15
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer/backend/footer/index.php:32
+msgid "Footer Layout"
+msgstr "Footer-Layout"
+
+#: inc/customizer/backend/footer/index.php:53
+#, fuzzy
+msgid "Pre Footer"
+msgstr "Voettekst"
+
+#: inc/customizer/backend/footer/index.php:71
+msgid "Footer Background Color"
+msgstr "Footer Achtergrondkleur"
+
+#: inc/customizer/backend/footer/index.php:88
+msgid "Footer Font Color"
+msgstr "Fouter tekstkleur"
+
+#: inc/customizer/backend/footer/index.php:105
+msgid "Footer Headings Color"
+msgstr "Voettekstkleur headers"
+
+#: inc/customizer/backend/footer/index.php:122
+#, fuzzy
+msgid "Footnote / Copyright Text"
+msgstr "Voetnoot / Copyright Tekst"
+
+#: inc/customizer/backend/footer/index.php:124
+#: inc/customizer/read_options.php:138
+msgid "Powered by "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: inc/customizer/backend/footer/index.php:124
+#: inc/customizer/read_options.php:138
+#, fuzzy
+msgid "The Hanger"
+msgstr "De Hanger"
+
+#: inc/customizer/backend/footer/index.php:125
+msgid ""
+"Allowed HTML tags: a, abbr, acronym, b, blockquote, cite, code, del, em, i, "
+"q, s, strike, strong"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:141
+#, fuzzy
+msgid "Collapsed Widget Area on Mobiles"
+msgstr "Ingestort widget gebied op mobiele telefoons"
+
+#: inc/customizer/backend/footer/index.php:158
+msgid "Payment Options"
+msgstr "Betaalopties"
+
+#: inc/customizer/backend/footer/index.php:163
+msgid "Payment Option"
+msgstr "Betalingsoptie kiezen"
+
+#: inc/customizer/backend/footer/index.php:166
+#, fuzzy
+msgid "Add New Payment Option"
+msgstr "Nieuwe betalingsoptie toevoegen"
+
+#: inc/customizer/backend/footer/index.php:170
+#: inc/customizer/read_options.php:142
+msgid "Visa"
+msgstr "Visa"
+
+#: inc/customizer/backend/footer/index.php:174
+#: inc/customizer/read_options.php:146
+msgid "MasterCard"
+msgstr "MasterCard"
+
+#: inc/customizer/backend/footer/index.php:178
+#: inc/customizer/read_options.php:150
+#, fuzzy
+msgid "Amex"
+msgstr "Amex"
+
+#: inc/customizer/backend/footer/index.php:182
+#: inc/customizer/read_options.php:154
+msgid "PayPal"
+msgstr "PayPal"
+
+#: inc/customizer/backend/footer/index.php:186
+#: inc/customizer/read_options.php:158
+msgid "Amazon"
+msgstr "Amazon"
+
+#: inc/customizer/backend/footer/index.php:193
+msgid "Name"
+msgstr "Naam"
+
+#: inc/customizer/backend/footer/index.php:198
+msgid "Icon"
+msgstr "Icoon"
+
+#: inc/customizer/backend/global/index.php:15
+msgid "Global"
+msgstr "Algemeen"
+
+#: inc/customizer/backend/global/index.php:31
+msgid "Site Width"
+msgstr "Site breedte"
+
+#: inc/customizer/backend/global/index.php:53
+#, fuzzy
+msgid "Make it 100%"
+msgstr "Maak het 100%"
+
+#: inc/customizer/backend/global/index.php:70
+msgid "Body Background"
+msgstr "Body Achtergrond"
+
+#: inc/customizer/backend/global/index.php:101
+msgid "Content Layout"
+msgstr "Inhoudopmaak"
+
+#: inc/customizer/backend/global/index.php:122
+msgid "Content Background"
+msgstr "Achtergrond Inhoud"
+
+#: inc/customizer/backend/global/index.php:139
+msgid "Main Font Color"
+msgstr "Hoofdkleur Lettertypen"
+
+#: inc/customizer/backend/global/index.php:156
+msgid "Secondary Font Color"
+msgstr "Tweede Letter Kleur"
+
+#: inc/customizer/backend/global/index.php:173
+#: inc/customizer/backend/header/mega_header/topbar.php:137
+msgid "Accent Color"
+msgstr "Accentkleur"
+
+#: inc/customizer/backend/header/index.php:8
+msgid "Header"
+msgstr "Header"
+
+#: inc/customizer/backend/header/index.php:21
+#, fuzzy
+msgid "Header Template"
+msgstr "Voorloopsjabloon"
+
+#: inc/customizer/backend/header/index.php:26
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: inc/customizer/backend/header/index.php:27
+#, fuzzy
+msgid "Simplified"
+msgstr "Vereenvoudigd"
+
+#: inc/customizer/backend/header/mega_header/dropdowns.php:9
+#, fuzzy
+msgid "Dropdowns Background Color"
+msgstr "Dropdowns Achtergrondkleur"
+
+#: inc/customizer/backend/header/mega_header/dropdowns.php:26
+#, fuzzy
+msgid "Dropdowns Text Color"
+msgstr "Dropdowns Tekstkleur"
+
+#: inc/customizer/backend/header/mega_header/dropdowns.php:43
+#, fuzzy
+msgid "Dropdowns Accent Color"
+msgstr "Dropdowns Accent Kleur"
+
+#: inc/customizer/backend/header/mega_header/elements.php:9
+#: inc/customizer/backend/header/simplified/elements.php:9
+msgid "Account"
+msgstr "Account"
+
+#: inc/customizer/backend/header/mega_header/elements.php:28
+#: inc/customizer/backend/header/simplified/elements.php:28
+#: template-parts/headers/header-mobiles.php:135
+#: template-parts/headers/header-sticky-product.php:65
+msgid "Wishlist"
+msgstr "Verlanglijst"
+
+#: inc/customizer/backend/header/mega_header/elements.php:47
+#: inc/customizer/backend/header/simplified/elements.php:47
+msgid "Cart"
+msgstr "Winkelwagen"
+
+#: inc/customizer/backend/header/mega_header/elements.php:57
+#: inc/customizer/backend/header/simplified/elements.php:57
+#, fuzzy
+msgid "Bottom Mini Cart Text"
+msgstr "Tekst van de bodemwagen"
+
+#: inc/customizer/backend/header/mega_header/elements.php:59
+#: inc/customizer/backend/header/mega_header/topbar.php:272
+#: inc/customizer/backend/header/simplified/elements.php:59
+#: inc/customizer/read_options.php:47 inc/customizer/read_options.php:57
+#: inc/customizer/read_options.php:78
+#, fuzzy
+msgid "Free shipping on all orders over $75"
+msgstr "Gratis verzending op alle bestellingen boven de $75"
+
+#: inc/customizer/backend/header/mega_header/index.php:7
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:13
+#: inc/customizer/backend/header/simplified/index.php:4
+msgid "Settings"
+msgstr "Instellingen"
+
+#: inc/customizer/backend/header/mega_header/index.php:14
+#: inc/customizer/backend/header/mega_header/logo.php:9
+#: inc/customizer/backend/header/simplified/index.php:11
+#: inc/customizer/backend/header/simplified/logo.php:9
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer/backend/header/mega_header/index.php:21
+#: inc/customizer/backend/header/simplified/index.php:18
+msgid "Icons"
+msgstr "Pictogrammen"
+
+#: inc/customizer/backend/header/mega_header/index.php:28
+#: inc/customizer/backend/header/mega_header/topbar.php:9
+#: inc/menus/menus.php:10
+msgid "Top Bar"
+msgstr "Hoofd balk"
+
+#: inc/customizer/backend/header/mega_header/index.php:35
+#, fuzzy
+msgid "Dropdowns"
+msgstr "Dropdowns"
+
+#: inc/customizer/backend/header/mega_header/index.php:42
+#, fuzzy
+msgid "Mobile Header"
+msgstr "Mobiele kopbal"
+
+#: inc/customizer/backend/header/mega_header/index.php:49
+msgid "Sticky Header"
+msgstr "Sticky Header"
+
+#: inc/customizer/backend/header/mega_header/logo.php:28
+#: inc/customizer/backend/header/simplified/logo.php:28
+msgid "Logo Width"
+msgstr "Logo breedte"
+
+#: inc/customizer/backend/header/mega_header/logo.php:52
+#: inc/customizer/backend/header/simplified/logo.php:52
+msgid "Alternative Logo"
+msgstr "Alternatief Logo"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:7
+#, fuzzy
+msgid "Mega Button"
+msgstr "Megaknop"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:19
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:7
+msgid "Mega Menu"
+msgstr "Mega Menu"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:45
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:354
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:53
+#, fuzzy
+msgid "Shop - Mega Menu"
+msgstr "Winkel - Mega Menu"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:46
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:355
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:54
+#, fuzzy
+msgid "Shop - Category Icons"
+msgstr "Winkel - Categorie Pictogrammen"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:66
+#, fuzzy
+msgid "Enable Mega Button?"
+msgstr "Megaknop inschakelen?"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:71
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:131
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:176
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:216
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:282
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:323
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:468
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:88
+#: inc/customizer/backend/header/mega_header/settings.php:119
+#: inc/customizer/backend/header/simplified/settings.php:142
+msgid "On"
+msgstr "Aan"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:72
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:132
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:177
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:217
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:283
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:324
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:469
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:89
+#: inc/customizer/backend/header/mega_header/settings.php:120
+#: inc/customizer/backend/header/simplified/settings.php:143
+msgid "Off"
+msgstr "Uit"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:94
+#, fuzzy
+msgid "Wording"
+msgstr "Omschrijving"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:96
+#: inc/customizer/read_options.php:163
+msgid "Browse Categories"
+msgstr "Blader door Categorieën"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:126
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:6
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_icons.php:6
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:6
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_icons.php:6
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:8
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_icons.php:8
+msgid "Product Categories"
+msgstr "Productcategorieën"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:171
+msgid "Show Product Counts?"
+msgstr "Toon productaantallen?"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:211
+#, fuzzy
+msgid "Show Category Icons?"
+msgstr "Categorie Pictogrammen tonen?"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:277
+msgid "Menu Location"
+msgstr "Menu Location"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:318
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:463
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:83
+#, fuzzy
+msgid "Enable Megamenu?"
+msgstr "Megamenu inschakelen?"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:349
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:513
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:111
+#, fuzzy
+msgid "Dropdown Type"
+msgstr "Dropdown Type"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:80
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:70
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:50
+#, fuzzy
+msgid "Show Product Counts"
+msgstr "Toon productaantallen"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:118
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:103
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:72
+#, fuzzy
+msgid "Thumbs for Parent Categories"
+msgstr "Duimen voor oudercategorieën"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:156
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:136
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:94
+#, fuzzy
+msgid "Display Subcategories"
+msgstr "Subcategorieën weergeven"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:229
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:199
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:135
+msgid "Featured Products"
+msgstr "Aanbevolen producten"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:302
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:262
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:176
+#, fuzzy
+msgid "Bottom Links"
+msgstr "Bodem Links"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:340
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:295
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:198
+msgid "New Arrivals"
+msgstr "Nieuw binnen gekomen"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:383
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:333
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:225
+msgid "Sale"
+msgstr "Sale"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:461
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:401
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:271
+#, fuzzy
+msgid "Bottom Call to Action"
+msgstr "Bottom Call to Action"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:5
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:5
+msgid "Image Upload"
+msgstr "Upload afbeelding"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:66
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:46
+msgid "Phone Number"
+msgstr "Telefoonnummer"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:68
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:48
+#, fuzzy
+msgid "Call Us +40 123 123 123"
+msgstr "Bel ons op +40 123 123 123 123 123 123"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:98
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:68
+msgid "Business Hours"
+msgstr "Openingstijden"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:100
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:70
+#, fuzzy
+msgid "Monday — Friday,<br/>9:00 AM — 5:00 PM"
+msgstr "Maandag - vrijdag,<br/>9:00 AM - 5:00 PM"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:130
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:90
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:132
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:92
+#, fuzzy
+msgid "support@yourstore.com"
+msgstr "support@yourstore.com"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:162
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:112
+msgid "Location"
+msgstr "Locatie"
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:164
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:114
+#, fuzzy
+msgid "17 Princess Road<br/>London, Greater London<br/>NW1 8JRUK, Europe"
+msgstr "17 Princess Road<br/>Londen, Groot-Londen<br/>NW1 8JRUK, Europa"
+
+#: inc/customizer/backend/header/mega_header/mobile.php:11
+#, fuzzy
+msgid "Mobile Mega Button"
+msgstr "Mobiele megaknop"
+
+#: inc/customizer/backend/header/mega_header/mobile.php:16
+#: inc/customizer/backend/header/mega_header/mobile.php:38
+msgid "Default"
+msgstr "Standaard"
+
+#: inc/customizer/backend/header/mega_header/mobile.php:17
+#, fuzzy
+msgid "Large Category Icons"
+msgstr "Grote categorie pictogrammen"
+
+#: inc/customizer/backend/header/mega_header/mobile.php:18
+msgid "Hide"
+msgstr "Verberg"
+
+#: inc/customizer/backend/header/mega_header/mobile.php:33
+#, fuzzy
+msgid "Mobile Megamenu"
+msgstr "Mobiele Megamenu"
+
+#: inc/customizer/backend/header/mega_header/mobile.php:39
+#, fuzzy
+msgid "Simple links"
+msgstr "Eenvoudige links"
+
+#: inc/customizer/backend/header/mega_header/mobile.php:54
+#, fuzzy
+msgid "Mobile Menu Text"
+msgstr "Mobiele Megamenu"
+
+#: inc/customizer/backend/header/mega_header/mobile.php:56
+#: inc/customizer/read_options.php:40
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/customizer/backend/header/mega_header/settings.php:9
+#: inc/customizer/backend/header/simplified/settings.php:10
+msgid "Header Layout"
+msgstr "Koptekst layout"
+
+#: inc/customizer/backend/header/mega_header/settings.php:14
+#: inc/customizer/backend/header/mega_header/topbar.php:38
+#: inc/customizer/backend/header/simplified/settings.php:15
+msgid "Boxed"
+msgstr "Boxed"
+
+#: inc/customizer/backend/header/mega_header/settings.php:15
+#: inc/customizer/backend/header/mega_header/topbar.php:39
+#: inc/customizer/backend/header/simplified/settings.php:16
+msgid "Full"
+msgstr "Volledig"
+
+#: inc/customizer/backend/header/mega_header/settings.php:32
+#: inc/customizer/backend/header/simplified/settings.php:55
+msgid "Header Background Color"
+msgstr "Achtergrondkleur Header"
+
+#: inc/customizer/backend/header/mega_header/settings.php:51
+#: inc/customizer/backend/header/simplified/settings.php:74
+msgid "Header Text Color"
+msgstr "Kleur Headertekst"
+
+#: inc/customizer/backend/header/mega_header/settings.php:70
+#: inc/customizer/backend/header/simplified/settings.php:93
+#, fuzzy
+msgid "Header Accent Color"
+msgstr "Kopbal Accent Kleur"
+
+#: inc/customizer/backend/header/mega_header/settings.php:89
+#: inc/customizer/backend/header/simplified/settings.php:112
+msgid "Header Text Size"
+msgstr "Titel tekst grootte"
+
+#: inc/customizer/backend/header/mega_header/settings.php:114
+#: inc/customizer/backend/header/simplified/settings.php:137
+msgid "Header Search"
+msgstr "Paginahoofd zoek"
+
+#: inc/customizer/backend/header/mega_header/settings.php:128
+#: inc/customizer/backend/header/simplified/settings.php:151
+msgid "Search by Category"
+msgstr "Zoeken op categorie"
+
+#: inc/customizer/backend/header/mega_header/sticky.php:9
+#, fuzzy
+msgid "Sticky Header Visibility"
+msgstr "Kleverige Header Zichtbaarheid"
+
+#: inc/customizer/backend/header/mega_header/sticky.php:28
+#, fuzzy
+msgid "Include Top Bar"
+msgstr "Inclusief bovenste balk"
+
+#: inc/customizer/backend/header/mega_header/topbar.php:33
+msgid "Top Bar Layout"
+msgstr "Bovenste balk indeling"
+
+#: inc/customizer/backend/header/mega_header/topbar.php:75
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: inc/customizer/backend/header/mega_header/topbar.php:106
+msgid "Text Color"
+msgstr "Tekstkleur"
+
+#: inc/customizer/backend/header/mega_header/topbar.php:168
+msgid "Text Size"
+msgstr "Tekstgrootte"
+
+#: inc/customizer/backend/header/mega_header/topbar.php:204
+#, fuzzy
+msgid "Info 1"
+msgstr "Info 1"
+
+#: inc/customizer/backend/header/mega_header/topbar.php:221
+#: inc/customizer/read_options.php:55
+#, fuzzy
+msgid "Call +40 123 456 789"
+msgstr "Bel +40 123 456 789"
+
+#: inc/customizer/backend/header/mega_header/topbar.php:255
+#, fuzzy
+msgid "Info 2"
+msgstr "Info 2"
+
+#: inc/customizer/backend/header/simplified/settings.php:35
+msgid "Header Menu"
+msgstr "Header Menu"
+
+#: inc/customizer/backend/product/index.php:15
+msgid "Product Page"
+msgstr "Product pagina"
+
+#: inc/customizer/backend/product/index.php:31 inc/widgets/widget-areas.php:40
+#, fuzzy
+msgid "Single Product Sidebar"
+msgstr "Enige Productzijbalk"
+
+#: inc/customizer/backend/product/index.php:83
+#, fuzzy
+msgid "Up-sells Display"
+msgstr "Up-sells Vertoning"
+
+#: inc/customizer/backend/product/index.php:100
+#, fuzzy
+msgid "Related Products Display"
+msgstr "Gerelateerde producten weergeven"
+
+#: inc/customizer/backend/product/index.php:117
+#, fuzzy
+#| msgid "Sidebar Position"
+msgid "Tabs Position"
+msgstr "Zijbalk positie"
+
+#: inc/customizer/backend/product/index.php:122
+#, fuzzy
+#| msgid "Product Search"
+msgid "Product summary"
+msgstr "Producten zoeken"
+
+#: inc/customizer/backend/product/index.php:123
+msgid "After product summary"
+msgstr ""
+
+#: inc/customizer/backend/product/index.php:138
+#, fuzzy
+msgid "Description Box Open At All Times"
+msgstr "Beschrijving Box Open At All Times"
+
+#: inc/customizer/backend/shop/catalog_mode.php:9
+#: inc/customizer/backend/shop/index.php:25
+msgid "Catalog Mode"
+msgstr "Catalogus Modus"
+
+#: inc/customizer/backend/shop/catalog_mode.php:33
+#, fuzzy
+msgid "Remove Add to Cart Button"
+msgstr "Verwijder Toevoegen aan winkelwagenknop"
+
+#: inc/customizer/backend/shop/catalog_mode.php:64
+#, fuzzy
+msgid "Remove Product Price"
+msgstr "Productprijs verwijderen"
+
+#: inc/customizer/backend/shop/custom_archives.php:10
+#, fuzzy
+#| msgid "Sale"
+msgid "Sales"
+msgstr "Sale"
+
+#: inc/customizer/backend/shop/custom_archives.php:16
+#, fuzzy
+msgid "Sale Badge Wording"
+msgstr "De Wording van het verkoopkenteken"
+
+#: inc/customizer/backend/shop/custom_archives.php:18
+#: inc/customizer/read_options.php:105
+msgid "Sale!"
+msgstr "Aanbieding!"
+
+#: inc/customizer/backend/shop/custom_archives.php:33
+#, fuzzy
+msgid "Sales Section in Shop"
+msgstr "Verkoopsectie in de winkel"
+
+#: inc/customizer/backend/shop/custom_archives.php:57
+#, fuzzy
+msgid "Sales Section Page Title"
+msgstr "Verkoopsectie Pagina Titel"
+
+#: inc/customizer/backend/shop/custom_archives.php:59
+#: inc/customizer/read_options.php:104
+#, fuzzy
+msgid "On Sale!"
+msgstr "Aanbieding!"
+
+#: inc/customizer/backend/shop/custom_archives.php:88
+#, fuzzy
+msgid "Sales Section Page Slug"
+msgstr "Verkoopsectie Pagina Slug"
+
+#: inc/customizer/backend/shop/custom_archives.php:107
+#: inc/customizer/backend/shop/custom_archives.php:170
+#: inc/customizer/read_options.php:108
+#, fuzzy
+msgid "New Products"
+msgstr "Nieuwe producten"
+
+#: inc/customizer/backend/shop/custom_archives.php:113
+#, fuzzy
+msgid "New Products Section in Shop"
+msgstr "Nieuwe producten in de winkel"
+
+#: inc/customizer/backend/shop/custom_archives.php:137
+#, fuzzy
+msgid "New Products Badge Wording"
+msgstr "Nieuwe producten Badge Wording"
+
+#: inc/customizer/backend/shop/custom_archives.php:139
+#: inc/customizer/read_options.php:109
+msgid "New!"
+msgstr "Nieuw!"
+
+#: inc/customizer/backend/shop/custom_archives.php:168
+#, fuzzy
+msgid "New Products Section Page Title"
+msgstr "Nieuwe producten Rubriek Pagina Titel"
+
+#: inc/customizer/backend/shop/custom_archives.php:199
+#, fuzzy
+msgid "New Products Section Page Slug"
+msgstr "Nieuwe producten Rubriek Pagina Slakken"
+
+#: inc/customizer/backend/shop/custom_archives.php:230
+#, fuzzy
+msgid "Show new products by:"
+msgstr "Toon nieuwe producten per:"
+
+#: inc/customizer/backend/shop/custom_archives.php:235
+#, fuzzy
+msgid "Day Added"
+msgstr "Dag toegevoegd"
+
+#: inc/customizer/backend/shop/custom_archives.php:236
+#, fuzzy
+msgid "Last Added"
+msgstr "Laatst toegevoegd"
+
+#: inc/customizer/backend/shop/custom_archives.php:252
+#, fuzzy
+msgid "Show products added in the past x days:"
+msgstr "Toon producten die in het verleden zijn toegevoegd <i>x</i> dagen:"
+
+#: inc/customizer/backend/shop/custom_archives.php:278
+#, fuzzy
+msgid "Show last x products:"
+msgstr "Toon laatste <i>x</i> producten:"
+
+#: inc/customizer/backend/shop/index.php:8
+msgid "Shop"
+msgstr "Winkel"
+
+#: inc/customizer/backend/shop/index.php:18
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/customizer/backend/shop/index.php:32
+#, fuzzy
+msgid "Custom Archives"
+msgstr "Archief op maat"
+
+#: inc/customizer/backend/shop/layout.php:9 inc/widgets/widget-areas.php:20
+msgid "Shop Sidebar"
+msgstr "Winkel Zijbalk"
+
+#: inc/customizer/backend/shop/layout.php:83
+msgid "Layout Style"
+msgstr "Opmaakstijl"
+
+#: inc/customizer/backend/shop/layout.php:88
+msgid "Grid"
+msgstr "Raster"
+
+#: inc/customizer/backend/shop/layout.php:89
+msgid "List"
+msgstr "Lijst"
+
+#: inc/customizer/backend/shop/layout.php:104
+#, fuzzy
+msgid "Second Product Image on Hover"
+msgstr "2<sup>eind</sup> Productafbeelding op Hover"
+
+#: inc/customizer/backend/shop/layout.php:121
+#, fuzzy
+msgid "Number of Columns on Mobile"
+msgstr "Aantal kolommen op Mobiel"
+
+#: inc/demo/ocdi-setup.php:126
+msgid "One Click Demo Import"
+msgstr "Één klik Demo Import"
+
+#: inc/demo/ocdi-setup.php:127
+msgid "Import Demo Data"
+msgstr "Importeer demo data"
+
+#: inc/menus/menus.php:11
+#, fuzzy
+msgid "Navigation Button"
+msgstr "Navigatie knop"
+
+#: inc/menus/menus.php:12
+msgid "Main Navigation"
+msgstr "Hoofdnavigatie"
+
+#: inc/menus/menus.php:13
+#, fuzzy
+msgid "Alternative Main Navigation"
+msgstr "Alternatieve hoofdnavigatie"
+
+#: inc/menus/menus.php:14
+msgid "Secondary Navigation"
+msgstr "Secundaire Navigatie"
+
+#: inc/menus/menus.php:15
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#: inc/metaboxes/product.php:6
+msgid "Product Options"
+msgstr "Productopties"
+
+#: inc/metaboxes/product.php:20
+#, fuzzy
+#| msgid "Youtube"
+msgid "Youtube Video"
+msgstr "YouTube"
+
+#: inc/widgets/widget-areas.php:30
+msgid "Shop Filters"
+msgstr "Winkel Filters"
+
+#: inc/widgets/widget-areas.php:50
+#, fuzzy
+msgid "Pre-Footer Widgets"
+msgstr "Voorvoetse Widgets"
+
+#: inc/widgets/widget-areas.php:59
+msgid "Footer Widgets"
+msgstr "Footer widgets"
+
+#: search.php:8
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: single.php:84
+msgid "Previous Reading"
+msgstr "Vorig bericht"
+
+#: single.php:90
+msgid "Next Reading"
+msgstr "Volgend bericht"
+
+#: template-parts/content/content-highlight.php:29
+#: template-parts/content/content.php:31
+msgid "Read More"
+msgstr "Lees meer"
+
+#: template-parts/content/content-none.php:4
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: template-parts/content/content-none.php:12
+msgid "Ready to publish your first post?"
+msgstr "Klaar om je eerste bericht te publiceren?"
+
+#: template-parts/content/content-none.php:13
+msgid "Get started here."
+msgstr "Begin hier."
+
+#: template-parts/content/content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, maar we hebben geen resultaten gevonden. Probeer een andere zoekterm."
+
+#: template-parts/content/content-none.php:24
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Het lijkt er op dat we niet kunnen vinden wat je zoekt. Wellicht kan een "
+"zoekopdracht helpen."
+
+#: template-parts/content/content-page.php:10
+#: template-parts/content/content-search.php:47
+#: template-parts/content/content-single.php:47
+msgid "Pages:"
+msgstr "Pagina’s:"
+
+#: template-parts/content/content-search.php:28
+#: template-parts/content/content-single.php:28
+msgid "on "
+msgstr ""
+
+#: template-parts/content/content-search.php:36
+#: template-parts/content/content-single.php:36
+#: template-parts/headers/header-sticky-blog.php:20
+msgid "Comments"
+msgstr "Reacties"
+
+#: template-parts/content/content-search.php:36
+#: template-parts/content/content-single.php:36
+msgid "Comment"
+msgstr "Reactie"
+
+#: template-parts/headers/header-mobiles.php:126
+msgid "My account"
+msgstr "Mijn account"
+
+#: template-parts/headers/header-sticky-blog.php:9
+#, fuzzy
+msgid "Reading Now"
+msgstr "Nu lezen"
+
+#: woocommerce/archive-product.php:60
+#, php-format
+msgid "%d items"
+msgstr "%d producten"
+
+#: woocommerce/archive-product.php:70
+msgid "Filters"
+msgstr "Filters"
+
+#. Theme URI of the plugin/theme
+#, fuzzy
+msgid "http://thehanger.wp-theme.design/"
+msgstr "http://thehanger.wp-theme.design/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "Available exclusively on the Envato Market."
+msgstr "Uitsluitend verkrijgbaar op de Envatomarkt."
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "Get Bowtied"
+msgstr "Krijgen Bowtied"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://www.getbowtied.com/"
+msgstr "https://www.getbowtied.com/"
+
+#, fuzzy
+#~ msgid "Theme User Guide &amp; Support"
+#~ msgstr "Thema Gebruikershandleiding &amp; Ondersteuning"
+
+#, fuzzy
+#~ msgid "© The Hanger — Exclusively on the Envato Market"
+#~ msgstr "© De Hanger - Uitsluitend op de Envatomarkt"
+
+#, fuzzy
+#~ msgid "<span class=\"pages\">Pages:</span>"
+#~ msgstr "<span class=\"pagina's\">Pagina's:</span>"
+
+#~ msgid "Share"
+#~ msgstr "Delen"
+
+#~ msgid "Social Media Icons"
+#~ msgstr "Sociale media iconen"
+
+#~ msgid "Social Media"
+#~ msgstr "Social Media"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Pinterest"
+#~ msgstr "Pinterest"
+
+#~ msgid "LinkedIn"
+#~ msgstr "LinkedIn"
+
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#~ msgid "RSS"
+#~ msgstr "RSS"
+
+#~ msgid "Tumblr"
+#~ msgstr "Tumblr"
+
+#~ msgid "Instagram"
+#~ msgstr "Instagram"
+
+#~ msgid "Vimeo"
+#~ msgstr "Vimeo"
+
+#~ msgid "Behance"
+#~ msgstr "Behance"
+
+#~ msgid "Dribbble"
+#~ msgstr "Dribbble"
+
+#~ msgid "Flickr"
+#~ msgstr "Flickr"
+
+#~ msgid "Git"
+#~ msgstr "Git"
+
+#~ msgid "Skype"
+#~ msgstr "Skype"
+
+#~ msgid "Weibo"
+#~ msgstr "Weibo"
+
+#~ msgid "Foursquare"
+#~ msgstr "Foursquare"
+
+#~ msgid "Soundcloud"
+#~ msgstr "Soundcloud"
+
+#~ msgid "Snapchat"
+#~ msgstr "Snapchat"
+
+#~ msgid "Tweet"
+#~ msgstr "Tweet"
+
+#~ msgid "View all posts"
+#~ msgstr "Bekijk alle berichten"
+
+#~ msgid "Upload/Add image"
+#~ msgstr "Upload afbeelding"
+
+#~ msgid "Remove image"
+#~ msgstr "Verwijder afbeelding"
+
+#~ msgid "Choose an image"
+#~ msgstr "Kies een afbeelding"
+
+#~ msgid "Use image"
+#~ msgstr "Gebruik afbeelding"
+
+#, fuzzy
+#~ msgid "Icon Img"
+#~ msgstr "Pictogram Img"
+
+#~ msgid "Icon Type"
+#~ msgstr "Icoon type"
+
+#~ msgid "Custom Icon"
+#~ msgstr "Aangepast icoon"
+
+#, fuzzy
+#~ msgid "'s"
+#~ msgstr "%s"
+
+#, fuzzy
+#~ msgid "<span class=\"big-separator\">Sales</span>"
+#~ msgstr "<span class=\"big-separator\">Verkoop</span>"
+
+#, fuzzy
+#~ msgid "<span class=\"big-separator margin-top\">New Products</span>"
+#~ msgstr "<span class=\"big-separator margin-top\">Nieuwe producten</span>"
+
+#~ msgid "<span>on</span> "
+#~ msgstr "<span>on</span> "
+
+#~ msgid "Required"
+#~ msgstr "Verplicht"
+
+#, fuzzy
+#~ msgid "eCommerce Info"
+#~ msgstr "Informatie over eCommerce"
+
+#, fuzzy
+#~ msgid "A widget that displays eCommerce Infos"
+#~ msgstr "Een widget die eCommerce Infos toont"
+
+#, fuzzy
+#~ msgid "eCommerce Info Title"
+#~ msgstr "Titel eCommerce Info Titel"
+
+#, fuzzy
+#~ msgid "eCommerce Info Subtitle"
+#~ msgstr "Ondertitel eCommerce Info Ondertitel"
+
+#~ msgid "Title:"
+#~ msgstr "Titel:"
+
+#~ msgid "Subtitle:"
+#~ msgstr "Subtitel:"
+
+#~ msgctxt "product category name"
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#, fuzzy
+#~ msgid "A list of product categories."
+#~ msgstr "Een lijst van productcategorieën."
+
+#, fuzzy
+#~ msgid "WooCommerce product categories with icon"
+#~ msgstr "WooCommerce productcategorieën met icoontje"
+
+#~ msgid "Order by"
+#~ msgstr "Sorteer op"
+
+#~ msgid "Category order"
+#~ msgstr "Categorie volgorde"
+
+#~ msgid "Show product counts"
+#~ msgstr "Toon productaantallen"
+
+#~ msgid "Hide empty categories"
+#~ msgstr "Lege categorieën verbergen"
+
+#~ msgid "Hide category icon"
+#~ msgstr "Verberg Categorie icoon"
+
+#~ msgid "Expand All"
+#~ msgstr "Alles uitklappen"
+
+#~ msgid "No product categories exist."
+#~ msgstr "Er bestaan geen productcategorieën."
+
+#~ msgid "Background Image"
+#~ msgstr "Achtergrond afbeelding"
+
+#~ msgid "No File Selected"
+#~ msgstr "Geen bestand geselecteerd"
+
+#~ msgid "Remove"
+#~ msgstr "Verwijderen"
+
+#~ msgid "Select File"
+#~ msgstr "Selecteer bestand"
+
+#~ msgid "Background Repeat"
+#~ msgstr "Achtergrond herhalen"
+
+#~ msgid "No Repeat"
+#~ msgstr "Niet herhalen"
+
+#~ msgid "Repeat All"
+#~ msgstr "Alles herhalen"
+
+#~ msgid "Repeat Horizontally"
+#~ msgstr "Herhaal horizontaal"
+
+#~ msgid "Repeat Vertically"
+#~ msgstr "Herhaal verticaal"
+
+#~ msgid "Background Position"
+#~ msgstr "Achtergrond Positie"
+
+#~ msgid "Left Top"
+#~ msgstr "Links Boven"
+
+#~ msgid "Left Center"
+#~ msgstr "Links Midden"
+
+#~ msgid "Left Bottom"
+#~ msgstr "Links Onder"
+
+#~ msgid "Right Top"
+#~ msgstr "Rechts Boven"
+
+#~ msgid "Right Center"
+#~ msgstr "Rechts Midden"
+
+#~ msgid "Right Bottom"
+#~ msgstr "Rechts Onder"
+
+#~ msgid "Center Top"
+#~ msgstr "Gecentreerd Boven"
+
+#~ msgid "Center Center"
+#~ msgstr "Gecentreerd Midden"
+
+#~ msgid "Center Bottom"
+#~ msgstr "Gecentreerd Onder"
+
+#~ msgid "Background Size"
+#~ msgstr "Achtergrond afmeting"
+
+#~ msgid "Cover"
+#~ msgstr "Cover"
+
+#~ msgid "Contain"
+#~ msgstr "Bevatten"
+
+#~ msgid "Auto"
+#~ msgstr "Automatisch"
+
+#~ msgid "Background Attachment"
+#~ msgstr "Achtergrond Bijlage"
+
+#~ msgid "Scroll"
+#~ msgstr "Scroll"
+
+#~ msgid "Fixed"
+#~ msgstr "Vast"
+
+#~ msgid "Standard Fonts"
+#~ msgstr "Standaard lettertypes"
+
+#~ msgid "Google Fonts"
+#~ msgstr "Google Fonts"
+
+#~ msgid "CSS Defaults"
+#~ msgstr "CSS standaarden"
+
+#~ msgid "Default Browser Font-Family"
+#~ msgstr "Standaard browser font familie"
+
+#~ msgid ""
+#~ "Please update your WordPress installation to a version newer than 4.9 to "
+#~ "access the code control."
+#~ msgstr ""
+#~ "Update s.v.p. je WordPress instantie naar een versie nieuwer dan 4.9 om "
+#~ "de code control te kunnen benaderen."
+
+#~ msgid "Invalid Value"
+#~ msgstr "Ongeldige waarde"
+
+#~ msgid "Font Size"
+#~ msgstr "Lettergrootte"
+
+#~ msgid "Font Weight"
+#~ msgstr "Lettertype dikte"
+
+#~ msgid "Line Height"
+#~ msgstr "Lijnhoogte"
+
+#~ msgid "Font Style"
+#~ msgstr "Lettertype stijl"
+
+#~ msgid "Letter Spacing"
+#~ msgstr "Letterspatiëring"
+
+#~ msgid "Word Spacing"
+#~ msgstr "Tussenruimte woorden"
+
+#~ msgid "Top"
+#~ msgstr "Top"
+
+#~ msgid "Bottom"
+#~ msgstr "Onderkant"
+
+#~ msgid "Center"
+#~ msgstr "Midden"
+
+#~ msgid "Size"
+#~ msgstr "Grootte"
+
+#~ msgid "Spacing"
+#~ msgstr "Tussenruimte"
+
+#~ msgid "Width"
+#~ msgstr "Breedte"
+
+#~ msgid "Height"
+#~ msgstr "Hoogte"
+
+#~ msgid "row"
+#~ msgstr "rij"
+
+#~ msgid "Add new %s"
+#~ msgstr "Voeg nieuwe %s toe"
+
+#~ msgid "Select a Page"
+#~ msgstr "Selecteer een pagina"
+
+#~ msgid "Limit: %s rows"
+#~ msgstr "Limiet: %s rijen"
+
+#~ msgid "Hex Value"
+#~ msgstr "Hex Waarde"
+
+#, fuzzy
+#~ msgid "No Image Selected"
+#~ msgstr "Geen afbeelding geselecteerd"
+
+#~ msgid "Add Image"
+#~ msgstr "Afbeelding toevoegen"
+
+#~ msgid "Change Image"
+#~ msgstr "Afbeelding wijzigen"
+
+#~ msgid "Add File"
+#~ msgstr "Voeg bestand toe"
+
+#~ msgid "Change File"
+#~ msgstr "Bestand wijzigen"
+
+#~ msgid "Reset"
+#~ msgstr "Reset"
+
+#~ msgid "Font Family"
+#~ msgstr "Font Familie"
+
+#~ msgid "Select Font Family"
+#~ msgstr "Selecteer font familie"
+
+#~ msgid "Backup Font"
+#~ msgstr "Backup font"
+
+#~ msgid "Variant"
+#~ msgstr "Variant"
+
+#~ msgid "Download font-family to server instead of using the Google CDN."
+#~ msgstr ""
+#~ "Download font-family naar server in plaats van het gebruik van de Google "
+#~ "CDN."
+
+#~ msgid "Text Align"
+#~ msgstr "Tekst uitlijning"
+
+#~ msgid "Inherit"
+#~ msgstr "Overnemen"
+
+#~ msgid "Justify"
+#~ msgstr "Uitvullen"
+
+#~ msgid "Text Transform"
+#~ msgstr "Teksttransformatie"
+
+#~ msgid "None"
+#~ msgstr "Geen"
+
+#~ msgid "Capitalize"
+#~ msgstr "Kapitaliseren"
+
+#~ msgid "Uppercase"
+#~ msgstr "Hoofdletters"
+
+#~ msgid "Lowercase"
+#~ msgstr "Kleine letters"
+
+#~ msgid "Initial"
+#~ msgstr "Initieel"
+
+#~ msgid "Text Decoration"
+#~ msgstr "Tekst Decoratie"
+
+#~ msgid "Underline"
+#~ msgstr "Onderstreept"
+
+#~ msgid "Overline"
+#~ msgstr "Lijn boven tekst"
+
+#~ msgid "Line-Through"
+#~ msgstr "Lijn door tekst"
+
+#~ msgid "Margin Top"
+#~ msgstr "Marge Boven"
+
+#~ msgid "Margin Bottom"
+#~ msgstr "Marge Onderkant"
+
+#~ msgid "Color"
+#~ msgstr "Kleur"
+
+#~ msgid "Select image"
+#~ msgstr "Selecteer afbeelding"
+
+#~ msgid "Change image"
+#~ msgstr "Verander plaatje"
+
+#~ msgid "No image selected"
+#~ msgstr "Geen afbeelding geselecteerd"
+
+#~ msgid "Choose image"
+#~ msgstr "Afbeelding kiezen"
+
+#~ msgid "Typo found in field %s - setting instead of settings."
+#~ msgstr "Typo gevonden in %s - setting in plaats van settings."
+
+#~ msgid ""
+#~ "Config not defined for field %1$s - See %2$s for details on how to "
+#~ "properly add fields."
+#~ msgstr ""
+#~ "Config niet gedefinieerd voor veld %1$s - Zie %2$s voor details om naar "
+#~ "behoren velden toe te voegen."
+
+#~ msgid "\"partial_refresh\" invalid entry in field %s"
+#~ msgstr "\"partial_refresh\" niet valide entry in veld %s"
+
+#~ msgid ""
+#~ "\"output\" invalid format in field %s. The \"output\" argument should be "
+#~ "defined as an array of arrays."
+#~ msgstr ""
+#~ "\"output\" niet valide format in veld %s. Het \"output\" argument moet "
+#~ "als een array of arrays worden gedefinieerd."
+
+#~ msgid ""
+#~ "We detected you're using Kirki_Init::get_variables(). Please use "
+#~ "Kirki_Util::get_variables() instead."
+#~ msgstr ""
+#~ "We detecteren dat je Kirki_Init::get_variables() gebruikt. Gebruik in "
+#~ "plaats daarvan Kirki_Util::get_variables()."
+
+#~ msgid ""
+#~ "Kirki fields should not be added on customize_register. Please add them "
+#~ "directly, or on init."
+#~ msgstr ""
+#~ "Kirki velden moeten niet aan het customize_register worden toegevoegd. "
+#~ "Voeg ze direct toe of tijdens initialisatie."
+
+#~ msgid "%1$s or %2$s"
+#~ msgstr "%1$s of %2$s"
+
+#~ msgid ""
+#~ "Please install the Kirki plugin to take full advantage of this theme\\s "
+#~ "customizer capabilities"
+#~ msgstr ""
+#~ "Installeer de Kirki plugin om optimaal te profiteren van deze theme\\s "
+#~ "Customizer mogelijkheden"
+
+#~ msgid "Install Kirki Toolkit now"
+#~ msgstr "Installeer Kirki Toolkit nu"
+
+#~ msgid ""
+#~ "You have installed Kirki. Activate it to take advantage of this theme's "
+#~ "features in the customizer."
+#~ msgstr ""
+#~ "Je hebt Kirki geinstalleerd. Activateer nu om gebruik te kunnen maken in "
+#~ "customizer."
+
+#~ msgid "Activate Kirki Toolkit now"
+#~ msgstr "Activateer Kirki Toolkit nu"
+
+#~ msgid "Activate Now"
+#~ msgstr "Activeer nu"
+
+#~ msgid "Don't show this again"
+#~ msgstr "Niet opnieuw laten zien"
+
+#~ msgid "Dismiss"
+#~ msgstr "Afwijzen"
+
+#~ msgid ""
+#~ "Are you sure? Dismissing this message will hide the installation "
+#~ "recommendation and you will have to manually install and activate the "
+#~ "plugin in the future."
+#~ msgstr ""
+#~ "Weet je het zeker? Het verwerpen van dit bericht zal de installatie "
+#~ "aanbeveling verbergen en je zult de plugin in de toekomst manueel moeten "
+#~ "installeren en activeren."
+
+#, fuzzy
+#~ msgid "Kirki Demo Panel"
+#~ msgstr "Kirki Demopaneel"
+
+#, fuzzy
+#~ msgid "Contains sections for all kirki controls."
+#~ msgstr "Bevat secties voor alle kirki controls."
+
+#~ msgid "Background"
+#~ msgstr "Achtergrond"
+
+#~ msgid "Code"
+#~ msgstr "Code"
+
+#~ msgid "Checkbox"
+#~ msgstr "Selectievakje"
+
+#, fuzzy
+#~ msgid "Color Palette"
+#~ msgstr "Kleurenpalet"
+
+#~ msgid "Custom"
+#~ msgstr "Aangepast"
+
+#, fuzzy
+#~ msgid "Dashicons"
+#~ msgstr "Dashicons"
+
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "Dimension"
+#~ msgstr "Afmeting"
+
+#~ msgid "Dimensions"
+#~ msgstr "Afmetingen"
+
+#~ msgid "Editor"
+#~ msgstr "Editor"
+
+#, fuzzy
+#~ msgid "Font-Awesome"
+#~ msgstr "Font-Awesome"
+
+#~ msgid "Generic"
+#~ msgstr "Generieke"
+
+#~ msgid "Image"
+#~ msgstr "Afbeelding"
+
+#~ msgid "Multicheck"
+#~ msgstr "Multicheck"
+
+#, fuzzy
+#~ msgid "Multicolor"
+#~ msgstr "Veelkleurig"
+
+#~ msgid "Number"
+#~ msgstr "Nummer"
+
+#~ msgid "Palette"
+#~ msgstr "Palet"
+
+#~ msgid "Preset"
+#~ msgstr "Vooraf ingesteld"
+
+#~ msgid "Radio"
+#~ msgstr "Radio"
+
+#, fuzzy
+#~ msgid "A plain Radio control."
+#~ msgstr "Een gewone radiografische besturing."
+
+#, fuzzy
+#~ msgid "Radio Buttonset"
+#~ msgstr "Radioknoppen"
+
+#, fuzzy
+#~ msgid ""
+#~ "Radio-Buttonset controls are essentially radio controls with some fancy "
+#~ "styling to make them look cooler."
+#~ msgstr ""
+#~ "Radio-Buttonset-besturingen zijn in wezen radiobedieningen met wat "
+#~ "fantasievolle styling om ze er cooler uit te laten zien."
+
+#~ msgid "Radio Image"
+#~ msgstr "Keuzerondje (Radio) afbeelding"
+
+#, fuzzy
+#~ msgid ""
+#~ "Radio-Image controls are essentially radio controls with some fancy "
+#~ "styles to use images"
+#~ msgstr ""
+#~ "Radio-Image bedieningselementen zijn in wezen radiocontroles met een "
+#~ "aantal fancy stijlen om beelden te gebruiken"
+
+#~ msgid "Repeater"
+#~ msgstr "Herhaler"
+
+#~ msgid "Select"
+#~ msgstr "Selecteer"
+
+#~ msgid "Slider"
+#~ msgstr "Slider"
+
+#~ msgid "Sortable"
+#~ msgstr "Sorteerbaar"
+
+#~ msgid "Switch"
+#~ msgstr "Omschakelen"
+
+#~ msgid "Toggle"
+#~ msgstr "Toggle"
+
+#~ msgid "Typography"
+#~ msgstr "Typografie"
+
+#, fuzzy
+#~ msgid "Background Control"
+#~ msgstr "Achtergrond controle"
+
+#, fuzzy
+#~ msgid "Background conrols are pretty complex! (but useful if properly used)"
+#~ msgstr ""
+#~ "Achtergrond conrols zijn behoorlijk complex! (maar nuttig indien correct "
+#~ "gebruikt)"
+
+#, fuzzy
+#~ msgid "Code Control"
+#~ msgstr "Codesignalering"
+
+#~ msgid "Description"
+#~ msgstr "Omschrijving"
+
+#, fuzzy
+#~ msgid "Checkbox Control"
+#~ msgstr "Checkbox Controle"
+
+#, fuzzy
+#~ msgid "Color Control (hex-only)"
+#~ msgstr "Kleurenbeheer (alleen zeskant)"
+
+#, fuzzy
+#~ msgid "This is a color control - without alpha channel."
+#~ msgstr "Dit is een kleurregeling - zonder alfa kanaal."
+
+#, fuzzy
+#~ msgid "Color Control (with alpha channel)"
+#~ msgstr "Color Control (met alfa-kanaal)"
+
+#, fuzzy
+#~ msgid "This is a color control - with alpha channel."
+#~ msgstr "Dit is een kleurregeling - met alfa-kanaal."
+
+#, fuzzy
+#~ msgid "Color Control - hue only."
+#~ msgstr "Color Control - alleen kleurschakering."
+
+#, fuzzy
+#~ msgid "This is a color control - hue only."
+#~ msgstr "Dit is een kleurcontrole - alleen tint."
+
+#, fuzzy
+#~ msgid "Date Control"
+#~ msgstr "Datumcontrole"
+
+#, fuzzy
+#~ msgid "This is a date control."
+#~ msgstr "Dit is een datumcontrole."
+
+#, fuzzy
+#~ msgid "First Editor Control"
+#~ msgstr "Eerste redacteurscontrole"
+
+#, fuzzy
+#~ msgid "This is an editor control."
+#~ msgstr "Dit is een editor control."
+
+#, fuzzy
+#~ msgid "Second Editor Control"
+#~ msgstr "Tweede redacteurscontrole"
+
+#, fuzzy
+#~ msgid ""
+#~ "This is a 2nd editor control just to check that we do not have issues "
+#~ "with multiple instances."
+#~ msgstr ""
+#~ "Dit is een 2e editor control om te controleren of we geen problemen "
+#~ "hebben met meerdere instanties."
+
+#~ msgid "Default Text"
+#~ msgstr "StandaardTekst"
+
+#, fuzzy
+#~ msgid "Color-Palette"
+#~ msgstr "Kleurenpalet"
+
+#, fuzzy
+#~ msgid "This is a color-palette control"
+#~ msgstr "Dit is een kleurenpaletcontrole"
+
+#, fuzzy
+#~ msgid "Material Design Colors - all"
+#~ msgstr "Materiaalontwerp Kleuren - alle"
+
+#, fuzzy
+#~ msgid "Material Design Colors - primary"
+#~ msgstr "Materiaalontwerp Kleuren - primair"
+
+#, fuzzy
+#~ msgid "Material Design Colors - red"
+#~ msgstr "Materiaalontwerp Kleuren - rood"
+
+#, fuzzy
+#~ msgid "Material Design Colors - A100"
+#~ msgstr "Materiaalontwerp Kleuren - A100"
+
+#, fuzzy
+#~ msgid "Dashicons Control"
+#~ msgstr "Dashicons Controle"
+
+#, fuzzy
+#~ msgid "Using a custom array of dashicons"
+#~ msgstr "Een aangepaste reeks dashicons gebruiken"
+
+#, fuzzy
+#~ msgid "All Dashicons"
+#~ msgstr "Alle Dashicons"
+
+#, fuzzy
+#~ msgid "Showing all dashicons"
+#~ msgstr "Alle dashicons tonen"
+
+#, fuzzy
+#~ msgid "Dimension Control"
+#~ msgstr "Dimensiecontrole"
+
+#, fuzzy
+#~ msgid "Description Here."
+#~ msgstr "Beschrijving Hier."
+
+#, fuzzy
+#~ msgid "Spacing Control"
+#~ msgstr "Afstandregeling"
+
+#, fuzzy
+#~ msgid "Font Awesome Control"
+#~ msgstr "Lettertype Geweldige Controle"
+
+#, fuzzy
+#~ msgid "Text Control"
+#~ msgstr "Tekstcontrole"
+
+#, fuzzy
+#~ msgid "Textarea Control"
+#~ msgstr "Textagebiedcontrole"
+
+#, fuzzy
+#~ msgid "Custom input Control."
+#~ msgstr "Aangepaste invoercontrole."
+
+#, fuzzy
+#~ msgid ""
+#~ "The \"generic\" control allows you to add any input type you want. In "
+#~ "this case we use type=\"password\" and define custom styles."
+#~ msgstr ""
+#~ "Met de \"generieke\" bediening kunt u elk gewenst type invoer toevoegen. "
+#~ "In dit geval gebruiken we type=\"wachtwoord\" en definiëren we aangepaste "
+#~ "stijlen."
+
+#, fuzzy
+#~ msgid "Image Control (URL)"
+#~ msgstr "Beeldbeheer (URL)"
+
+#, fuzzy
+#~ msgid "Image Control (ID)"
+#~ msgstr "Beeldbesturing (ID)"
+
+#, fuzzy
+#~ msgid "Image Control (array)"
+#~ msgstr "Beeldbeheer (array)"
+
+#, fuzzy
+#~ msgid "Multickeck Control"
+#~ msgstr "Multickeck Controle"
+
+#~ msgid "Option 1"
+#~ msgstr "Optie 1"
+
+#~ msgid "Option 2"
+#~ msgstr "Optie 2"
+
+#~ msgid "Option 3"
+#~ msgstr "Optie 3"
+
+#, fuzzy
+#~ msgid "Option 4"
+#~ msgstr "Optie 4"
+
+#~ msgid "Option 5"
+#~ msgstr "Optie 5"
+
+#~ msgid "Label"
+#~ msgstr "Label"
+
+#~ msgid "Hover"
+#~ msgstr "Hover"
+
+#, fuzzy
+#~ msgid "Radio Control"
+#~ msgstr "Radiocontrole"
+
+#, fuzzy
+#~ msgid "The description here."
+#~ msgstr "De beschrijving hier."
+
+#, fuzzy
+#~ msgid "Radio-Buttonset Control"
+#~ msgstr "Radioknopbediening"
+
+#, fuzzy
+#~ msgid "Radio-Image Control"
+#~ msgstr "Radio-Image Control"
+
+#, fuzzy
+#~ msgid "Repeater Control"
+#~ msgstr "Repeater Controle"
+
+#, fuzzy
+#~ msgid "Kirki Site"
+#~ msgstr "Kirki-site"
+
+#, fuzzy
+#~ msgid "Kirki Repository"
+#~ msgstr "Kirki-opslagplaats"
+
+#~ msgid "Link Text"
+#~ msgstr "Link Tekst"
+
+#~ msgid "This will be the label for your link"
+#~ msgstr "Dit zal het label zijn voor uw link"
+
+#~ msgid "Link URL"
+#~ msgstr "Link URL"
+
+#, fuzzy
+#~ msgid "This will be the link URL"
+#~ msgstr "Dit wordt de link URL"
+
+#~ msgid "Link Target"
+#~ msgstr "Linkdoel"
+
+#, fuzzy
+#~ msgid "This will be the link target"
+#~ msgstr "Dit zal het doelwit van de link zijn"
+
+#~ msgid "New Window"
+#~ msgstr "Nieuw Scherm"
+
+#, fuzzy
+#~ msgid "Same Frame"
+#~ msgstr "Zelfde frame"
+
+#, fuzzy
+#~ msgid "Select Control"
+#~ msgstr "Selecteer Controle"
+
+#~ msgid "Select an option"
+#~ msgstr "Selecteer een optie"
+
+#, fuzzy
+#~ msgid "Slider Control"
+#~ msgstr "Schuifregelaarbediening"
+
+#, fuzzy
+#~ msgid "This is a sortable control."
+#~ msgstr "Dit is een sorteerbare controle."
+
+#~ msgid "Option 6"
+#~ msgstr "Optie 6"
+
+#, fuzzy
+#~ msgid "Switch Control"
+#~ msgstr "Schakelaarbediening"
+
+#, fuzzy
+#~ msgid "Switch Control with custom labels"
+#~ msgstr "Schakelaarbediening met aangepaste labels"
+
+#~ msgid "Enabled"
+#~ msgstr "Ingeschakeld"
+
+#~ msgid "Disabled"
+#~ msgstr "Uitgeschakeld"
+
+#, fuzzy
+#~ msgid "Toggle Control"
+#~ msgstr "Schakelaarbediening"
+
+#, fuzzy
+#~ msgid "Typography Control Label"
+#~ msgstr "Typografie controlelabel"
+
+#, fuzzy
+#~ msgid "The full set of options."
+#~ msgstr "De volledige reeks opties."
+
+#, fuzzy
+#~ msgid "Sidebars Select"
+#~ msgstr "Sidebars selecteren"
+
+#, fuzzy
+#~ msgid "An example of how to implement sidebars selection."
+#~ msgstr ""
+#~ "Een voorbeeld van hoe u de selectie van sidebars kunt implementeren."
+
+#~ msgid ""
+#~ "Do not use \"alpha\" as an argument in color controls. Use "
+#~ "\"choices[alpha]\" instead."
+#~ msgstr ""
+#~ "Gebruik niet \"alpha\" als een argument in kleur controls. Gebruik in "
+#~ "plaats daarvan \"choices[alpha]\"."
+
+#~ msgid ""
+#~ "Error in field %1$s. The \"mode\" argument has been deprecated since "
+#~ "Kirki v0.8. Use the \"radio-%2$s\" type instead."
+#~ msgstr ""
+#~ "Fout in veld %1$s. De \"mode\" argument is “deprecated” sinds Kirki v0.8. "
+#~ "Gebruik in plaats daarvan type \"radio-%2$s\"."
+
+#, fuzzy
+#~ msgid "Customizing"
+#~ msgstr "Aanpassen"
+
+#~ msgid "Customizing &#9656; %s"
+#~ msgstr "Aanpassen & # 9656; % s"
+
+#~ msgid "Ultra-Light 100"
+#~ msgstr "Ultra-Licht 100"
+
+#~ msgid "Ultra-Light 100 Italic"
+#~ msgstr "Ultra-licht 100 cursief"
+
+#~ msgid "Light 200"
+#~ msgstr "Licht 200"
+
+#~ msgid "Light 200 Italic"
+#~ msgstr "Licht 200 cursief"
+
+#~ msgid "Book 300"
+#~ msgstr "Book 300"
+
+#~ msgid "Book 300 Italic"
+#~ msgstr "Book 300 Cursief"
+
+#~ msgid "Normal 400"
+#~ msgstr "Normaal 400"
+
+#~ msgid "Normal 400 Italic"
+#~ msgstr "Normaal 400 Cursief"
+
+#~ msgid "Medium 500"
+#~ msgstr "Medium 500"
+
+#~ msgid "Medium 500 Italic"
+#~ msgstr "Medium 500 Cursief"
+
+#~ msgid "Semi-Bold 600"
+#~ msgstr "Semi-Vet 600"
+
+#~ msgid "Semi-Bold 600 Italic"
+#~ msgstr "Semi-Vet cursief"
+
+#~ msgid "Bold 700"
+#~ msgstr "Vet 700"
+
+#~ msgid "Bold 700 Italic"
+#~ msgstr "Vet 700 Cursief"
+
+#~ msgid "Extra-Bold 800"
+#~ msgstr "Extra-Vet 800"
+
+#~ msgid "Extra-Bold 800 Italic"
+#~ msgstr "Extra-Vet cursief"
+
+#~ msgid "Ultra-Bold 900"
+#~ msgstr "Ultra-Vet 900"
+
+#~ msgid "Ultra-Bold 900 Italic"
+#~ msgstr "Ultra-Vet 900 Cursief"
+
+#~ msgid "Important Upgrade Notice:"
+#~ msgstr "Belangrijke upgrade aankondiging:"
+
+#~ msgid "Install Required Plugins"
+#~ msgstr "Installeer vereiste plugins"
+
+#~ msgid "Install Plugins"
+#~ msgstr "Installeer plugins"
+
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "Plugin installeren: %s"
+
+#~ msgid "Updating Plugin: %s"
+#~ msgstr "Updaten Plugin: %s"
+
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "Er ging iets mis met de plugin API."
+
+#~ msgid "This theme requires the following plugin: %1$s."
+#~ msgid_plural "This theme requires the following plugins: %1$s."
+#~ msgstr[0] "Dit thema vereist de volgende plugin: %1$s."
+#~ msgstr[1] "Dit thema vereist de volgende plugins: %1$s."
+
+#~ msgid "This theme recommends the following plugin: %1$s."
+#~ msgid_plural "This theme recommends the following plugins: %1$s."
+#~ msgstr[0] "Dit thema beveelt de volgende plugins aan: %1$s."
+#~ msgstr[1] "Dit thema beveelt de volgende plugins aan: %1$s."
+
+#~ msgid ""
+#~ "The following plugin needs to be updated to its latest version to ensure "
+#~ "maximum compatibility with this theme: %1$s."
+#~ msgid_plural ""
+#~ "The following plugins need to be updated to their latest version to "
+#~ "ensure maximum compatibility with this theme: %1$s."
+#~ msgstr[0] ""
+#~ "De volgende plugin moet worden bijgewerkt naar de nieuwste versie voor "
+#~ "maximale compatibiliteit met dit thema: %1$s."
+#~ msgstr[1] ""
+#~ "De volgende plugins moeten worden bijgewerkt om hun nieuwste versie voor "
+#~ "maximale compatibiliteit met dit thema: %1$s."
+
+#~ msgid "There is an update available for: %1$s."
+#~ msgid_plural "There are updates available for the following plugins: %1$s."
+#~ msgstr[0] "Er is een update beschikbaar voor: %1$s."
+#~ msgstr[1] "Er zijn updates beschikbaar voor: %1$s."
+
+#~ msgid "The following required plugin is currently inactive: %1$s."
+#~ msgid_plural "The following required plugins are currently inactive: %1$s."
+#~ msgstr[0] "De volgende vereiste plugin is momenteel inactief: %1$s."
+#~ msgstr[1] "De volgende benodigde plugins zijn momenteel inactief: %1$s."
+
+#~ msgid "The following recommended plugin is currently inactive: %1$s."
+#~ msgid_plural ""
+#~ "The following recommended plugins are currently inactive: %1$s."
+#~ msgstr[0] "De volgende aanbevolen plugin is momenteel inactief: %1$s."
+#~ msgstr[1] "De volgende aanbevolen plugin is momenteel inactief: %1$s."
+
+#~ msgid "Begin installing plugin"
+#~ msgid_plural "Begin installing plugins"
+#~ msgstr[0] "Beginnen met het installeren van de plugin"
+#~ msgstr[1] "Beginnen met het installeren van de plugins"
+
+#~ msgid "Begin updating plugin"
+#~ msgid_plural "Begin updating plugins"
+#~ msgstr[0] "Beginnen met bijwerken van de plugin"
+#~ msgstr[1] "Begin met het bijwerken van de plugins"
+
+#~ msgid "Begin activating plugin"
+#~ msgid_plural "Begin activating plugins"
+#~ msgstr[0] "Beginnen met het activeren van de plugin"
+#~ msgstr[1] "Plugin activatie mislukt"
+
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "Return to Required Plugins Installer"
+
+#~ msgid "Return to the Dashboard"
+#~ msgstr "Terug naar Dashboard"
+
+#~ msgid "Plugin activated successfully."
+#~ msgstr "Plugin succesvol geactiveerd."
+
+#~ msgid "The following plugin was activated successfully:"
+#~ msgid_plural "The following plugins were activated successfully:"
+#~ msgstr[0] "De volgende plugin is succesvol geactiveerd:"
+#~ msgstr[1] "De volgende plugins zijn met succes geactiveerd: "
+
+#~ msgid "No action taken. Plugin %1$s was already active."
+#~ msgstr "Geen actie uitgevoerd. De plugin %1$s was al geactiveerd."
+
+#~ msgid ""
+#~ "Plugin not activated. A higher version of %s is needed for this theme. "
+#~ "Please update the plugin."
+#~ msgstr ""
+#~ "De plugin is niet geactiveerd. Een nieuwere versie van %s is noodzakelijk "
+#~ "voor dit thema. Werk de plugin bij."
+
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr "Alle plug-ins zijn succesvol geactiveerd. %1$s"
+
+#~ msgid "Dismiss this notice"
+#~ msgstr "Negeer deze melding"
+
+#~ msgid ""
+#~ "There are one or more required or recommended plugins to install, update "
+#~ "or activate."
+#~ msgstr ""
+#~ "Er zijn één of meerdere vereiste of aanbevolen plugins om te installeren, "
+#~ "bij te werken of te activeren."
+
+#~ msgid "Please contact the administrator of this site for help."
+#~ msgstr "Gelieve de administrator van deze website te contacteren voor hulp."
+
+#~ msgid "This plugin needs to be updated to be compatible with your theme."
+#~ msgstr ""
+#~ "Deze plugin moet worden ge-update voor een compatibele versie met dit "
+#~ "thema."
+
+#~ msgid "Update Required"
+#~ msgstr "Update Vereist"
+
+#, fuzzy
+#~ msgid "Return to Plugins"
+#~ msgstr "Terug naar Plugins"
+
+#~ msgid ""
+#~ "The remote plugin package does not contain a folder with the desired slug "
+#~ "and renaming did not work."
+#~ msgstr ""
+#~ "Het gekozen plugin pakket bevat geen map met de gewenste slag en de "
+#~ "naamswijziging heeft niet gewerkt."
+
+#~ msgid ""
+#~ "Please contact the plugin provider and ask them to package their plugin "
+#~ "according to the WordPress guidelines."
+#~ msgstr ""
+#~ "Gelieve contact op te nemen met de aanbieder van de plugin en vraag hen "
+#~ "de plugin aan te leveren volgens de Wordpress richtlijnen."
+
+#~ msgid ""
+#~ "The remote plugin package consists of more than one file, but the files "
+#~ "are not packaged in a folder."
+#~ msgstr ""
+#~ "Het gekozen pluginpakket bestaat uit meer dan een bestand, maar de "
+#~ "bestanden zijn niet samengepakt in een map."
+
+#~ msgctxt "plugin A *and* plugin B"
+#~ msgid "and"
+#~ msgstr "en"
+
+#~ msgid "TGMPA v%s"
+#~ msgstr "TGMPA v%s"
+
+#~ msgid "WordPress Repository"
+#~ msgstr "WordPress Repository"
+
+#~ msgid "External Source"
+#~ msgstr "Externe Bron"
+
+#~ msgid "Pre-Packaged"
+#~ msgstr "Voorverpakt"
+
+#~ msgid "Not Installed"
+#~ msgstr "Niet geïnstalleerd"
+
+#~ msgid "Installed But Not Activated"
+#~ msgstr "Geïnstalleerd maar niet geactiveerd"
+
+#~ msgid "Required Update not Available"
+#~ msgstr "Verplichte update niet beschikbaar"
+
+#~ msgid "Requires Update"
+#~ msgstr "Update Vereist"
+
+#~ msgid "Update recommended"
+#~ msgstr "Update aanbevolen"
+
+#~ msgctxt "Install/Update Status"
+#~ msgid "%1$s, %2$s"
+#~ msgstr "%1$s, %2$s"
+
+#~ msgctxt "plugins"
+#~ msgid "All <span class=\"count\">(%s)</span>"
+#~ msgid_plural "All <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "Alle <span class=\"screen-reader-text\">(%s)</span>"
+#~ msgstr[1] "Alle <span class=\"screen-reader-text\">(%s)</span>"
+
+#~ msgid "To Install <span class=\"count\">(%s)</span>"
+#~ msgid_plural "To Install <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "Installeer <span class=\"count\">(%s)</span>"
+#~ msgstr[1] "Installeer <span class=\"count\">(%s)</span>"
+
+#~ msgid "Update Available <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "Update beschikbaar <span class=\"count\">(%s)</span>"
+#~ msgstr[1] "Update beschikbaar <span class=\"count\">(%s)</span>"
+
+#~ msgid "To Activate <span class=\"count\">(%s)</span>"
+#~ msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "Activeer <span class=\"count\">(%s)</span>"
+#~ msgstr[1] "Activeer <span class=\"count\">(%s)</span>"
+
+#~ msgctxt "as in: \"version nr unknown\""
+#~ msgid "unknown"
+#~ msgstr "onbekend"
+
+#~ msgid "Installed version:"
+#~ msgstr "Geïnstalleerde versie:"
+
+#~ msgid "Minimum required version:"
+#~ msgstr "Minimaal vereiste versie:"
+
+#~ msgid "Available version:"
+#~ msgstr "Beschikbare versie:"
+
+#~ msgid "No plugins to install, update or activate."
+#~ msgstr "Geen plugins te installeren, updaten of te activeren."
+
+#~ msgid "Plugin"
+#~ msgstr "Plugin"
+
+#~ msgid "Source"
+#~ msgstr "Bron"
+
+#~ msgid "Type"
+#~ msgstr "Type"
+
+#~ msgid "Version"
+#~ msgstr "Versie"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Install %2$s"
+#~ msgstr "Installeer %2$s"
+
+#~ msgid "Update %2$s"
+#~ msgstr "Update %2$s"
+
+#~ msgid "Activate %2$s"
+#~ msgstr "Activeer %2$s"
+
+#~ msgid "Upgrade message from the plugin author:"
+#~ msgstr "Upgrade melding van de plugin-auteur:"
+
+#~ msgid "Update"
+#~ msgstr "Bijwerken"
+
+#~ msgid "No plugins were selected to be installed. No action taken."
+#~ msgstr ""
+#~ "Er zijn geen plugins geselecteerd om te installeren. Geen actie "
+#~ "ondernomen."
+
+#~ msgid "No plugins were selected to be updated. No action taken."
+#~ msgstr ""
+#~ "Er zijn geen plugins geselecteerd om bij te werken. Geen actie ondernomen."
+
+#~ msgid "No plugins are available to be installed at this time."
+#~ msgstr "Er zijn op dit moment geen plugins beschikbaar om te installeren."
+
+#~ msgid "No plugins are available to be updated at this time."
+#~ msgstr "Er zijn op dit moment geen plugins beschikbaar om bij te werken."
+
+#~ msgid "No plugins were selected to be activated. No action taken."
+#~ msgstr ""
+#~ "Er zijn geen plugins geselecteerd om te activeren. Geen actie ondernomen."
+
+#~ msgid "No plugins are available to be activated at this time."
+#~ msgstr "Er zijn op dit moment geen plugins beschikbaar om te activeren."
+
+#~ msgid "Plugin activation failed."
+#~ msgstr "Plugin activatie mislukt."
+
+#~ msgid "Updating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Plugin bijwerken %1$s (%2$d/%3$d)"
+
+#~ msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+#~ msgstr ""
+#~ "Er is een fout opgetreden tijdens de installatie van %1$s: <strong>%2$s</"
+#~ "strong>."
+
+#~ msgid "The installation of %1$s failed."
+#~ msgstr "De installatie van %1$s is mislukt."
+
+#~ msgid ""
+#~ "The installation and activation process is starting. This process may "
+#~ "take a while on some hosts, so please be patient."
+#~ msgstr "Installatie en activatieproces gestart. Dit kan even duren."
+
+#~ msgid "%1$s installed and activated successfully."
+#~ msgstr "%1$s installed and activated successfully."
+
+#~ msgid "Show Details"
+#~ msgstr "Toon details"
+
+#~ msgid "Hide Details"
+#~ msgstr "Verberg details"
+
+#~ msgid "All installations and activations have been completed."
+#~ msgstr "Alle installaties en activities werden uitgevoerd."
+
+#~ msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Installeren en activeren van plugin %1$s (%2$d/%3$d)"
+
+#~ msgid ""
+#~ "The installation process is starting. This process may take a while on "
+#~ "some hosts, so please be patient."
+#~ msgstr "Installatieproces gestart. Dit kan even duren."
+
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s is succesvol geïnstalleerd."
+
+#~ msgid "All installations have been completed."
+#~ msgstr "Alle installaties zijn voltooid."
+
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#~ msgid "Set the parent_slug config variable instead."
+#~ msgstr "Stel de parent_slug instellingen voor deze variabele in."

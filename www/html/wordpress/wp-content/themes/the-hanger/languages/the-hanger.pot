@@ -1,0 +1,1283 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: The Hanger\n"
+"POT-Creation-Date: 2020-08-06 14:19+0300\n"
+"PO-Revision-Date: 2019-08-20 12:10+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: css\n"
+"X-Poedit-SearchPathExcluded-2: js\n"
+"X-Poedit-SearchPathExcluded-3: scss\n"
+"X-Poedit-SearchPathExcluded-4: images\n"
+"X-Poedit-SearchPathExcluded-5: inc/tgm\n"
+"X-Poedit-SearchPathExcluded-6: inc/_vendor\n"
+
+#: 404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:15
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: archive.php:32 archive.php:40 functions/mega-menu.php:208 index.php:31
+#: index.php:39
+msgid "All Articles"
+msgstr ""
+
+#: archive.php:104 index.php:154 search.php:50
+msgid "Older posts"
+msgstr ""
+
+#: archive.php:105 index.php:155 search.php:51
+msgid "Newer posts"
+msgstr ""
+
+#: attachment.php:16
+msgid "Previous "
+msgstr ""
+
+#: attachment.php:17
+msgid "Next "
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:22
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to %s"
+msgstr ""
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to %2$s"
+msgid_plural "%1$s Replies to %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:59
+msgid "Previous"
+msgstr ""
+
+#: comments.php:60
+msgid "Next"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: functions/ajax-search.php:101
+msgid "View All"
+msgstr ""
+
+#: functions/ajax-search.php:106
+msgid "No results"
+msgstr ""
+
+#: functions/ajax-search.php:109
+msgid "Search Suggestions"
+msgstr ""
+
+#: functions/enqueue/scripts.php:48
+msgid "Choose an option"
+msgstr ""
+
+#: functions/mega-dropdown.php:42 functions/mega-dropdown.php:189
+#: template-parts/headers/header-mobiles.php:110
+#: template-parts/headers/header-mobiles.php:150
+#: template-parts/headers/header-mobiles.php:167
+msgid "Back"
+msgstr ""
+
+#: functions/mega-menu.php:339 functions/mega-menu.php:360
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: functions/mega-menu.php:562
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:48
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:53
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:56
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:61
+msgid "Contact"
+msgstr ""
+
+#: functions/mega-menu.php:578 functions/mega-menu.php:579
+#: functions/mega-menu.php:580 functions/mega-menu.php:585
+#: functions/wc/filters.php:221 functions/wc/filters.php:244
+#: functions/wc/filters.php:259
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:310
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:39
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:49
+#: template-parts/footers/footer-style-1.php:71
+#: template-parts/footers/footer-style-1.php:73
+#: template-parts/headers/header-mobiles.php:88
+#: template-parts/headers/header-sticky-product.php:40
+#: template-parts/headers/header-style-1.php:171
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions/wc/actions.php:22
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: functions/wc/actions.php:76
+msgid "Out of stock"
+msgstr ""
+
+#: functions/wc/actions.php:134
+msgid "Quick View"
+msgstr ""
+
+#: functions/wc/actions.php:249
+msgid "Zoom"
+msgstr ""
+
+#: functions/wc/actions.php:272
+msgid "Play Video"
+msgstr ""
+
+#: functions/wc/actions.php:314
+msgid "Continue shopping"
+msgstr ""
+
+#: functions/wc/actions.php:335
+msgid "Go to product page"
+msgstr ""
+
+#: functions/wc/actions.php:460
+msgid "Product Search"
+msgstr ""
+
+#: functions/wc/actions.php:474
+msgid "Select Category"
+msgstr ""
+
+#: functions/wc/actions.php:496
+msgid "Featured products"
+msgstr ""
+
+#: functions/wc/actions.php:499
+msgid "Search suggestions"
+msgstr ""
+
+#: functions/wc/filters.php:187
+msgid "You might like these"
+msgstr ""
+
+#: functions/wp/popular-posts.php:24
+msgid "Featured Posts"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:31
+#: inc/admin/wizard/class-gbt-install-wizard.php:32
+msgid "Theme Setup"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:52
+msgid "Introduction"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:57
+msgid "Plugins"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:62
+msgid "Demo Import"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:67
+msgid "Ready!"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:210
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:233
+#, php-format
+msgid "%s 's"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:233
+msgid "Theme Setup Wizard"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:234
+msgid "The quickest way to setup the theme"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:234
+msgid "and start working on your site."
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:235
+msgid "Let's go!"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:249
+msgid "Plugin Installation"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:250
+msgid "Install the required plugins before importing the demo content."
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:258
+msgid "Recommended"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:264
+#: inc/admin/wizard/class-gbt-install-wizard.php:381
+msgid "Skip"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:265
+#: inc/admin/wizard/class-gbt-install-wizard.php:383
+msgid "Install"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:337
+msgid "Install Now"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:338
+msgid "Update Now"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:339
+msgid "Activate"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:344
+msgid "Active"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:367
+msgid "Demo Content Import"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:368
+msgid "Start with pre-built page layouts, dummy product pages,"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:368
+msgid "blog posts and widgets."
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:376
+msgid ""
+"Please make sure Visual Composer and WooCommerce are installed and activated "
+"before importing the demo content."
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:385
+msgid "Go back"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:390
+msgid "Importing, please wait!"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:410
+msgid "Setup has completed successfully!"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:411
+msgid "You should be able to start working on your site now."
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:412
+msgid "Best of luck with your project!"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:417
+msgid "What now?"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:418
+msgid "View Site"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:421
+msgid "What's next?"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:423
+msgid "Customize the theme"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:435
+msgid "Activate Theme Updates"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:438
+msgid "WooCommerce Setup Wizard"
+msgstr ""
+
+#: inc/admin/wizard/class-gbt-install-wizard.php:439
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/customizer/backend/blog/archives.php:9
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_blog_categories.php:5
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_blog_categories.php:8
+msgid "Blog Categories"
+msgstr ""
+
+#: inc/customizer/backend/blog/archives.php:26
+msgid "Highlight first three posts"
+msgstr ""
+
+#: inc/customizer/backend/blog/archives.php:43
+#: inc/customizer/backend/blog/single.php:9 inc/widgets/widget-areas.php:10
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/customizer/backend/blog/archives.php:60
+#: inc/customizer/backend/blog/single.php:26
+#: inc/customizer/backend/product/index.php:48
+#: inc/customizer/backend/shop/layout.php:33
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/customizer/backend/blog/archives.php:65
+#: inc/customizer/backend/blog/single.php:31
+#: inc/customizer/backend/shop/layout.php:38
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/backend/blog/archives.php:66
+#: inc/customizer/backend/blog/single.php:32
+#: inc/customizer/backend/shop/layout.php:39
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/backend/blog/archives.php:95
+#: inc/customizer/backend/shop/layout.php:61
+msgid "Pagination"
+msgstr ""
+
+#: inc/customizer/backend/blog/archives.php:100
+#: inc/customizer/backend/shop/layout.php:66
+msgid "Classic"
+msgstr ""
+
+#: inc/customizer/backend/blog/archives.php:101
+#: inc/customizer/backend/shop/layout.php:67
+msgid "Load More"
+msgstr ""
+
+#: inc/customizer/backend/blog/archives.php:102
+#: inc/customizer/backend/shop/layout.php:68
+msgid "Infinite"
+msgstr ""
+
+#: inc/customizer/backend/blog/index.php:8
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:47
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:52
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:55
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:60
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/backend/blog/index.php:18
+msgid "Blog Archives"
+msgstr ""
+
+#: inc/customizer/backend/blog/index.php:25
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/backend/blog/single.php:61
+msgid "Display Featured Image"
+msgstr ""
+
+#: inc/customizer/backend/fonts/index.php:15
+msgid "Fonts"
+msgstr ""
+
+#: inc/customizer/backend/fonts/index.php:32
+msgid "Base Font Size"
+msgstr ""
+
+#: inc/customizer/backend/fonts/index.php:33
+msgid ""
+"The Base Font Size refers to the size applied to the paragraph text. All "
+"other elements, such as headings, links, buttons, etc will adjusted "
+"automatically to keep the hierarchy of font sizes based on this one size. "
+"Easy-peasy!"
+msgstr ""
+
+#: inc/customizer/backend/fonts/index.php:55
+msgid "Body Font"
+msgstr ""
+
+#: inc/customizer/backend/fonts/index.php:75
+msgid "Headings Font"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:15
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:32
+msgid "Footer Layout"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:53
+msgid "Pre Footer"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:71
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:88
+msgid "Footer Font Color"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:105
+msgid "Footer Headings Color"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:122
+msgid "Footnote / Copyright Text"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:124
+#: inc/customizer/read_options.php:138
+msgid "Powered by "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: inc/customizer/backend/footer/index.php:124
+#: inc/customizer/read_options.php:138
+msgid "The Hanger"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:125
+msgid ""
+"Allowed HTML tags: a, abbr, acronym, b, blockquote, cite, code, del, em, i, "
+"q, s, strike, strong"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:141
+msgid "Collapsed Widget Area on Mobiles"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:158
+msgid "Payment Options"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:163
+msgid "Payment Option"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:166
+msgid "Add New Payment Option"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:170
+#: inc/customizer/read_options.php:142
+msgid "Visa"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:174
+#: inc/customizer/read_options.php:146
+msgid "MasterCard"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:178
+#: inc/customizer/read_options.php:150
+msgid "Amex"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:182
+#: inc/customizer/read_options.php:154
+msgid "PayPal"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:186
+#: inc/customizer/read_options.php:158
+msgid "Amazon"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:193
+msgid "Name"
+msgstr ""
+
+#: inc/customizer/backend/footer/index.php:198
+msgid "Icon"
+msgstr ""
+
+#: inc/customizer/backend/global/index.php:15
+msgid "Global"
+msgstr ""
+
+#: inc/customizer/backend/global/index.php:31
+msgid "Site Width"
+msgstr ""
+
+#: inc/customizer/backend/global/index.php:53
+msgid "Make it 100%"
+msgstr ""
+
+#: inc/customizer/backend/global/index.php:70
+msgid "Body Background"
+msgstr ""
+
+#: inc/customizer/backend/global/index.php:101
+msgid "Content Layout"
+msgstr ""
+
+#: inc/customizer/backend/global/index.php:122
+msgid "Content Background"
+msgstr ""
+
+#: inc/customizer/backend/global/index.php:139
+msgid "Main Font Color"
+msgstr ""
+
+#: inc/customizer/backend/global/index.php:156
+msgid "Secondary Font Color"
+msgstr ""
+
+#: inc/customizer/backend/global/index.php:173
+#: inc/customizer/backend/header/mega_header/topbar.php:137
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer/backend/header/index.php:8
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/backend/header/index.php:21
+msgid "Header Template"
+msgstr ""
+
+#: inc/customizer/backend/header/index.php:26
+msgid "Advanced"
+msgstr ""
+
+#: inc/customizer/backend/header/index.php:27
+msgid "Simplified"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/dropdowns.php:9
+msgid "Dropdowns Background Color"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/dropdowns.php:26
+msgid "Dropdowns Text Color"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/dropdowns.php:43
+msgid "Dropdowns Accent Color"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/elements.php:9
+#: inc/customizer/backend/header/simplified/elements.php:9
+msgid "Account"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/elements.php:28
+#: inc/customizer/backend/header/simplified/elements.php:28
+#: template-parts/headers/header-mobiles.php:135
+#: template-parts/headers/header-sticky-product.php:65
+msgid "Wishlist"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/elements.php:47
+#: inc/customizer/backend/header/simplified/elements.php:47
+msgid "Cart"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/elements.php:57
+#: inc/customizer/backend/header/simplified/elements.php:57
+msgid "Bottom Mini Cart Text"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/elements.php:59
+#: inc/customizer/backend/header/mega_header/topbar.php:272
+#: inc/customizer/backend/header/simplified/elements.php:59
+#: inc/customizer/read_options.php:47 inc/customizer/read_options.php:57
+#: inc/customizer/read_options.php:78
+msgid "Free shipping on all orders over $75"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/index.php:7
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:13
+#: inc/customizer/backend/header/simplified/index.php:4
+msgid "Settings"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/index.php:14
+#: inc/customizer/backend/header/mega_header/logo.php:9
+#: inc/customizer/backend/header/simplified/index.php:11
+#: inc/customizer/backend/header/simplified/logo.php:9
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/index.php:21
+#: inc/customizer/backend/header/simplified/index.php:18
+msgid "Icons"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/index.php:28
+#: inc/customizer/backend/header/mega_header/topbar.php:9
+#: inc/menus/menus.php:10
+msgid "Top Bar"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/index.php:35
+msgid "Dropdowns"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/index.php:42
+msgid "Mobile Header"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/index.php:49
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/logo.php:28
+#: inc/customizer/backend/header/simplified/logo.php:28
+msgid "Logo Width"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/logo.php:52
+#: inc/customizer/backend/header/simplified/logo.php:52
+msgid "Alternative Logo"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:7
+msgid "Mega Button"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:19
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:7
+msgid "Mega Menu"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:45
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:354
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:53
+msgid "Shop - Mega Menu"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:46
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:355
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:54
+msgid "Shop - Category Icons"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:66
+msgid "Enable Mega Button?"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:71
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:131
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:176
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:216
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:282
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:323
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:468
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:88
+#: inc/customizer/backend/header/mega_header/settings.php:119
+#: inc/customizer/backend/header/simplified/settings.php:142
+msgid "On"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:72
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:132
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:177
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:217
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:283
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:324
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:469
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:89
+#: inc/customizer/backend/header/mega_header/settings.php:120
+#: inc/customizer/backend/header/simplified/settings.php:143
+msgid "Off"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:94
+msgid "Wording"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:96
+#: inc/customizer/read_options.php:163
+msgid "Browse Categories"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:126
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:6
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_icons.php:6
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:6
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_icons.php:6
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:8
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_icons.php:8
+msgid "Product Categories"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:171
+msgid "Show Product Counts?"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:211
+msgid "Show Category Icons?"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:277
+msgid "Menu Location"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:318
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:463
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:83
+msgid "Enable Megamenu?"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:349
+#: inc/customizer/backend/header/mega_header/mega_dropdown/mega_dropdown.php:513
+#: inc/customizer/backend/header/mega_header/mega_menu/mega_menu.php:111
+msgid "Dropdown Type"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:80
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:70
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:50
+msgid "Show Product Counts"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:118
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:103
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:72
+msgid "Thumbs for Parent Categories"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:156
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:136
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:94
+msgid "Display Subcategories"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:229
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:199
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:135
+msgid "Featured Products"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:302
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:262
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:176
+msgid "Bottom Links"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:340
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:295
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:198
+msgid "New Arrivals"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:383
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:333
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:225
+msgid "Sale"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_cat_shop_categories.php:461
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_shop_categories.php:401
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_shop_categories.php:271
+msgid "Bottom Call to Action"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:5
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:5
+msgid "Image Upload"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:66
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:46
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:68
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:48
+msgid "Call Us +40 123 123 123"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:98
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:68
+msgid "Business Hours"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:100
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:70
+msgid "Monday — Friday,<br/>9:00 AM — 5:00 PM"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:130
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:90
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:132
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:92
+msgid "support@yourstore.com"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:162
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:112
+msgid "Location"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mega_dropdown/partials/_nav_contact.php:164
+#: inc/customizer/backend/header/mega_header/mega_menu/partials/_mega_contact.php:114
+msgid "17 Princess Road<br/>London, Greater London<br/>NW1 8JRUK, Europe"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mobile.php:11
+msgid "Mobile Mega Button"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mobile.php:16
+#: inc/customizer/backend/header/mega_header/mobile.php:38
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mobile.php:17
+msgid "Large Category Icons"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mobile.php:18
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mobile.php:33
+msgid "Mobile Megamenu"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mobile.php:39
+msgid "Simple links"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mobile.php:54
+msgid "Mobile Menu Text"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/mobile.php:56
+#: inc/customizer/read_options.php:40
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/settings.php:9
+#: inc/customizer/backend/header/simplified/settings.php:10
+msgid "Header Layout"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/settings.php:14
+#: inc/customizer/backend/header/mega_header/topbar.php:38
+#: inc/customizer/backend/header/simplified/settings.php:15
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/settings.php:15
+#: inc/customizer/backend/header/mega_header/topbar.php:39
+#: inc/customizer/backend/header/simplified/settings.php:16
+msgid "Full"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/settings.php:32
+#: inc/customizer/backend/header/simplified/settings.php:55
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/settings.php:51
+#: inc/customizer/backend/header/simplified/settings.php:74
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/settings.php:70
+#: inc/customizer/backend/header/simplified/settings.php:93
+msgid "Header Accent Color"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/settings.php:89
+#: inc/customizer/backend/header/simplified/settings.php:112
+msgid "Header Text Size"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/settings.php:114
+#: inc/customizer/backend/header/simplified/settings.php:137
+msgid "Header Search"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/settings.php:128
+#: inc/customizer/backend/header/simplified/settings.php:151
+msgid "Search by Category"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/sticky.php:9
+msgid "Sticky Header Visibility"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/sticky.php:28
+msgid "Include Top Bar"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/topbar.php:33
+msgid "Top Bar Layout"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/topbar.php:75
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/topbar.php:106
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/topbar.php:168
+msgid "Text Size"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/topbar.php:204
+msgid "Info 1"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/topbar.php:221
+#: inc/customizer/read_options.php:55
+msgid "Call +40 123 456 789"
+msgstr ""
+
+#: inc/customizer/backend/header/mega_header/topbar.php:255
+msgid "Info 2"
+msgstr ""
+
+#: inc/customizer/backend/header/simplified/settings.php:35
+msgid "Header Menu"
+msgstr ""
+
+#: inc/customizer/backend/product/index.php:15
+msgid "Product Page"
+msgstr ""
+
+#: inc/customizer/backend/product/index.php:31 inc/widgets/widget-areas.php:40
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: inc/customizer/backend/product/index.php:83
+msgid "Up-sells Display"
+msgstr ""
+
+#: inc/customizer/backend/product/index.php:100
+msgid "Related Products Display"
+msgstr ""
+
+#: inc/customizer/backend/product/index.php:117
+msgid "Tabs Position"
+msgstr ""
+
+#: inc/customizer/backend/product/index.php:122
+msgid "Product summary"
+msgstr ""
+
+#: inc/customizer/backend/product/index.php:123
+msgid "After product summary"
+msgstr ""
+
+#: inc/customizer/backend/product/index.php:138
+msgid "Description Box Open At All Times"
+msgstr ""
+
+#: inc/customizer/backend/shop/catalog_mode.php:9
+#: inc/customizer/backend/shop/index.php:25
+msgid "Catalog Mode"
+msgstr ""
+
+#: inc/customizer/backend/shop/catalog_mode.php:33
+msgid "Remove Add to Cart Button"
+msgstr ""
+
+#: inc/customizer/backend/shop/catalog_mode.php:64
+msgid "Remove Product Price"
+msgstr ""
+
+#: inc/customizer/backend/shop/custom_archives.php:10
+msgid "Sales"
+msgstr ""
+
+#: inc/customizer/backend/shop/custom_archives.php:16
+msgid "Sale Badge Wording"
+msgstr ""
+
+#: inc/customizer/backend/shop/custom_archives.php:18
+#: inc/customizer/read_options.php:105
+msgid "Sale!"
+msgstr ""
+
+#: inc/customizer/backend/shop/custom_archives.php:33
+msgid "Sales Section in Shop"
+msgstr ""
+
+#: inc/customizer/backend/shop/custom_archives.php:57
+msgid "Sales Section Page Title"
+msgstr ""
+
+#: inc/customizer/backend/shop/custom_archives.php:59
+#: inc/customizer/read_options.php:104
+msgid "On Sale!"
+msgstr ""
+
+#: inc/customizer/backend/shop/custom_archives.php:88
+msgid "Sales Section Page Slug"
+msgstr ""
+
+#: inc/customizer/backend/shop/custom_archives.php:107
+#: inc/customizer/backend/shop/custom_archives.php:170
+#: inc/customizer/read_options.php:108
+msgid "New Products"
+msgstr ""
+
+#: inc/customizer/backend/shop/custom_archives.php:113
+msgid "New Products Section in Shop"
+msgstr ""
+
+#: inc/customizer/backend/shop/custom_archives.php:137
+msgid "New Products Badge Wording"
+msgstr ""
+
+#: inc/customizer/backend/shop/custom_archives.php:139
+#: inc/customizer/read_options.php:109
+msgid "New!"
+msgstr ""
+
+#: inc/customizer/backend/shop/custom_archives.php:168
+msgid "New Products Section Page Title"
+msgstr ""
+
+#: inc/customizer/backend/shop/custom_archives.php:199
+msgid "New Products Section Page Slug"
+msgstr ""
+
+#: inc/customizer/backend/shop/custom_archives.php:230
+msgid "Show new products by:"
+msgstr ""
+
+#: inc/customizer/backend/shop/custom_archives.php:235
+msgid "Day Added"
+msgstr ""
+
+#: inc/customizer/backend/shop/custom_archives.php:236
+msgid "Last Added"
+msgstr ""
+
+#: inc/customizer/backend/shop/custom_archives.php:252
+msgid "Show products added in the past x days:"
+msgstr ""
+
+#: inc/customizer/backend/shop/custom_archives.php:278
+msgid "Show last x products:"
+msgstr ""
+
+#: inc/customizer/backend/shop/index.php:8
+msgid "Shop"
+msgstr ""
+
+#: inc/customizer/backend/shop/index.php:18
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/backend/shop/index.php:32
+msgid "Custom Archives"
+msgstr ""
+
+#: inc/customizer/backend/shop/layout.php:9 inc/widgets/widget-areas.php:20
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/customizer/backend/shop/layout.php:83
+msgid "Layout Style"
+msgstr ""
+
+#: inc/customizer/backend/shop/layout.php:88
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer/backend/shop/layout.php:89
+msgid "List"
+msgstr ""
+
+#: inc/customizer/backend/shop/layout.php:104
+msgid "Second Product Image on Hover"
+msgstr ""
+
+#: inc/customizer/backend/shop/layout.php:121
+msgid "Number of Columns on Mobile"
+msgstr ""
+
+#: inc/demo/ocdi-setup.php:126
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/demo/ocdi-setup.php:127
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/menus/menus.php:11
+msgid "Navigation Button"
+msgstr ""
+
+#: inc/menus/menus.php:12
+msgid "Main Navigation"
+msgstr ""
+
+#: inc/menus/menus.php:13
+msgid "Alternative Main Navigation"
+msgstr ""
+
+#: inc/menus/menus.php:14
+msgid "Secondary Navigation"
+msgstr ""
+
+#: inc/menus/menus.php:15
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/metaboxes/product.php:6
+msgid "Product Options"
+msgstr ""
+
+#: inc/metaboxes/product.php:20
+msgid "Youtube Video"
+msgstr ""
+
+#: inc/widgets/widget-areas.php:30
+msgid "Shop Filters"
+msgstr ""
+
+#: inc/widgets/widget-areas.php:50
+msgid "Pre-Footer Widgets"
+msgstr ""
+
+#: inc/widgets/widget-areas.php:59
+msgid "Footer Widgets"
+msgstr ""
+
+#: search.php:8
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:84
+msgid "Previous Reading"
+msgstr ""
+
+#: single.php:90
+msgid "Next Reading"
+msgstr ""
+
+#: template-parts/content/content-highlight.php:29
+#: template-parts/content/content.php:31
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content/content-none.php:4
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content/content-none.php:12
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: template-parts/content/content-none.php:13
+msgid "Get started here."
+msgstr ""
+
+#: template-parts/content/content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content/content-none.php:24
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content/content-page.php:10
+#: template-parts/content/content-search.php:47
+#: template-parts/content/content-single.php:47
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content/content-search.php:28
+#: template-parts/content/content-single.php:28
+msgid "on "
+msgstr ""
+
+#: template-parts/content/content-search.php:36
+#: template-parts/content/content-single.php:36
+#: template-parts/headers/header-sticky-blog.php:20
+msgid "Comments"
+msgstr ""
+
+#: template-parts/content/content-search.php:36
+#: template-parts/content/content-single.php:36
+msgid "Comment"
+msgstr ""
+
+#: template-parts/headers/header-mobiles.php:126
+msgid "My account"
+msgstr ""
+
+#: template-parts/headers/header-sticky-blog.php:9
+msgid "Reading Now"
+msgstr ""
+
+#: woocommerce/archive-product.php:60
+#, php-format
+msgid "%d items"
+msgstr ""
+
+#: woocommerce/archive-product.php:70
+msgid "Filters"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://thehanger.wp-theme.design/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Available exclusively on the Envato Market."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Get Bowtied"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.getbowtied.com/"
+msgstr ""

@@ -1,0 +1,41 @@
+
+---Downloaded files---
+The import files for: Default were successfully downloaded!
+Initial max execution time = 900
+Files info:
+Site URL = http://import.getbowtied.com/theretailerpro
+Data file = /var/www/vhosts/getbowtied.com/import.getbowtied.com/theretailerpro/wp-content/themes/theretailerpro/inc/demo/theretailerpro.wordpress.xml
+Widget file = /var/www/vhosts/getbowtied.com/import.getbowtied.com/theretailerpro/wp-content/themes/theretailerpro/inc/demo/theretailerpro.widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Image - No Title - Widget already exists
+Text - The Retailer Blog - Widget already exists
+
+Shop Sidebar : 
+
+WooCommerce product categories with icon - No Title - Widget already exists
+
+Pre-Footer Widgets : 
+
+eCommerce Info - Free Worldwide Shipping - Widget already exists
+eCommerce Info - Easy 30 Days Returns - Widget already exists
+eCommerce Info - eCommerce Info Title - Widget already exists
+eCommerce Info - 100% Secure Checkout - Widget already exists
+
+Footer Widgets : 
+
+Product Search - No Title - Widget already exists
+Navigation Menu - No Title - Widget already exists
+Navigation Menu - No Title - Widget already exists
+Navigation Menu - No Title - Widget already exists
+
+
+
+---pt-ocdi/after_import---
+

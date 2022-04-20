@@ -1,0 +1,31 @@
+.gbt_18_th_editor_social_media_wrapper {
+  padding: 0.5em;
+  width: 100%; }
+  .gbt_18_th_editor_social_media_wrapper .gbt_18_th_editor_social_media_setup {
+    color: #5d5d5d;
+    font-size: 13px;
+    margin-bottom: 0;
+    margin-top: 0; }
+
+ul.shortcode_socials {
+  clear: both;
+  display: block;
+  margin: 15px 0.5em 0 !important;
+  padding: 0;
+  vertical-align: middle; }
+  ul.shortcode_socials.left {
+    text-align: left; }
+  ul.shortcode_socials.center {
+    text-align: center; }
+  ul.shortcode_socials.right {
+    text-align: right; }
+  ul.shortcode_socials li.th_social_icon {
+    display: inline-block;
+    font-size: 24px;
+    list-style: none;
+    line-height: 1;
+    margin: 10px 30px 10px 0; }
+    ul.shortcode_socials li.th_social_icon:last-child {
+      margin-right: 0; }
+    ul.shortcode_socials li.th_social_icon a.th_social_icon_link {
+      pointer-events: none; }

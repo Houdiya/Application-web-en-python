@@ -1,0 +1,38 @@
+@-webkit-keyframes post_fade_in {
+  100% {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1); } }
+
+@keyframes post_fade_in {
+  100% {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1); } }
+
+div.blog-articles article {
+  opacity: 0;
+  -webkit-transform: scale(0.95);
+  -ms-transform: scale(0.95);
+  transform: scale(0.95);
+  -webkit-animation: post_fade_in .25s;
+  animation: post_fade_in .25s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  -webkit-animation-delay: 2s;
+  animation-delay: 2s;
+  will-change: opacity, transform; }
+
+div.blog-articles.js_animated article {
+  -webkit-animation: none;
+  animation: none; }
+  div.blog-articles.js_animated article.animated {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: opacity .25s ease-in-out, -webkit-transform .25s ease-in-out;
+    transition: opacity .25s ease-in-out, -webkit-transform .25s ease-in-out;
+    -o-transition: opacity .25s ease-in-out, transform .25s ease-in-out;
+    transition: opacity .25s ease-in-out, transform .25s ease-in-out;
+    transition: opacity .25s ease-in-out, transform .25s ease-in-out, -webkit-transform .25s ease-in-out; }
